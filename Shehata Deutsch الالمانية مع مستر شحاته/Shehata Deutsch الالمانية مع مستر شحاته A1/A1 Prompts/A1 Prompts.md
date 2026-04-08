@@ -1,0 +1,27 @@
+
+
+# Learning Words Prompts 
+
+## Create Sentence from Words 
+[[Generate Words sentence prompts ]] | [the chat of that is ](https://claude.ai/chat/596ab699-5b0b-4e3f-9dfa-116ddfe30f4d) 
+## Create Dialogues & Paragraphs from Words 
+[[Weekly Dialogues Prompts ]]  |  [[Dialogues sentence prompts ]]
+[[Weekly Paragraphs Prompts ]] | [[Paragraphs sentence prompts ]]
+[[Daily Dialogues Prompts ]]
+[[Daily Paragraphs ]]
+[text to voice ](https://www.text-to-speech.online/)
+# Practice Set Prompts 
+
+[[Summarize German Lessons for Practice Set Generation]] 
+
+[[Updated Practice Set Generation Prompt]] |  [[Practice Sets prompt Enhanced ]]
+
+[[Report Generator Prompt]]| [[Report Generate V2 ]] 
+
+[Prompts Dialogues & Paragraphs chat](https://claude.ai/chat/0a3e87bf-7ef3-4025-8fcc-354ca6e3682a)  ||| [General Summarize & Practice set Report](https://claude.ai/chat/3b72cdd3-f853-4193-88c6-10a6646f2970)
+
+
+
+
+[[Temp for prompts ]]
+[[Temp for prompts v2]]
