@@ -18,6 +18,9 @@
 
 [[Report Generator Prompt]]| [[Report Generate V2 ]] 
 
+[[Practice Pre Lessons Preparation ]] 
+[[Lesson note generate prompt ]]
+
 [Prompts Dialogues & Paragraphs chat](https://claude.ai/chat/0a3e87bf-7ef3-4025-8fcc-354ca6e3682a)  ||| [General Summarize & Practice set Report](https://claude.ai/chat/3b72cdd3-f853-4193-88c6-10a6646f2970)
 
 

@@ -7,10 +7,13 @@
 
 ## Sets 
 [[known B1 words ]]
+[[B1 All words Sentence ]]
 
-[[B1 Pure Words ]] | [[Fachinformatiker anwendungsentwicklung vocabulary]]
-[[Set  1 ]]
 [[B1 Words 2300 Set ]]
 [[B1 Words sets comparison ]] 
 
+[[B1 Pure Words ]] | [[Fachinformatiker anwendungsentwicklung vocabulary]]
+
+[[Set  1 ]]
 [[Set 2 ]]
+[[Set 3]]

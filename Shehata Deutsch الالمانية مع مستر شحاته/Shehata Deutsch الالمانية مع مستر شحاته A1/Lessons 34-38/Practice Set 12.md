@@ -37,11 +37,21 @@ Translate each sentence. No hints. No word bank.
 15. She is not tired, because she slept well — at least that's what she says.
 
 ⇒ 
-1. ***
+1. Er hat das Contract noch nicht unterschreiben , sondern  der Manager hier nicht 
 2. Der Hund des Nachbar ist nicht kleinen Hund aber einen Großen Hund .
 3. Sie fährt mit dem Auto nicht , sondern fährt mit dem Fahrrad zu Hamburg 
 4. Wie viele Jahren arbeitest du hier ?
-5. Wie sind ins Haus nicht ; wie 
+5. Wir sind nicht  zu  Haus  ; wir gehen zur Bäckerei   .
+6. Er aussehen nicht gut -- er aussehen müde ,  gesundheit nicht .
+7. Ich interessiere  mich für Butter , Eis und Eier gekauft , aber sie haben nie .
+8. Er ist noch nicht Student -- Er arbeitet im Supermarket
+9. Seit wann essen Sie nicht Brot ? Seit drei Jahren 
+10. Sie rieft noch nicht an , weil sie noch zu Arbeit ist .
+11. Das ist nicht ihre Aufgabe , sondern seine Aufgabe 
+12. Sie haben gar klein Glück finden Mehl im Supermarket 
+13. Er fängt die Arbeit nicht um acht an , sondern um vier.
+14. Die Meinung meines Kollegen ist nicht Falsch , sondern die Meinung nicht erledigt 
+15. Sie ist nicht müde , sondern sie gut geschlafft hat -- Das sagt sie .  
 
 ---
 
@@ -53,24 +63,24 @@ Fill in the blank with the correct adjective ending. No hints.
 
 **With definite article (der/die/das):**
 
-1. Der ____ (alt) Käse liegt im Kühlschrank.
-2. Die ____ (frisch) Milch kostet mehr.
-3. Das ____ (weich) Brot schmeckt besser.
-4. Die ____ (teuer) Eier sind ausverkauft.
+1. Der alte  (alt) Käse liegt im Kühlschrank.
+2. Die frische (frisch) Milch kostet mehr.
+3. Das weiche  (weich) Brot schmeckt besser.
+4. Die teuern  (teuer) Eier sind ausverkauft.
 
 **With indefinite article (ein/eine):**
 
-5. Ein ____ (groß) Supermarkt hat alles.
-6. Eine ____ (klein) Bäckerei verkauft Brötchen.
-7. Ein ____ (gut) Käse kostet nicht wenig.
-8. Ein ____ (kalt) Kaffee ist kein guter Kaffee.
+5. Ein großer  (groß) Supermarkt hat alles.
+6. Eine kleine  (klein) Bäckerei verkauft Brötchen.
+7. Ein gutes  (gut) Käse kostet nicht wenig.
+8. Ein kalter  (kalt) Kaffee ist kein guter Kaffee.
 
 **No article (standalone):**
 
-9. ____ (Frisch) Butter ist besser als Margarine.
-10. ____ (Alt) Brot kann man noch essen.
-11. ____ (Kalt) Milch direkt aus dem Kühlschrank — perfekt.
-12. ____ (Gut) Honig kommt aus der Region.
+9. Frischer  (Frisch) Butter ist besser als Margarine.
+10. Altes  (Alt) Brot kann man noch essen.
+11. Kalte (Kalt) Milch direkt aus dem Kühlschrank — perfekt.
+12. Guter (Gut) Honig kommt aus der Region.
 
 ⇒ _____________________________________________
 
@@ -87,7 +97,13 @@ Reconstruct each sentence. Every word is given; nothing is missing and nothing i
 5. `das / noch / Hackfleisch / unterschrieben / hat / er / nicht / Angebot / für`
 6. `fährt / mit / dem / Fahrrad / sie / nach / Hamburg / weil / kein / sie / Geld / hat`
 
-⇒ _____________________________________________
+⇒ 
+1. Richard kauft jeden Morgen einen frischen käse 
+2. Ich sehe hier weder Milch noch Butter 
+3. Ich interessiere mich seit drei Wochen für diese Bäckerei 
+4. Die Chefin arbeitet mehr , weil  nicht krank  sie ist . 
+5. Er unterschrieben das Angebot noch  für Hackfleisch  
+6. Sie fährt mit dem Fahrrad nach Hamburg , weil kein Geld sie hat .
 
 ---
 
@@ -95,13 +111,13 @@ Reconstruct each sentence. Every word is given; nothing is missing and nothing i
 
 Each sentence contains a blank requiring either the nominative or accusative form. Write the correct article and explain in one word why (Nom. or Akk.).
 
-1. Das ist ___ Käse. (der / den)
-2. Ich kaufe ___ Käse. (der / den)
-3. Hast du ___ Brötchen? (ein / einen)
-4. ___ Brötchen liegt auf dem Tisch. (Ein / Einen)
-5. Er braucht ___ Zucker. (ein / einen / keinen — choose and justify)
-6. Kennst du ___ Mann dort? (der / den)
-7. Das ist ___ Mann, der täglich hier kauft. (ein / einen)
+1. Das ist der Käse. (der / den)
+2. Ich kaufe den  Käse. (der / den)
+3. Hast du ein Brötchen? (ein / einen)
+4. Ein Brötchen liegt auf dem Tisch. (Ein / Einen)
+5. Er braucht einen  Zucker. (ein / einen / keinen — choose and justify)
+6. Kennst du den Mann dort? (der / den)
+7. Das ist ein  Mann, der täglich hier kauft. (ein / einen)
 
 ⇒ _____________________________________________
 
@@ -132,7 +148,27 @@ Write one complete, correct German sentence for each prompt. No hesitation. No n
 19. Contradict: "Sie hat kein Glück." — She has a lot of luck.
 20. Say he no longer lives at home — he has his own apartment.
 
-⇒ _____________________________________________
+⇒ 
+1. Ich kaufe das Mehl noch nicht 
+2. Seit wie viele Jahren arbeiten Sie hier ?
+3. Das ist keinen Butter -- ist Eis 
+4. Er fährt mit dem Bus -- nein , er fährt mit dem Fahrrad 
+5. Das frische Brot kommt  noch nicht 
+6. Ich interessiere mich für Deutschlands käse 
+7. Er kauft kein Fleisch , weil Vegetarier er ist 
+8. Sie ist nicht länger Student -- Sie hat eine Arbeit jetzt 
+9. Wohin gehen Sie ?
+10. Ich habe heute gar kein Glück
+11. Die frische Ei 
+12. Das ist kein guter Käse -- sondern das ist ein guter Käse 
+13. Er unterschreibt das Formular noch nicht , weil die Manager nicht hier 
+14. Ich fahre mit Fahrrad zur Arbeit , nicht mit Auto
+15. Seit wie viele Jahren arbeitet sie hier ?
+16. Ihre arbeiten ist Wichtigen
+17. Das Auto meines Nachbars ist kaputt 
+18. Das ist guter Butter 
+19. Sie hat kein Glück -- Sie hat gar Glück 
+20. Er wohnt nicht länger im Haus -- Er hat seine Wohnung 
 
 ---
 
@@ -161,7 +197,7 @@ Write one complete, correct German sentence for each prompt. No hesitation. No n
 - ihre Aufgabe (lowercase, formal context) → Ihre Aufgabe
 - weil + verb in position 2 → weil + verb-final
 
-⇒ _____________________________________________
+⇒ Sehr geehrte Damen und Herren .Ich bin Fares . Ich bin fünfundzwanzig Jahre alt und ich bin ein bisschen groß und nicht schlank auch nicht dick . Ich bin Informatiker von Beruf . Ich beginne um Uhr und beende um vier Uhr nach Mittag arbeiten . Ich interessiere mich für Ihre Teilzeitarbeit im Supermarket . Ich bin seit drei Wochen interessiere mich für Ihre Lebensmittel Einzelhandel  . Und ich liebe in Ihr Supermarket arbeiten . bin ich nicht fleißig ? doch , ich bin sehr fleißig und ein bisschen ruhig . Und ich bin weder laut noch faul .Ich habe kein Auto . Ich fahre mit Fahrrad zur Arbeit , weil das Auto meines Vater kaputt ist . Wann beginnt die Teilzeitarbeit und wann beendet ? Wie viele kostet Uhr in Ihre Teilzeitarbeit ?   Mit freundlichen Grüßen 
 
 ---
 
@@ -188,4 +224,9 @@ _This will appear again in future sets._
 4. Die Aufgabe — sie gehört dem Kollegen.
 5. Der Geschmack — er kommt vom Honig.
 
-⇒ _____________________________________________
+⇒ 
+1. Das Fahrrad meines Bruders
+2. Die Meinung meines Nachbars 
+3. Das Rezept meiner Großmutter 
+4. Die Aufgabe des Kollegen 
+5. Deer Geschmack des Honiges 

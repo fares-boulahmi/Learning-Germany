@@ -1,132 +1,87 @@
-You are a German language content generator. Create 10 realistic dialogues between two people about everyday situations (apartment viewing, shopping, meeting friends, doctor visit, restaurant, workplace, etc.).
+You are a German language teacher. I will give you a list of German vocabulary words. For each word, generate all its meaningful real-world states depending on its type:
 
-**Input Requirements:**
-- Known words: [Greetings: Guten Tag - Hallo - Auf Wiedersehen - Tschüss - Guten Morgen - Guten Abend - Gute Nacht
+- **Verb** → conjugate in present tense for: ich, du, er/sie/es, wir, ihr, sie/Sie. Use a natural, logical sentence for each.
+- **Noun** → show it in: Nominative singular, Accusative singular, Dative singular, Genitive singular, Nominative plural, Accusative plural, Dative plural. Use a natural sentence for each.
+- **Adjective** → decline it with a noun in: Nominative (m/f/n), Accusative (m/f/n), Dative (m/f/n). Use a natural sentence for each.
 
-Sein: ich bin - du bist - er ist - sie ist - es ist - wir sind - ihr seid - Sie sind - sie sind
+Output the results as **two files**:
 
-Basic: Wer bist du - Was ist dein Name - Mein Name ist - Wie geht es dir - Wie geht’s - Mir geht’s gut - Mir geht’s schlecht - Mir geht’s super - Mir geht’s nicht gut - Sind Sie - Bist du - Ja - Nein - Noch einmal bitte - Danke - Ich verstehe nicht - Ich weiß nicht
+---
 
-Alphabet: wie schreibt man - Das schreibt man
+**File 1 – Markdown file** named `german_memo.md`
+A single mixed table with these columns:
 
-Numbers: null - ein - zwei - drei - vier - fünf - sechs - sieben - acht - neun - zehn - elf - zwölf - dreizehn - vierzehn - fünfzehn - sechzehn - siebzehn - achtzehn - neunzehn - zwanzig - dreißig - vierzig - fünfzig - sechzig - siebzig - achtzig - neunzig - hundert - tausend - Million - Milliarde
+| German Sentence | English Translation | Arabic Translation  | Useful Info |
 
-Time: Datum - heute - morgen - Woche - Montag - Dienstag - Mittwoch - Donnerstag - Freitag - Samstag - Sonntag - Januar - Februar - März - April - Mai - Juni - Juli - August - September - Oktober - November - Dezember - Frühling - Sommer - Herbst - Winter - Uhr - Mittag - Mitternacht - Sekunde - Minute - Stunde
+Rules for the **Useful Info** column:
+- Keep it minimal but useful.
+- Mention gender (m/f/n) only when helpful.
+- Mention the case and reason if it adds value (e.g. "nach → always Dative").
+- For verbs, mention the conjugation form (e.g. "ich-form", "ihr-form").
+- Use short labels, no full sentences. Example: `Tisch (m) · Dative → dem` or `nach + Dative always`.
+- If nothing useful to add, leave the cell empty.
 
-Articles: der - die - das - ein - eine
+---
 
-Personal: Wie heißen Sie - Ich heiße - Vorname - Familienname - wohnen - lebe - Adresse - Wie alt bist du - Jahre alt - männlich - weiblich - ledig - verheiratet - Telefonnummer
+**File 2 – CSV file** named `anki_german_arabic.csv`
+- Anki-ready, semicolon `;` separator
+- Two columns only: German sentence ; Arabic translation
+- No header row
+- Wrap each field in double quotes
+- Arabic translation must be natural Arabic, not literal
 
-Questions: Wann - Was - Wer - Wie - Wo - Woher - Wohin
+---
 
-Countries: USA - Großbritannien - Australien - Irland - Deutschland - Schweiz - Türkei - Österreich - Tunesien - China - Indien
+Do not output anything outside the two files. Just create and return both files.
 
-Nationalities: Amerikaner - Australier - Tunesier - Engländer - Irländer - Deutscher - Schweizer - Türker - Österreicher - Koreaner - Chineser - Indianer
+Here are my words:
+[### Set 3: Shopping & Money
 
-Languages: Deutsch - Englisch - Arabisch - Spanisch - Chinesisch - Koreanisch - spreche - sprichst - sprechen
+**Verbs:**
 
-Family: Mutter - Schwester - Frau - Tochter - Großmutter - Oma - Tante - Kusine - Vater - Bruder - Mann - Sohn - Großvater - Opa - Onkel - Cousin - Familie - Personen
-
-Haben: ich habe - du hast - er hat - sie hat - es hat - wir haben - ihr habt - Sie haben - sie haben
-
-Animals: Hund - Vogel - Bär - Löwe - Katze - Schlange - Maus - Biene - Kaninchen - Meerschweinchen - Pferd
-
-Adjectives: groß - klein - schlank - dick - jung - alt - ruhig - laut - nett - gemein - faul - fleißig - freundlich - unfreundlich - intelligent - unintelligent - launisch - kreativ - lustig
-
-Colors: rot - gelb - rosa - grün - orange - lila - blau - grau - weiß - schwarz - bunt
-
-Body: Augen - Haare - kurz - lang - blond - braun - grau - schwarz
-
-House: Haus - Wohnung - Garten - Balkon - Garage - Terrasse - Küche - Schlafzimmer - Badezimmer - Wohnzimmer - Esszimmer - Zimmer
-
-Furniture: Sofa - Tisch - Fernseher - Stuhl - Teppich - Kommode - Bett - Kleiderschrank - Badewanne - Dusche - Toilette - Kühlschrank - Herd - Spüle - Waschmaschine - Spülmaschine
-
-Prepositions: aus - bei - mit - nach - seit - zu - von - zwischen - an - in - unter - neben - auf - über - vor - hinter
-
-Daily: aufstehen - aufwachen - fernsehen - duschen - frühstücken - arbeiten - essen - gehen - kommen - schlafen - Zähne putzen - verlassen
-
-Jobs: Anwalt - Apotheker - Arzt - Bibliothekar - Chef - Kellner - Krankenpfleger - Lehrer - Schauspieler - Übersetzer - Informatiker - Verkäufer
-
-Workplaces: Büro - Schule - Krankenhaus - Geschäft - Supermarkt - Reisebüro - Café - Restaurant - Labor - Fabrik
-
- beginnen -beenden -dauern -verbringen - planen -organisieren -vorbereiten -erledigen -verschieben -vergessen -erinnern -warten -beeilen -entspannen -pausieren -der Alltag -die Gewohnheit -der Termin -die Verabredung -der Zeitplan -die Freizeit -die Beschäftigung - der Feierabend -das Wochenende -der Feiertag -die Pause -der Stress -die Eile -die Verspätung -die Pünktlichkeit -beschäftigt -frei -pünktlich -verspätet -regelmäßig -gelegentlich -täglich -wöchentlich - monatlich -  gewöhnlich
-]
-- Focus words: [**Verbs:**
-
-1. fühlen - to feel
-2. schmerzen - to hurt/ache
-3. erkranken - to fall ill
-4. genesen - to recover
-5. husten - to cough
-6. niesen - to sneeze
-7. untersuchen - to examine
-8. behandeln - to treat
-9. verschreiben - to prescribe
-10. einnehmen - to take (medicine)
-11. verletzen - to injure
-12. heilen - to heal
-13. schwitzen - to sweat
-14. zittern - to tremble
-15. atmen - to breathe
+1. kaufen - to buy
+2. verkaufen - to sell
+3. bezahlen - to pay
+4. kosten - to cost
+5. sparen - to save
+6. ausgeben - to spend
+7. umtauschen - to exchange
+8. zurückgeben - to return
+9. bestellen - to order
+10. liefern - to deliver
+11. verdienen - to earn
+12. leihen - to lend/borrow
+13. schulden - to owe
+14. überweisen - to transfer
+15. abheben - to withdraw
 
 **Nouns:**
 
-1. die Gesundheit - health
-2. die Krankheit - illness
-3. die Erkältung - cold
-4. das Fieber - fever
-5. der Schmerz - pain
-6. die Kopfschmerzen - headache
-7. der Husten - cough
-8. die Grippe - flu
-9. die Allergie - allergy
-10. das Medikament - medication
-11. die Tablette - pill/tablet
-12. der Körper - body
-13. die Haut - skin
-14. das Blut - blood
-15. die Verletzung - injury
+1. der Preis - price
+2. das Geld - money
+3. der Euro - euro
+4. die Rechnung - bill/invoice
+5. die Quittung - receipt
+6. das Bargeld - cash
+7. die Kreditkarte - credit card
+8. der Rabatt - discount
+9. die Mehrwertsteuer - VAT
+10. das Angebot - offer
+11. der Einkauf - purchase
+12. der Kunde - customer
+13. die Kasse - cash register
+14. das Konto - account
+15. die Überweisung - bank transfer
 
 **Adjectives:**
 
-1. gesund - healthy
-2. krank - sick
-3. müde - tired
-4. schwach - weak
-5. stark - strong
-6. fit - fit
-7. schmerzhaft - painful
-8. chronisch - chronic
-9. ansteckend - contagious
-10. allergisch - allergic
-]
-
-**Content Rules:**
-1. **Word Distribution:**
-   -  50% of content uses known words
-   - 40% incorporates focus words naturally
-   - 10% includes necessary connecting or supporting words to maintain sentence logic and clarity
-
-1. **Focus Word Requirements (for ALL  words across the 10 dialogues):**
-   - **Verbs:** Each verb must appear in at least 4 different forms (different persons, tenses: present, past, perfect)
-   - **Nouns:** Each noun must appear in at least 3 different cases (Nominativ, Akkusativ, Dativ) AND plural form
-   - **Adjectives:** Each adjective must appear with at least 2 different endings
-
-3. **Structure:**
-   - Each dialogue: 12-16 exchanges
-   - Two speakers with clear names
-   - Natural questions and answers
-   - Include greetings, farewells, and transitions
-   - Use formal (Sie) and informal (du) appropriately for different contexts
-
-4. **Quality Standards:**
-   - Realistic conversational flow
-   - Appropriate social register
-   - Force case usage through prepositions and verbs
-   - Include time expressions, locations, and descriptions
-
-**Output Format:**
-Ten dialogues in markdown format:
-**Dialogue Title**
-Person A: [text]
-Person B: [text]
+1. teuer - expensive
+2. billig - cheap
+3. günstig - affordable/favorable
+4. kostenlos - free (of charge)
+5. reduziert - reduced
+6. ausverkauft - sold out
+7. verfügbar - available
+8. knapp - scarce
+9. wertvoll - valuable
+10. preiswert - good value]
