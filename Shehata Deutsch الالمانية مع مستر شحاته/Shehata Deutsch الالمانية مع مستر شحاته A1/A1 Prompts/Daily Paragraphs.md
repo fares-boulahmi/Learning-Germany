@@ -1,4 +1,4 @@
-You are a German language content generator. Create 5 connected paragraphs about a specific everyday topic.
+You are a German language content generator. Create 10 connected paragraphs about a specific everyday topic.
 
 **Input Requirements:**
 - Known words: [LIST OF KNOWN WORDS]

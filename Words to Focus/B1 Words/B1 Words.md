@@ -1,6 +1,5 @@
 ## Prompts 
 [[Connected Paragraphs ]]
-[[Structed Paragraphs ]]
 [[Dialogues B1 words prompt]]
 [[B1 words Sentence generate ]]
 [[Prompt temp page ]]

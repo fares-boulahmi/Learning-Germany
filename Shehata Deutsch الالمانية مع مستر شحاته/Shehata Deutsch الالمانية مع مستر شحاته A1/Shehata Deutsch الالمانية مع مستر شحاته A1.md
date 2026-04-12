@@ -15,3 +15,7 @@
 [[Lessons 34-38]]
 # Lessons 40-46
 [[Lessons 40-46]]
+# Lessons 47-53
+[[Lessons 47-53]]
+# Lessons 54-60
+[[Lessons 54-60]]

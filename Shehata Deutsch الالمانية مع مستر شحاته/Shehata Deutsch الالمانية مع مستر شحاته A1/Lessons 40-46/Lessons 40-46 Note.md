@@ -209,7 +209,7 @@ Strong verbs undergo a **vowel change** in the 2nd and 3rd person singular (du /
 
 #### Conjugation Table — Core Verbs
 
-||fahren|schlafen|sehen|lesen|geben|sprechen|
+| |fahren|schlafen|sehen|lesen|geben|sprechen|
 |---|---|---|---|---|---|---|
 |ich|fahre|schlafe|sehe|lese|gebe|spreche|
 |du|**fährst**|**schläfst**|**siehst**|**liest**|**gibst**|**sprichst**|
@@ -228,7 +228,7 @@ Strong verbs undergo a **vowel change** in the 2nd and 3rd person singular (du /
 
 #### Special Verbs
 
-||werden|wissen|lassen|tun|
+| |werden|wissen|lassen|tun|
 |---|---|---|---|---|
 |ich|werde|weiß|lasse|tue|
 |du|wirst|weißt|lässt|tust|
@@ -350,7 +350,7 @@ The separable prefix goes to the end:
 
 #### haben & sein in Imperative
 
-||sein|haben|
+| |sein|haben|
 |---|---|---|
 |du|**Sei** höflich!|**Hab** Geduld!|
 |ihr|**Seid** höflich!|**Habt** Geduld!|
@@ -408,6 +408,16 @@ Translate each sentence into German. Pay attention to possessive pronouns, accus
 10. I am sending the letter through the post.
 
 ⇒
+1. Sie sucht  ihren Regenschirm
+2. Er braucht sein Auto und sein Handy 
+3. Wie kaufen ein Geschenk für unsere Mutter 
+4. Können Sie meine Dokumentieren mitnehmen
+5. Sie gehen durch Europe ohne ihre Kinder 
+6. Die Kinder wollen ihre Großeltern besuchen 
+7. Nehmen Sie Ihren Kuli bitte , Herr Meier !
+8. Sie kann ohne ihn leben 
+9. Er arbeitet gegen den Wind 
+10. Er schicke die Brief durch die Post 
 
 ---
 
@@ -424,6 +434,13 @@ Reconstruct each sentence and put the verb into the correct imperative or presen
 7. `öffne / bitte / die / Tür / !`
 
 ⇒
+1. Vergiss dein Hausaufgaben !
+2. Nehmt das Buch aus dem Regal !
+3. Er sucht immer seinen Schlüssel 
+4. Lauf nicht so schnell ! 
+5. Nehmen Sie bitte Platz !
+6. Sie besucht jeden Monat ihren Vater 
+7. Öffne die Tür bitte ! 
 
 ---
 
@@ -440,7 +457,7 @@ Complete the restaurant dialogue with the correct prepositions and verb forms. N
 > Kellner: Hat es __________ (8)?  
 > Gast: Ja, danke. Es war sehr gut!
 
-⇒
+⇒ nehmen - nehme -und  - zu - ohne  - ohne  - mit  - geschmeckt 
 
 ---
 
@@ -450,7 +467,7 @@ The following paragraph contains **8 errors** involving possessive pronouns (acc
 
 > Heute besucht Maria ihre Eltern. Sie nimmt sein Koffer und fährt los. Unterwegs sieht sie einen Unfall. Sie ruft sofort meine Mutter an. Meine Mutter sagt: „Verlässt du deinen Weg nicht!" Maria vergisst sein Stress und fährt weiter. Sie isst zu Mittag einen Apfel und trinkt kein Wasser. Ihren Vater freut sich sehr, als sie ankommt.
 
-⇒
+⇒ Heute besucht Maria ihre Eltern . Sie nimmt ihr Koffer und fährt los . Unterwegs sieht sie einen Unfall . Sie ruft sofort ihre Mutter an . Ihre Mutter sagt : ,,Verlässt du deinen Weg nicht !" Maria vergisst ihr Stress und fährt weiter . Sie isst zu Mittag einen Apfel und trinkt kein Wasser . Ihr Vater freut sich sehr , als sie ankommt 
 
 ---
 
@@ -458,14 +475,14 @@ The following paragraph contains **8 errors** involving possessive pronouns (acc
 
 Change the underlined noun to the gender indicated in brackets, and adjust the possessive pronoun and verb accordingly.
 
-1. Er sucht **seine Brille**. → [der Schlüssel] → ___________________
-2. Sie besucht **ihren Vater**. → [die Mutter] → ___________________
-3. Wir brauchen **unsere Tasche**. → [der Rucksack] → ___________________
-4. Ich liebe **meinen Hund**. → [die Katze] → ___________________
-5. Er vergisst **sein Buch**. → [der Kuli] → ___________________
-6. Sie waschen **ihren Wagen**. → [das Auto] → ___________________
+1. Er sucht **seine Brille**. → [der Schlüssel] → Er sucht seinen Schlüssel 
+2. Sie besucht **ihren Vater**. → [die Mutter] → Sie besucht ihre Mutter 
+3. Wir brauchen **unsere Tasche**. → [der Rucksack] → Wir brauchen unseren Rucksack 
+4. Ich liebe **meinen Hund**. → [die Katze] → Ich liebe meine Katze 
+5. Er vergisst **sein Buch**. → [der Kuli] → Er vergisst seinen Kuli 
+6. Sie waschen **ihren Wagen**. → [das Auto] → Sie waschen ihr Auto 
 
-⇒
+⇒ 
 
 ---
 
@@ -483,6 +500,14 @@ Each sentence has **one error** — in verb form, mögen/gern/lieber usage, or i
 8. Helft dem alte Mann! Seid freundlich!
 
 ⇒
+1. Ich esse gern Fisch , aber er isst gern auch kein Fleisch 
+2. Magst du Sport ? Nein , ich mag keinen Sport .
+3. Fahrt Langsamer , Kinder ! -- Doch , wie fahren immer so .
+4. Trinkst du gerne Kaffee ? -- Nein , ich trinke gerne kein Kaffee .
+5. Sie möchte ein Glas Wein , bitte .
+6. Lies das Buch laut vor ! 
+7. Wir mögen keinen Fisch -- wir essen Lieber Pizza
+8. Helft dem alten Mann ! Seid freundlich 
 
 ---
 
@@ -503,7 +528,15 @@ H. _Gast: Ja, es war **wunderschön** lecker. Danke._
 
 **Task:** Write the dialogue in the correct order and fix every underlined error.
 
-⇒
+⇒ 
+Kellner : Guten Abend ! Nehmen Sie bitte Platz !
+Gast : Ich möchte eine Zwiebelsuppe und ein Lammfilet , bitte .
+Kellner : Und was bekommen Sie trinken ?
+Gast : in Glas Rotwein, bitte. Aber **ohne** Pommes — ich esse gerne  Bratkartoffeln.
+_Kellner: Möchten Sie auch ein Dessert?_  
+_Gast: Nein danke, ich bin satt. Bitte, bringen Sie die Rechnung._ 
+Kellner: Hat es geschmeckt?
+Gast: Ja, es war  lecker. Danke
 
 ---
 

@@ -11,15 +11,21 @@
 [[Daily Paragraphs ]]
 [text to voice ](https://www.text-to-speech.online/)
 # Practice Set Prompts 
+first step take from pdf the lesson and put in generate lessons not [[Lesson note generate prompt ]] 
+then solve the lessons exercises 
+after that put the report from last practice [[Report Generate V2 ]] put into the practice set generate with lessons summary  [[Summarize German Lessons for Practice Set Generation]] into generate practice set  [[Practice Sets prompt Enhanced ]] 
+after that make the lesson material from error to avoid next time 
+
 
 [[Summarize German Lessons for Practice Set Generation]] 
 
 [[Updated Practice Set Generation Prompt]] |  [[Practice Sets prompt Enhanced ]]
 
 [[Report Generator Prompt]]| [[Report Generate V2 ]] 
+[[Generate Pre-Practice Lessons ]] | [[Generate Pre-Practice Lessons V2 ]]
 
 [[Practice Pre Lessons Preparation ]] 
-[[Lesson note generate prompt ]]
+
 
 [Prompts Dialogues & Paragraphs chat](https://claude.ai/chat/0a3e87bf-7ef3-4025-8fcc-354ca6e3682a)  ||| [General Summarize & Practice set Report](https://claude.ai/chat/3b72cdd3-f853-4193-88c6-10a6646f2970)
 
