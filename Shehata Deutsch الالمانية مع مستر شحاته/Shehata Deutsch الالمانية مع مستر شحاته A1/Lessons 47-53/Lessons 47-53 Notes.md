@@ -347,13 +347,16 @@ Translate the following sentences into German. Each sentence requires you to cor
 10. He switches off the radio and goes to sleep.
 
 ⇒
-1. Sie steht jeden Morgen um sechs Uhr auf 
-2. Kannst du die Kinder aus Schule abholen ?
-3. Er kann der Wein und der käse zu Party bringen 
-4. Wie können das Licht nicht abmachen -- den Schalter ist kaputt 
-5. Kann du das Formular alleine Unterschreiben ?
-6. Sie kann nach Einkaufen die Lebensmittel weglegen 
-7. Sie 
+1. Sie steht jeden Morgen um 6 Uhr auf.
+2. Kannst du die Kinder von der Schule abholen?
+3. Er kann Wein und Käse zur Party mitbringen.
+4. Wir können das Licht nicht ausmachen — der Schalter ist kaputt.
+5. Kannst du das Formular selbst ausfüllen?
+6. Sie kann die Lebensmittel nach dem Einkaufen einräumen .
+7. Sie steigen am Hauptbahnhof in den Bus ein.
+8. Ich kann die Wäsche heute nicht aufhängen — es regnet.
+9. Kann sie die Post auf dem Heimweg abholen?
+10. Er macht das Radio aus und geht schlafen.
 
 ---
 

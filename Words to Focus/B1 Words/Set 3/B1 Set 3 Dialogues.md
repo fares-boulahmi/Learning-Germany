@@ -1,4 +1,4 @@
-I'll generate the 10 German dialogues directly here, following all the content rules.
+ I'll generate the 10 German dialogues directly here, following all the content rules.
 
 ---
 

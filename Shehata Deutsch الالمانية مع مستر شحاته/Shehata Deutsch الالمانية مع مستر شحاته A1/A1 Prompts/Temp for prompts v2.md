@@ -1,342 +1,489 @@
-# German Teaching Material Generator
-
-## What You Paste In
-
-### 1. Current Error Report (Section B — Generator Feed)
-
-```
-=== ERROR REPORT — SET 13 ===
-Generated from: Sets 11, 12, 13
-
---- CRITICAL ERRORS (must appear at least twice in Block 1) ---
-
-• FORM: habe essen / hat anrufen / hat schlafen / hat gefrühstückt wrong → gegessen / angerufen / geschlafen / gefrühstückt | CATEGORY: Perfekt — past participle formation in free production | FREQUENCY: Sets 12+13 (CRITICAL — all free-production Perfekt attempts failed Set 13)
-• FORM: weil er ist / weil lebe nicht / weil kein Geld er → weil er … ist / weil ich … esse / weil er kein Geld … hat | CATEGORY: subordinate clause verb-final — broken in free production | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
-• FORM: aber after kein/nicht-negation → sondern; sondern after addition → aber | CATEGORY: kein/nicht + sondern for correction vs. aber for addition | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
-• FORM: seit wie viele Jahren → seit wie vielen Jahren | CATEGORY: seit + dative plural interrogative phrase | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
-• FORM: noch nicht + Präsens → noch nicht + Perfekt | CATEGORY: noch nicht for "not yet" requires Perfekt | FREQUENCY: Sets 11+12+13 (CRITICAL — 3 consecutive sets)
-• FORM: Ich bin seit X interessiere / interessiert für das → Ich interessiere mich seit X dafür | CATEGORY: reflexive verb — doubled finite verb; pronominal adverb dafür | FREQUENCY: Sets 11+12+13 (CRITICAL — 3 consecutive sets)
-• FORM: Block 4 produced ~10 sentences, missing doch / Sie-imperatives / noch nicht Perfekt / weil-verb-final → all required elements present, 16-sentence minimum | CATEGORY: integrated production — checklist compliance | FREQUENCY: Sets 12+13 (CRITICAL)
-
---- ACTIVE ERRORS (must appear at least once in Block 1) ---
-
-• FORM: bekommt → kommt | CATEGORY: vocabulary — bekommen (to receive) vs. kommen (to come/arrive) | FREQUENCY: Set 13 (3 instances)
-• FORM: ihre Kollegin / ihre Schlüssel (helfen) → ihrem Kollegen | CATEGORY: helfen + dative — accusative used instead | FREQUENCY: Sets 12+13
-• FORM: zu Arbeit → bei der Arbeit | CATEGORY: prepositional phrase — at work | FREQUENCY: Sets 12+13
-• FORM: liest (ihr-context) → lest; nimmt (ihr-context) → nehmt | CATEGORY: ihr-imperative — indicative er/sie/es form used instead | FREQUENCY: Sets 12+13
-• FORM: Kauf Lebensmittel / Kauft Lebensmittel → Kauf Lebensmittel ein! | CATEGORY: separable verb imperative — prefix dropped | FREQUENCY: Sets 12+13
-• FORM: empfiehlt etwas → empfehlen Sie etwas | CATEGORY: Sie-imperative — er/sie/es form used instead of infinitiv + Sie | FREQUENCY: Set 13
-• FORM: Er lieber abends essen (no finite verb) → Er isst lieber abends | CATEGORY: finite verb omitted with modal-adjacent adverb lieber | FREQUENCY: Set 13
-• FORM: meiner/meines substituted for deiner/deinen (B5) → correct possessive pronoun person selection | CATEGORY: pronominale Possessiva — wrong person | FREQUENCY: Set 13
-• FORM: lichter → leichter | CATEGORY: comparative form — leicht → leichter | FREQUENCY: Set 13
-• FORM: für hocken → für das Kochen | CATEGORY: nominalized infinitive — wrong verb + capitalisation + article das | FREQUENCY: Set 13
-• FORM: ihr-imperative of lesen: liest → lest | CATEGORY: ihr-imperative form | FREQUENCY: Set 13
-
---- RESOLVED ERRORS (do not re-test — student has fixed these) ---
-
-• rieft → hat angerufen — last seen: Set 12 → Set 13: Perfekt attempted (form wrong but rieft not produced)
-• Die teuern → die teuren — last seen: Set 12 → not tested Set 13
-• gesundheit nicht → nicht gesund — last seen: Set 12 → not retested
-• Student → Studentin — last seen: Set 12 → Set 13: correct
-• Wenn besuche ich → Wenn ich … besuche — partially tested: wenn-clause word order still broken (see active)
-• Auf Wiedersehen → Mit freundlichen Grüßen — last seen: Set 10 → confirmed resolved
-• doch polarity in isolated prompts — confirmed resolved
-• Accusative vs. Nominative article selection in drill — confirmed solid
-• Adjective endings — indefinite nominative — confirmed solid
-
---- STRENGTHS (do not target these in Block 1 — already solid) ---
-
-• nicht mehr as temporal negation — consistent across all prompts
-• Mit freundlichen Grüßen — correct closing
-• wohin for directed motion — consistent
-• seit + Präsens in structured sentence slots — correct when cued
-• doch contradiction — correct discourse function when prompted
-• nicht mehr Studentin (predicate nominal) — correct
-• du-imperative fahr — no umlaut, correct
-• du-imperative iss — vowel change correct
-• kein/keine mehr (quantity negation) — correct
-• Separable verb sieht…aus — correct position in B1 rewrite
-
---- GENERATOR NOTES ---
-
-1. Block 1 paragraph must include minimum 5 Perfekt verbs in context where student must produce them in free rewrite — at least 3 with irregular past participles (geschlafen, angerufen, gegessen). Do NOT provide the infinitive — force recall of full Perfekt form. At least 2 of these must appear in noch nicht + Perfekt slots.
-
-2. Block 3 Speed Production must include minimum 6 prompts requiring Perfekt in free production with no completion blank. Distribute across regular and irregular verbs. Include at least 2 prompts where the trap is using Präsens instead of Perfekt with noch nicht.
-
-3. Block 4 formal email: print the checklist in full inside the task. Add a mandatory pre-submission checklist the student must fill in: "Write the number of the sentence where you used: (a) seit + Präsens __, (b) doch __, (c) Sie-imperative 1 __, (d) Sie-imperative 2 __, (e) noch nicht + Perfekt __, (f) weil + verb final __." Hard minimum 16 sentences. Student produced ~10 sentences with most checklist items absent in both Sets 12 and 13 — checklist must be interactive not passive.
-
-4. Block 2 must include at least 2 sentences requiring bekommt vs. kommt distinction — student used bekommt for "arrives/comes" 3 times in Set 13. Also include one helfen sentence requiring dative (ihrem Kollegen not ihre Kollegin) and one ihr-imperative of a separable verb to combine two active errors in one prompt.
-```
-
-### 2. Previous Error Report (Section B — Generator Feed)
-
-```
-=== ERROR REPORT — SET 12 ===
-Generated from: Sets 10, 11, 12
-
---- CRITICAL ERRORS (must appear at least twice in Block 1) ---
-
-• FORM: er arbeit / er aussehen / er verlasst / ich leren → arbeitet / sieht…aus / verlässt / lerne | CATEGORY: er/sie/es conjugation and separable verb form under free production | FREQUENCY: Sets 8+9+10+11+12 (CRITICAL — 5 consecutive sets)
-• FORM: weil er ist / weil kein Geld sie hat → weil er … ist / weil sie kein Geld hat | CATEGORY: subordinate clause verb-final — broken in free production | FREQUENCY: Sets 10+11+12 (CRITICAL — 3 consecutive sets)
-• FORM: aber after kein/nicht-negation → sondern | CATEGORY: kein + sondern for correction vs. aber for addition | FREQUENCY: Sets 10+11+12 (CRITICAL — 3 consecutive sets)
-• FORM: seit wie viele Jahren → seit wie vielen Jahren | CATEGORY: seit + dative plural interrogative phrase | FREQUENCY: Sets 10+11+12 (CRITICAL — 3 consecutive sets)
-• FORM: Nachbar / Honig / Vater (genitive) → Nachbars / Honigs / Vaters | CATEGORY: genitive -s on masculine/neuter nouns | FREQUENCY: Sets 10+11+12 (CRITICAL — 3 consecutive sets)
-• FORM: mit dem [noun omitted] / mit Fahrrad → mit dem Fahrrad | CATEGORY: mit + dative — article and noun both required | FREQUENCY: Sets 9+10+11+12 (CRITICAL — 4 consecutive sets)
-
---- ACTIVE ERRORS (must appear at least once in Block 1) ---
-
-• FORM: im Haus → zu Hause | CATEGORY: idiomatic locative — at home | FREQUENCY: Sets 11+12
-• FORM: noch nicht + Präsens → noch nicht + Perfekt | CATEGORY: noch nicht for "not yet" requires Perfekt | FREQUENCY: Sets 11+12
-• FORM: noch nicht vs. nicht mehr confused; nicht länger used → nicht mehr | CATEGORY: temporal negation distinction | FREQUENCY: Sets 11+12
-• FORM: Ich bin seit X interessiere mich → Ich interessiere mich seit X für | CATEGORY: reflexive verb — doubled finite verb structure | FREQUENCY: Sets 11+12
-• FORM: doch as self-question → doch embedded as contradiction of prior statement | CATEGORY: doch response — correct discourse function | FREQUENCY: Sets 11+12
-• FORM: Die teuern / Ein gutes Käse → Die teuren / Ein guter Käse | CATEGORY: adjective endings — definite plural -en; indefinite masculine -er | FREQUENCY: Set 12
-• FORM: rieft → hat angerufen | CATEGORY: invalid conjugated form — Perfekt required | FREQUENCY: Set 12
-• FORM: sie haben nie → sie haben keine mehr | CATEGORY: negation category — frequency (nie) vs. quantity (keine mehr) | FREQUENCY: Set 12
-• FORM: gesundheit nicht → nicht gesund | CATEGORY: noun vs. adjective — predicate adjective form required | FREQUENCY: Set 12
-• FORM: zu Arbeit → bei der Arbeit | CATEGORY: prepositional phrase — at work requires bei der | FREQUENCY: Set 12
-• FORM: Sie ist nicht länger Studentin → nicht mehr; Student → Studentin | CATEGORY: nominal predicate — feminine form + nicht mehr | FREQUENCY: Set 12
-• FORM: Wenn besuche ich → Wenn ich … besuche | CATEGORY: wenn-clause verb-final — subordinating conjunction | FREQUENCY: Set 12
-• FORM: nicht precedes predicate, not follows prepositional phrase (fährt nicht mit dem Auto) | CATEGORY: nicht position before negated constituent | FREQUENCY: Set 12
-• FORM: seine Wohnung → eine eigene Wohnung | CATEGORY: vocabulary — eigene for "one's own" | FREQUENCY: Set 12
-
---- RESOLVED ERRORS (do not re-test — student has fixed these) ---
-
-• Auf Wiedersehen → Mit freundlichen Grüßen — last seen: Set 10 → confirmed resolved
-• doch polarity error in isolated prompts — last seen: Set 10 → confirmed resolved
-• gar kein Glück omitted → gar kein Glück — last seen: Set 11 → Set 12: correct
-• wohin for directed motion — last seen wrong: Set 10 → Sets 11+12: consistently correct
-• Accusative vs. Nominative article selection (drill context) — Set 12: all 7 correct
-• Adjective endings — indefinite article nominative — Set 12: all correct
-• Adjective endings — no article nominative — Set 12: all correct
-• Genitive drill Block 5 items 1–4 — Set 12: all correct (item 5 minor typo only)
-
---- STRENGTHS (do not target these in Block 1 — already solid) ---
-
-• weder…noch — structurally correct in all attempts
-• wohin for directed motion — consistent
-• seit + present tense in structured sentence slots — correct when cued
-• Accusative/Nominative distinction in isolation (drill)
-• Adjective endings — indefinite article + no article in nominative
-• Formal letter closing Mit freundlichen Grüßen
-• Separable verb fängt…an in structured contexts
-• Genitive -n on weak masculine Kollegen — correct in all drill attempts
-
---- GENERATOR NOTES ---
-
-1. Block 1 paragraph rewrite must include: minimum 4 weil-clauses with verb in position 2 (not final); at least 2 instances of aber after kein/nicht that should be sondern; at least 1 noch nicht error using Präsens instead of Perfekt; mit dem [noun] where the noun is a vehicle/transport word — student is now dropping the noun after dem, so the trap must require the full NP.
-
-2. Block 3 Speed Production must include at minimum: 3 prompts requiring noch nicht + Perfekt in free production (no completion blank); 2 prompts requiring nicht mehr vs. noch nicht distinction explicitly; 2 prompts requiring doch as a contradiction of a kein-statement (not a self-question); 1 prompt requiring bei der Arbeit; 1 prompt requiring zu Hause.
-
-3. Block 4 formal writing checklist must be printed in full inside the task prompt — student is consistently producing ~13 sentences and missing doch, nicht standalone, and adjective endings. Add a hard minimum sentence counter note: "Count your sentences before submitting. Minimum is 16."
-
-4. Block 2 adjective endings drill must now test definite article + plural nominative (-en) and indefinite article + masculine nominative (-er) specifically — these were the two errors in Set 12. Also introduce one accusative adjective slot to preview that case shift.
-
-5. Do NOT re-test: aus vs. von, Auf Wiedersehen vs. Mit freundlichen Grüßen, doch polarity in isolated prompts, Accusative/Nominative in drill format, adjective endings with indefinite article or no article in nominative — all confirmed solid.
-```
+# German Dialogues – Set 4: Food & Dining
 
 ---
 
-## What You Will Receive
+## Dialogue 1: Im Restaurant (At the Restaurant)
 
-One markdown file used as a **warm-up review before the next practice set**.
-
-Three parts:
-
-- **PART 1 — Mini-Lessons:** Short targeted lessons built from your current errors. Each one starts from your actual wrong form, not an invented example.
-- **PART 2 — Cheat Sheet:** Condensed reference tables you scan in 2 minutes before the next set.
-- **PART 3 — Vocabulary Gap List:** Three sections — wrong/unknown words, word families, fixed phrases you keep breaking.
-
-Total reading time: 10–15 minutes. This is a warm-up, not a study session.
+Context: Formal — Waiter and customer. Focus: bestellen, empfehlen, schmecken, Speisekarte, Vorspeise, Hauptspeise, Nachtisch, lecker, frisch
 
 ---
 
-## Core Instructions — Read Before Generating
+Kellner (Klaus): Guten Abend! Willkommen im Restaurant Zur Linde. Mein Name ist Klaus. Ich bin Ihr Kellner heute Abend.
 
-You are working from structured error data only. The error report already contains everything: wrong forms, correct forms, categories, frequency, and recurrence across sets.
+Kundin (Sara): Guten Abend, Klaus! Danke. Ich habe einen Tisch für zwei Personen reserviert. Mein Name ist Sara Meier.
 
-Your job:
+Klaus: Ja, Frau Meier, sehr gut. Hier ist die Speisekarte. Darf ich Ihnen etwas empfehlen?
 
-1. Use CRITICAL errors first, then HIGH, then single-set errors.
-2. Build every example from the actual wrong/correct forms in the report — never invent vocabulary.
-3. Prioritize vocabulary and fixed phrase gaps — many of this student's errors come from not knowing the right word, not just misapplying a rule.
-4. Keep everything short. One concept per lesson. One sentence per explanation. This student knows the rules — they need the correct forms to stick, not re-teaching.
+Sara: Ja, bitte! Was empfehlen Sie heute?
 
-**One absolute rule:** Every ❌ example must come directly from the FORM field in the error report. No invented errors.
+Klaus: Ich empfehle die frische Tomatensuppe als Vorspeise. Der Koch hat sie heute Morgen mit frischen Tomaten aus dem Garten gekocht.
 
----
+Sara: Hmm, frische Tomatensuppe klingt lecker. Und was ist die Hauptspeise des Tages?
 
-## PART 1 — Mini-Lessons
+Klaus: Die Hauptspeise heute ist gebratenes Hähnchen mit einer leckeren Beilage aus Gemüse. Wir haben das Gemüse heute Morgen geliefert bekommen — es ist sehr frisch.
 
-### Format for each lesson:
+Sara: Das klingt wunderbar. Ich möchte bitte die frische Tomatensuppe als Vorspeise bestellen und das gebratene Hähnchen als Hauptspeise.
 
-```
-## [Error Category Label]
+Klaus: Ausgezeichnet. Und möchten Sie auch einen Nachtisch? Ich kann den Nachtisch besonders empfehlen — wir haben heute einen süßen Schokoladenkuchen.
 
-❌ You wrote:   [wrong form — from FORM field in error report]
-✅ Correct:     [correct form — from FORM field in error report]
-💡 Why:         [one sentence — plain language, no jargon unless already in the report]
+Sara: Oh, süßer Schokoladenkuchen! Den bestelle ich auch gerne. Aber erst möchte ich die Vorspeise probieren.
 
-More examples:
-• [correct example using vocabulary from the error report]
-• [correct example using vocabulary from the error report]
-• [correct example using vocabulary from the error report]
-```
+Klaus: Natürlich. Darf ich fragen, was Sie trinken möchten?
 
-### Rules:
+Sara: Ich bevorzuge ein Glas Wasser, bitte. Ich durste schon seit einer Stunde!
 
-- One mini-lesson per error category — not one per individual wrong form
-- If a category has multiple wrong forms (e.g. weil broken in 4 ways), pick the most representative one for ❌, use the others to build the "More examples" lines
-- Order: CRITICAL errors → HIGH errors → single-set active errors
-- Hard limit: **8 mini-lessons maximum** — merge minor single-set errors or drop them if they are not vocabulary-related
-- The 💡 line must be one sentence. No sub-points. No lists inside a lesson.
-- If an error is marked CRITICAL or seen in 3+ sets, add a 🔁 marker to the lesson header
+Klaus: Selbstverständlich, Frau Meier. Das Wasser kommt sofort. Ich habe gestern auch unseren neuen Rotwein probiert — er ist sehr gut, falls Sie später Wein möchten.
+
+Sara: Danke, Klaus. Wie lange dauert die Vorspeise?
+
+Klaus: Die Tomatensuppe servieren wir in etwa zehn Minuten. Der Koch bereitet sie jetzt gerade vor.
+
+Sara: Sehr gut. Ich warte gerne. Das Restaurant ist sehr schön und ruhig hier.
+
+Klaus: Danke! Guten Appetit später, Frau Meier. Ich komme zurück, wenn Sie die Vorspeise gegessen haben.
+
+Sara: Danke, Klaus. Auf Wiedersehen bis gleich!
 
 ---
 
-## PART 2 — Cheat Sheet
+## Dialogue 2: In der Küche (In the Kitchen)
 
-Compact reference tables — scan before sitting down to the next set.
-
-Generate **only the tables relevant to errors in the current report**. Skip any table where this student had no errors.
+Context: Informal — Two friends cooking together. Focus: kochen, backen, schneiden, schälen, würzen, Rezept, Zutat, Gewürz, Gemüse, salzig, scharf
 
 ---
 
-**Table: Negation Quick Reference** _(Include only if negation errors appear in the current report)_
+Lena: Hallo, Tom! Schön, dass du heute zum Kochen gekommen bist.
 
-|Situation|Use|Example from this set|
-|---|---|---|
-|Negating a verb/action|nicht|[example from report]|
-|Negating a noun|kein/keine/keinen|[example from report]|
-|Correcting after kein/nicht|sondern|[example from report]|
-|Contradicting a kein-statement|doch|[example from report]|
-|No longer|nicht mehr|[example from report]|
-|Not yet — requires Perfekt|noch nicht + Perfekt|[example from report]|
+Tom: Hallo, Lena! Ja, ich freue mich! Was kochen wir heute?
 
----
+Lena: Ich habe ein neues Rezept gefunden — wir kochen eine scharfe Gemüsesuppe. Hast du schon mal eine scharfe Suppe gekocht?
 
-**Table: Fixed Phrases — Location and Transport** _(Include only if location/transport errors appear in the current report)_
+Tom: Ja, ich habe letzten Monat eine scharfe Linsensuppe gekocht. Sie war sehr lecker, aber ein bisschen zu salzig. Ich habe zu viel Salz als Gewürz benutzt.
 
-|Meaning|Correct German|❌ Wrong form from this set|
-|---|---|---|
-|at home|zu Hause|[from report if present]|
-|at work|bei der Arbeit|[from report if present]|
-|by bike|mit dem Fahrrad|[from report if present]|
-|by car|mit dem Auto|[from report if present]|
+Lena: Das kenne ich! Welche Zutaten brauchen wir für dein Rezept?
 
----
+Tom: Das Rezept braucht frisches Gemüse: Karotten, Zwiebeln und Paprika. Ich schäle jetzt die Karotten — kannst du die Zwiebeln schneiden?
 
-**Table: Subordinate Clauses — Verb Goes Last** _(Include only if weil/wenn/dass errors appear in the current report)_
+Lena: Natürlich! Ich schneide die Zwiebeln. Aber ich weine immer, wenn ich Zwiebeln schneide!
 
-|Conjunction|Correct example|❌ Your version|
-|---|---|---|
-|weil|[from report]|[from report]|
-|wenn|[from report]|[from report]|
+Tom: Ich auch! Gestern habe ich Zwiebeln für ein anderes Rezept geschnitten und meine Augen haben gebrannt.
 
----
+Lena: Mit welchem Gewürz würzen wir die Suppe?
 
-**Table: seit — Duration** _(Include only if seit errors appear in the current report)_
+Tom: Wir würzen sie mit Kumin und Chili. Ich bevorzuge scharfe Gerichte. Hast du diese Gewürze?
 
-|Structure|Correct|❌ Wrong|
-|---|---|---|
-|Statement — ongoing|seit + present tense|[from report]|
-|Question — how long|Seit wie vielen Jahren…?|[from report]|
+Lena: Ja, ich habe beide Gewürze. Aber würz nicht zu viel — meine Schwester kommt auch zum Essen und sie ist allergisch gegen sehr scharfe Gewürze.
+
+Tom: Kein Problem. Ich würze die Suppe nur leicht scharf. So ist sie für alle gut.
+
+Lena: Super! Und wir backen noch Brot dazu. Ich habe gestern schon den Teig vorbereitet.
+
+Tom: Du hast schon gebacken? Du bist so fleißig! Was hast du in den Teig gemacht?
+
+Lena: Nur einfache Zutaten: Mehl, Wasser, Salz und Hefe. Das Brot ist jetzt im Ofen. Es dauert noch zwanzig Minuten.
+
+Tom: Lecker! Ich probiere gerne frisches Brot. Darf ich probieren, wenn es fertig ist?
+
+Lena: Natürlich! Wir probieren alles zusammen. So — das Gemüse ist geschnitten. Kochst du jetzt die Suppe?
+
+Tom: Ja! Ich koche jetzt die Suppe. In dreißig Minuten essen wir!
+
+Lena: Wunderbar. Ich freue mich schon darauf!
 
 ---
 
-**Table: Adjective Endings** _(Include only the cases that were wrong in the current report — not all 48 combinations)_
+## Dialogue 3: Beim Bäcker (At the Bakery)
 
-|Article type|Gender/Case|Ending|Example from this set|
-|---|---|---|---|
-|[only wrong cases]||||
+Context: Formal/Semi-formal — Customer and baker. Focus: backen, kaufen, kosten, Frühstück, Rezept, süß, frisch, lecker, Portion, Zutat
 
 ---
 
-### Cheat sheet rules:
+Bäcker (Herr Braun): Guten Morgen! Was darf es sein?
 
-- Every example cell uses vocabulary from the error report — no abstract placeholders
-- If a table would exceed 8 rows, split it
-- No prose between tables — headers and tables only
-- If an error category has no natural table format, skip it — do not force it into Part 2
+Kundin (Frau Weber): Guten Morgen, Herr Braun! Ich möchte frisches Brot für das Frühstück kaufen. Was haben Sie heute gebacken?
 
----
+Herr Braun: Ich habe heute Morgen um vier Uhr mit dem Backen begonnen. Wir haben frische Brötchen, ein großes Vollkornbrot und süße Croissants.
 
-## PART 3 — Vocabulary Gap List
+Frau Weber: Oh, süße Croissants! Wie viel kosten die Croissants?
 
-Three sections. Clean lists only — no prose, no explanations longer than a parenthetical.
+Herr Braun: Ein süßes Croissant kostet einen Euro zwanzig. Sechs Croissants kosten sechs Euro fünfzig — das ist ein gutes Angebot.
 
----
+Frau Weber: Ich kaufe sechs Croissants für das Frühstück. Meine Familie liebt süße Sachen am Morgen.
 
-### Section A: Words You Used Wrong or Didn't Know
+Herr Braun: Sehr gut! Und darf ich noch ein frisches Vollkornbrot empfehlen? Das Rezept kommt aus der Schweiz — es ist ein traditionelles Rezept mit besonderen Zutaten.
 
-Built from: FORM fields where the error is clearly a vocabulary mistake (wrong word chosen, noun used instead of adjective, English word used, word simply absent).
+Frau Weber: Interessant! Was sind die besonderen Zutaten in dem Rezept?
 
-|Your version|Correct German|English meaning|Notes|
-|---|---|---|---|
-|[from report]|[from report]|[translation]|[noun vs. adjective / register / fixed phrase / _(unknown)_]|
+Herr Braun: Das Rezept hat Sonnenblumenkerne und Leinsamen als Zutaten. Ich habe das Rezept von meinem Großvater gelernt. Er hat zwanzig Jahre lang in der Schweiz als Bäcker gearbeitet.
 
-Rules:
+Frau Weber: Das klingt wunderbar. Ich kaufe auch ein Vollkornbrot. Was kostet das Brot?
 
-- Only include words that caused an actual error in the current report
-- Mark with _(unknown)_ in Notes if the student clearly didn't know the word at all (wrote English, left blank, or used a completely unrelated word)
-- One-word Notes only — no full sentences
+Herr Braun: Das große Vollkornbrot kostet drei Euro achtzig. Zusammen mit den sechs Croissants zahlen Sie zehn Euro dreißig.
 
----
+Frau Weber: Gut. Ich bezahle mit Kreditkarte. Darf ich fragen — wie lange hat das Backen heute gedauert?
 
-### Section B: Word Families
+Herr Braun: Ich habe drei Stunden gebacken. Das Brot braucht lange im Ofen, aber es lohnt sich! Das Brot ist immer frisch und lecker.
 
-For each word where the student confused forms (used noun instead of adjective, used infinitive instead of conjugated verb, etc.), show the relevant family.
+Frau Weber: Ja, Ihr Brot ist immer so lecker! Meine Kinder essen jede Woche Ihr frisches Brot zum Frühstück.
 
-Format:
+Herr Braun: Das freut mich sehr! Hier sind Ihre Croissants und das Brot. Guten Appetit!
 
-```
-Root: [WORD]
+Frau Weber: Danke, Herr Braun! Auf Wiedersehen!
 
-| Form | German | Example |
-|---|---|---|
-| adjective | … | … |
-| noun | … | … |
-| verb | … | … |
-```
-
-Rules:
-
-- Only generate families for roots where form-confusion caused an error in the current report
-- Maximum 5 families per output
-- Only include forms up to B1 level — skip advanced derivations
-- Examples must use vocabulary from the error report
+Herr Braun: Auf Wiedersehen, Frau Weber! Schönen Tag noch!
 
 ---
 
-### Section C: Fixed Phrases You Keep Breaking
+## Dialogue 4: Im Supermarkt (At the Supermarket)
 
-Memorized units — not built by rules. Do not explain them grammatically.
-
-|Correct phrase|Meaning|❌ Your version||
-|---|---|---|---|
-|[from report]|[English]|[from report]|🔁 if seen in 3+ sets|
-
-Rules:
-
-- Include only phrases that appear as errors in the current report
-- Add 🔁 if the phrase has been wrong across 3 or more sets (visible in FREQUENCY field of report)
-- No grammar notes — these are memory items
-- If a phrase was correct this set, do not include it even if it was wrong before
+Context: Informal — Two friends shopping together. Focus: kaufen, kosten, sparen, Gemüse, Fleisch, Beilage, frisch, verdorben, roh, Mahlzeit, Portion
 
 ---
 
-## Formatting Rules
+Anna: Hallo, Jonas! Was machst du hier im Supermarkt?
 
-- Total length: 600–900 words (not counting table content)
-- Part headers: `# PART [N] — [NAME]`
-- Mini-lesson headers: `## [Topic Label]`
-- No exercises — review material only
-- No word banks
-- No praise, no encouragement, no filler
-- One file only
+Jonas: Hallo, Anna! Ich kaufe Zutaten für das Abendessen heute. Und du?
+
+Anna: Ich kaufe auch Gemüse für die Woche. Was kochst du heute Abend?
+
+Jonas: Ich koche Spaghetti mit frischem Gemüse und rohem Fleisch. Ich brauche noch Fleisch und Gemüse.
+
+Anna: Hier ist die Gemüseabteilung. Oh, dieses Gemüse sieht nicht frisch aus — es ist fast verdorben!
+
+Jonas: Oh nein! Du hast recht, es sieht verdorben aus. Ich kaufe kein verdorbenes Gemüse. Lass uns zum anderen Regal gehen.
+
+Anna: Da drüben ist das frische Gemüse. Diese Tomaten sind wirklich frisch — sieh mal!
+
+Jonas: Ja, die sind schön frisch und rot. Ich nehme diese Tomaten. Was kostet ein Kilogramm Tomaten?
+
+Anna: Ein Kilo kostet zwei Euro neunzig. Nicht teuer! Und neben dem Gemüse ist das Fleisch. Welches Fleisch kaufst du?
+
+Jonas: Ich bevorzuge Hähnchenfleisch — es ist günstig und gesund. Was kostet das Hähnchen hier?
+
+Anna: Das Hähnchen kostet vier Euro fünfzig pro Kilo. Das ist preiswert. Ich habe letzte Woche Hähnchen für sechs Euro pro Kilo gekauft!
+
+Jonas: Wirklich? Dann spare ich heute Geld. Ich kaufe ein Kilo Hähnchenfleisch. Was nimmst du als Beilage zu deiner Mahlzeit?
+
+Anna: Ich mache eine einfache Mahlzeit — Reis mit Gemüse als Beilage. Reis ist billig und macht eine gute Beilage.
+
+Jonas: Gute Idee. Eine gesunde Mahlzeit! Ich brauche noch Spaghetti. Wo sind die Spaghetti hier?
+
+Anna: In Gang drei, neben den Konserven. Ich komme mit! Danach gehen wir zur Kasse zusammen.
+
+Jonas: Super! Danke für deine Hilfe, Anna. Du kennst den Supermarkt sehr gut.
+
+Anna: Kein Problem! Ich kaufe hier jeden Samstag ein.
 
 ---
 
-## Output
+## Dialogue 5: Ein Abendessen mit Freunden (Dinner with Friends)
 
-Generate the teaching material now based on the two error reports above. No preamble. No explanation. Start directly with PART 1.
+Context: Informal — Friends at a dinner party. Focus: kochen, servieren, probieren, schmecken, bevorzugen, Abendessen, Mahlzeit, Nachtisch, lecker, süß, bitter, Portion
+
+---
+
+Gastgeberin (Mia): Hallo alle! Willkommen zu meinem Abendessen! Setzt euch bitte.
+
+Gast (Felix): Hallo, Mia! Danke für die Einladung. Was hast du für heute Abend gekocht?
+
+Mia: Ich habe eine große Mahlzeit vorbereitet! Als Hauptgang gibt es gebratenes Gemüse mit Reis. Ich habe zwei Stunden lang gekocht!
+
+Gast (Sophie): Wow, du hast so lange gekocht! Das ist sehr nett von dir, Mia.
+
+Mia: Gerne! Ich serviere jetzt das Essen. Hier — ich serviere euch zuerst die Vorspeise.
+
+Felix: Das sieht so lecker aus! Was ist das?
+
+Mia: Das ist eine frische Salatplatte mit bitterem Rucola und süßen Tomaten. Ich bevorzuge Salat als Vorspeise — er ist leicht und frisch.
+
+Sophie: Ich bevorzuge auch leichte Vorspeisen. Der Salat sieht wunderbar aus!
+
+Felix: Darf ich probieren? — Mmm! Er schmeckt fantastisch! Ist der Rucola nicht zu bitter?
+
+Mia: Nein, der bittere Rucola passt gut zu den süßen Tomaten. Zusammen schmeckt es lecker!
+
+Sophie: Du hast recht. Es schmeckt wirklich gut. Wie hast du das Gemüse gewürzt?
+
+Mia: Ich habe die Vorspeise mit Olivenöl und etwas Zitrone gewürzt. Einfach aber lecker!
+
+Felix: Nach dem Salat freue ich mich auf die Hauptspeise. Kann ich noch eine Portion Salat haben?
+
+Mia: Natürlich! Ich serviere dir sofort noch eine Portion. — Und für den Nachtisch habe ich etwas Süßes vorbereitet!
+
+Sophie: Oh! Was gibt es als Nachtisch?
+
+Mia: Ein frischer Obstkuchen — er schmeckt süß und leicht. Ich habe ihn heute Nachmittag gebacken.
+
+Felix: Ich habe deinen Kuchen letztes Mal probiert und er hat so gut geschmeckt! Ich freue mich schon auf den Nachtisch.
+
+Mia: Danke, Felix! Guten Appetit, alle!
+
+Beide: Danke, Mia! Guten Appetit!
+
+---
+
+## Dialogue 6: Ein Kochkurs (A Cooking Class)
+
+Context: Formal — Teacher and students. Focus: kochen, backen, braten, schälen, schneiden, würzen, Zutat, Gewürz, Rezept, roh, gekocht, scharf, salzig
+
+---
+
+Lehrerin (Frau König): Guten Morgen, alle! Willkommen zum Kochkurs. Heute lernen wir, wie man ein traditionelles Gericht brät.
+
+Schüler (Markus): Guten Morgen, Frau König! Was braten wir heute?
+
+Frau König: Wir braten Hähnchen mit scharfen Gewürzen. Aber zuerst — welche Zutaten brauchen wir?
+
+Schülerin (Nina): Für das Rezept brauchen wir Hähnchen, Öl und Gewürze, oder?
+
+Frau König: Genau, Nina. Wir brauchen rohes Hähnchen, Öl, Knoblauch und verschiedene Gewürze. Wer kann mir sagen, wie man rohes Fleisch sicher behandelt?
+
+Markus: Man soll rohes Fleisch immer getrennt von anderen Zutaten halten.
+
+Frau König: Sehr gut, Markus! Jetzt schälen wir den Knoblauch. Nina, kannst du bitte den Knoblauch schälen?
+
+Nina: Ja, natürlich. Ich schäle den Knoblauch jetzt. — Fertig! Soll ich ihn auch schneiden?
+
+Frau König: Ja, schneid ihn bitte in kleine Stücke. — Gut. Jetzt würzen wir das Fleisch. Mit welchem Gewürz sollen wir das Hähnchen würzen?
+
+Markus: Im Rezept steht Kumin und Paprika. Sind diese Gewürze scharf?
+
+Frau König: Kumin ist nicht scharf, aber Paprika kann scharf sein — es gibt milde und scharfe Sorten. Ich bevorzuge das Hähnchen mit mildem Paprika zu würzen, damit es nicht zu scharf wird.
+
+Nina: Ich esse gerne scharfe Gerichte! Kann man mehr scharfes Gewürz nehmen?
+
+Frau König: In deiner Portion kannst du mehr scharfes Gewürz nehmen, Nina. Aber für die Klasse würzen wir das Fleisch nur leicht.
+
+Markus: Wie lange braten wir das Hähnchen?
+
+Frau König: Wir braten es zwanzig Minuten bei hoher Hitze. Das Hähnchen muss gut gekocht sein — rohes Fleisch ist gefährlich!
+
+Nina: Wie prüft man, ob das Hähnchen gekocht ist?
+
+Frau König: Man schneidet es auf und schaut, ob es innen noch roh ist. Gekochtes Fleisch ist weiß innen — rohes Fleisch ist rosa.
+
+Markus: Danke, Frau König! Ich habe zu Hause schon mal Hähnchen gebraten, aber ich habe es zu salzig gewürzt.
+
+Frau König: Das passiert! Man soll das Salz als Gewürz immer sparsam benutzen. Man kann später mehr hinzufügen, aber man kann zu viel Salz nicht wegnehmen!
+
+Nina: Das ist ein guter Tipp. Ich werde das Rezept zu Hause probieren.
+
+Frau König: Wunderbar! Dann viel Erfolg beim Kochen zu Hause!
+
+---
+
+## Dialogue 7: Im Café (At the Café)
+
+Context: Informal — Two colleagues on a lunch break. Focus: bestellen, empfehlen, probieren, schmecken, bevorzugen, dursten, Mittagessen, Speisekarte, Portion, lecker, frisch, süß, sauer
+
+---
+
+Kollegin (Laura): Hallo, Ben! Mittagspause endlich! Lass uns ins Café gehen.
+
+Kollege (Ben): Ja, gerne! Ich durste schon seit zwei Stunden — ich brauche sofort etwas zu trinken.
+
+Laura: Ich auch! Ich bevorzuge frischen Orangensaft. Was bestellst du normalerweise hier?
+
+Ben: Ich bestelle immer den Kaffee mit Milch. Aber heute probiere ich vielleicht etwas anderes. Hast du die Speisekarte schon gesehen?
+
+Laura: Ja, ich habe die Speisekarte kurz angeschaut. Es gibt heute ein Tagesmenü — frische Tomatensuppe und ein Sandwich als Mittagessen.
+
+Ben: Das klingt gut! Ich bestellte letzten Dienstag die Tomatensuppe hier und sie hat sehr gut geschmeckt.
+
+Laura: Wirklich? Ich habe sie noch nie probiert. Empfiehlst du sie?
+
+Ben: Ja, ich empfehle sie sehr! Die Suppe ist frisch und lecker — nicht zu salzig, nicht zu scharf. Genau richtig.
+
+Laura: Dann bestelle ich auch die Tomatensuppe. Was nimmst du als Hauptspeise?
+
+Ben: Ich bevorzuge das Hähnchen-Sandwich. Es ist frisch und die Portion ist groß. Du bist nach einer Portion satt!
+
+Laura: Ich nehme lieber den frischen Salat mit saurer Vinaigrette. Ich esse mittags gerne leicht.
+
+Ben: Magst du saure Sachen? Ich esse nicht gern saure Gerichte.
+
+Laura: Doch! Ich bevorzuge saure oder bittere Gerichte gegenüber süßen. Süßes esse ich lieber als Nachtisch.
+
+Ben: Apropos Nachtisch — ich habe gestern den Schoko-Muffin hier probiert. Er schmeckt so süß und lecker!
+
+Laura: Oh, Schokolade! Den probiere ich gerne. Wie groß ist die Portion?
+
+Ben: Eine Portion ist ein großer Muffin. Er reicht gut nach dem Mittagessen.
+
+Laura: Gut. Ich bestelle den Muffin als Nachtisch. — Hallo! Entschuldigung, wir möchten gerne bestellen!
+
+Kellner: Gerne! Was darf es sein?
+
+Ben: Ich bestelle die Tomatensuppe, das Hähnchen-Sandwich und einen Kaffee, bitte.
+
+Laura: Und ich bestelle die Tomatensuppe, den frischen Salat mit saurer Vinaigrette, einen Orangensaft und einen Schoko-Muffin als Nachtisch, bitte.
+
+Kellner: Sehr gut! Das kommt gleich.
+
+Ben: Danke! — Prost, Laura! Auf eine kurze aber leckere Mittagspause!
+
+Laura: Prost! Guten Appetit!
+
+---
+
+## Dialogue 8: Ein Familienfrühstück (A Family Breakfast)
+
+Context: Informal — Family at the breakfast table. Focus: kochen, backen, schneiden, Frühstück, Mahlzeit, Zutat, süß, frisch, lecker, Portion, schmecken
+
+---
+
+Mutter (Claudia): Guten Morgen! Das Frühstück ist fertig! Kommt alle an den Tisch!
+
+Sohn (Lukas, 14): Guten Morgen, Mama! Was gibt es heute zum Frühstück? Ich hungere schon!
+
+Tochter (Emma, 17): Guten Morgen! Mmm, es riecht so lecker hier in der Küche!
+
+Claudia: Ich habe heute ein besonderes Frühstück gekocht und gebacken. Es gibt frische Pfannkuchen mit Marmelade!
+
+Lukas: Pfannkuchen! Das ist mein Lieblingsfrühstück! Wie viele Pfannkuchen hast du gebacken?
+
+Claudia: Ich habe zwanzig Pfannkuchen gebacken — das sollte für alle reichen! Ich habe sie mit frischen Zutaten gemacht.
+
+Emma: Mit welchen Zutaten hast du die Pfannkuchen gemacht, Mama?
+
+Claudia: Das Rezept ist einfach: Mehl, Eier, Milch und ein bisschen Salz. Und für den süßen Geschmack kommt Marmelade oben drauf.
+
+Lukas: Ich bevorzuge süße Marmelade auf meinen Pfannkuchen. Hast du Erdbeermarmelade?
+
+Claudia: Ja, ich habe Erdbeermarmelade. Und für Emma habe ich auch frische Früchte geschnitten — du isst nicht gern sehr süße Sachen, oder?
+
+Emma: Richtig! Ich bevorzuge frische Früchte zu meinen Pfannkuchen. Die Marmelade ist mir zu süß am Morgen.
+
+Lukas: Kann ich bitte zwei Portionen Pfannkuchen haben? Ich habe großen Hunger!
+
+Claudia: Natürlich! Hier — ich serviere dir zwei Portionen. Aber iss nicht zu schnell!
+
+Emma: Die Pfannkuchen schmecken so gut, Mama! Wie lange hast du gekocht?
+
+Claudia: Ich habe eine halbe Stunde in der Küche gearbeitet. Frühstück ist die wichtigste Mahlzeit des Tages — ich mache es gern schön.
+
+Lukas: Das stimmt! Ich esse jeden Morgen ein gutes Frühstück. Das gibt mir Energie für die Schule.
+
+Emma: Ich habe gestern das Frühstück vergessen und ich war den ganzen Morgen müde. Das passiert mir nicht mehr!
+
+Claudia: Gut! Eine warme Mahlzeit am Morgen ist sehr wichtig. Esst noch eine Portion, wenn ihr wollt!
+
+Lukas: Danke, Mama! Du kochst und backst das Beste in der Familie!
+
+Claudia: Danke, Lukas! Das ist das schönste Kompliment!
+
+---
+
+## Dialogue 9: Beim Arzt – Magenbeschwerden (At the Doctor – Stomach Problems)
+
+Context: Formal — Doctor and patient. Focus: schmecken, verdauen, essen, Mahlzeit, Fleisch, Gemüse, scharf, salzig, frisch, verdorben, gekocht, roh
+
+---
+
+Arzt (Dr. Hoffmann): Guten Tag, Herr Bauer. Wie geht es Ihnen? Was sind Ihre Beschwerden?
+
+Patient (Stefan): Guten Tag, Dr. Hoffmann. Mir geht es nicht gut. Ich habe seit zwei Tagen Magenschmerzen. Ich kann nicht gut verdauen.
+
+Dr. Hoffmann: Das tut mir leid. Erzählen Sie mir — was haben Sie in den letzten Tagen gegessen? Welche Mahlzeiten haben Sie zu sich genommen?
+
+Stefan: Ich habe am Montag rohes Fleisch gegessen — ein Steak, das innen noch roh war. Danach hat mir der Magen wehgetan.
+
+Dr. Hoffmann: Rohes Fleisch kann sehr gefährlich sein! Hat das Fleisch seltsam geschmeckt?
+
+Stefan: Ja, es hat komisch geschmeckt — nicht frisch. Ich glaube, das Fleisch war vielleicht verdorben.
+
+Dr. Hoffmann: Das ist wahrscheinlich das Problem. Verdorbenes oder rohes Fleisch kann eine Infektion verursachen. Hat das Essen auch schlecht geschmeckt?
+
+Stefan: Ja! Normalerweise schmeckt mir Fleisch sehr gut, aber dieses Mal hat es mir nicht gut geschmeckt. Ich hätte aufhören sollen zu essen.
+
+Dr. Hoffmann: Ja, leider. Was haben Sie sonst noch gegessen? Haben Sie scharfe oder sehr salzige Mahlzeiten gegessen?
+
+Stefan: Ich esse oft scharf — ich bevorzuge scharfe Gewürze. Und ich würze mein Essen immer salzig. Ist das ein Problem?
+
+Dr. Hoffmann: Sehr scharfes und sehr salziges Essen kann den Magen reizen, besonders wenn man krank ist. Ich empfehle Ihnen jetzt, nur leichte Mahlzeiten zu sich zu nehmen.
+
+Stefan: Was soll ich essen? Nur gekochtes Gemüse?
+
+Dr. Hoffmann: Genau — gekochtes Gemüse, frische Suppe, und keine scharfen Gewürze. Rohes Fleisch dürfen Sie nicht essen, bis Sie gesund sind.
+
+Stefan: Und wie lange muss ich so essen?
+
+Dr. Hoffmann: Etwa eine Woche. Danach können Sie wieder normale Mahlzeiten zu sich nehmen. Aber kaufen Sie immer frisches Fleisch und prüfen Sie, ob es verdorben ist!
+
+Stefan: Ja, das lerne ich aus dieser Erfahrung. Wie soll ich verdauen helfen?
+
+Dr. Hoffmann: Trinken Sie viel Wasser und essen Sie kleine Portionen. Große Portionen sind jetzt nicht gut für Ihren Magen.
+
+Stefan: Danke, Dr. Hoffmann. Ich werde Ihre Empfehlungen befolgen.
+
+Dr. Hoffmann: Gute Besserung, Herr Bauer! Auf Wiedersehen.
+
+---
+
+## Dialogue 10: Ein Kochduell (A Cooking Competition)
+
+Context: Informal — Two friends competing in a home cooking challenge. Focus: kochen, braten, backen, schälen, schneiden, würzen, empfehlen, probieren, schmecken, servieren, Speisekarte, Hauptspeise, Nachtisch, Beilage, Portion, lecker, scharf, süß, sauer, salzig, frisch, roh, gekocht, verdorben
+
+---
+
+Freund (Max): Hallo, Jana! Bist du bereit für unser Kochduell heute?
+
+Jana: Hallo, Max! Ja, ich bin bereit! Ich habe meine Zutaten schon vorbereitet. Was kochst du?
+
+Max: Ich brate ein scharfes Hähnchen mit einer frischen Gemüse-Beilage. Und du?
+
+Jana: Ich koche eine süß-saure Gemüsesuppe als Hauptspeise — und als Nachtisch backe ich einen frischen Obstkuchen!
+
+Max: Einen süßen Nachtisch! Gut. Aber meine Hauptspeise wird leckerer sein!
+
+Jana: Das glaubst du! Ich schäle jetzt das Gemüse. Hast du dein Fleisch schon geschnitten?
+
+Max: Ja, ich habe es schon in Stücke geschnitten. Das Fleisch ist roh — ich brate es jetzt in der Pfanne.
+
+Jana: Pass auf — ist das Fleisch auch frisch? Es sieht etwas dunkel aus...
+
+Max: Es ist frisch! Ich habe es heute Morgen gekauft. Verdorbenes Fleisch würde ich nie kaufen.
+
+Jana: Gut! Mit welchem Gewürz würzt du das Hähnchen?
+
+Max: Ich würze es mit scharfem Paprika, Kumin und Knoblauch. Sehr scharf! Wie würzt du deine Suppe?
+
+Jana: Ich bevorzuge eine süß-saure Kombination — ich würze mit Essig für den sauren Geschmack und Zucker für das Süße. Es klingt seltsam, aber es schmeckt gut!
+
+Max: Ich probiere gerne neue Geschmacksrichtungen. Darf ich die Suppe probieren, wenn sie fertig ist?
+
+Jana: Natürlich! Und du empfiehlst mir, wenn das Hähnchen gut schmeckt, oder?
+
+Max: Selbstverständlich! — Mmm, mein Hähnchen riecht jetzt schon lecker. Es ist fast fertig gebraten.
+
+Jana: Meine Suppe kocht auch schon. Ich füge jetzt die Beilage hinzu — frisches gekochtes Gemüse auf der Seite.
+
+Max: Ich serviere mein Gericht zuerst! Hier — eine große Portion scharfes Hähnchen mit frischer Gemüse-Beilage. Probier bitte!
+
+Jana: Mmm... Es schmeckt gut! Sehr scharf, aber lecker. Das Hähnchen ist sehr gut gebraten.
+
+Max: Danke! Jetzt servierst du deine Suppe?
+
+Jana: Ja! Hier — eine Portion meiner süß-sauren Suppe. Und die Beilage ist gekochter Reis.
+
+Max: Ich probiere... Wow! Das schmeckt fantastisch! Süß und sauer zusammen — sehr interessant!
+
+Jana: Danke! Und jetzt der Nachtisch — mein frischer Obstkuchen. Ich habe ihn mit süßen Äpfeln und etwas saurer Zitrone gebacken.
+
+Max: Du hast Äpfel und Zitrone zusammen gebacken? Das klingt sauer!
+
+Jana: Probier erst, dann urteile! — Na? Wie schmeckt es?
+
+Max: ...Es schmeckt wunderbar! Süß und leicht sauer — perfekt als Nachtisch. Jana, ich glaube, du gewinnst das Kochduell heute!
+
+Jana: Ja! Ich bin die Gewinnerin! Aber dein Hähnchen war auch sehr lecker, Max.
+
+Max: Danke! Nächstes Mal gewinne ich. Ich lerne noch neue Rezepte!
+
+Jana: Abgemacht! Gleiches Duell in einem Monat?
+
+Max: Ja! Bis dann, Jana. Tschüss!
+
+Jana: Tschüss, Max! Guten Appetit für heute!
+
+---

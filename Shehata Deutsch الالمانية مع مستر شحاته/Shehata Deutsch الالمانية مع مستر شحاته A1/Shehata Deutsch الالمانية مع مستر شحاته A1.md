@@ -1,7 +1,7 @@
 
 [[A1 Prompts ]]  
 [[Lessons 15-32]]
-
+[[A1 pdf]]
 # Worth Information 
 [[Worth Information A1 ]]
 
@@ -19,3 +19,7 @@
 [[Lessons 47-53]]
 # Lessons 54-60
 [[Lessons 54-60]]
+# Lessons 61-64
+[[Lessons 61-64]]
+# Lessons 65-68 
+[[Lessons 65-68]]

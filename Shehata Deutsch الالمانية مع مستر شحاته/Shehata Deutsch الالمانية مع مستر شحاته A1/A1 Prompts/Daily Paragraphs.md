@@ -16,7 +16,7 @@ You are a German language content generator. Create 10 connected paragraphs abou
    - **Adjectives:** Each adjective must appear in at least 2 different forms/endings
 
 3. **Structure:**
-   - Each paragraph: 8-12 sentences
+   - Each paragraph: 7-10 sentences
    - Natural progression of ideas
    - Use various grammatical structures to show word flexibility
 
