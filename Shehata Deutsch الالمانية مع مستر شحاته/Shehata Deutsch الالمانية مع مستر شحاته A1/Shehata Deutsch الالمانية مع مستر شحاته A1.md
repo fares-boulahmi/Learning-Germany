@@ -23,3 +23,9 @@
 [[Lessons 61-64]]
 # Lessons 65-68 
 [[Lessons 65-68]]
+# Lessons 69-72
+[[Lessons 69-72]]
+# Lessons 73-76
+[[Lessons 73-76]]
+# Lessons 73-79
+[[Lessons 73-79]]

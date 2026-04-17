@@ -43,6 +43,7 @@
 **Klaus:** Danke! Guten Appetit später, Frau Meier. Ich komme zurück, wenn Sie die Vorspeise gegessen haben.
 
 **Sara:** Danke, Klaus. Auf Wiedersehen bis gleich!
+![[Kellner (Klaus).mp3]]
 
 ---
 
@@ -89,6 +90,7 @@
 **Tom:** Ja! Ich koche jetzt die Suppe. In dreißig Minuten essen wir!
 
 **Lena:** Wunderbar. Ich freue mich schon darauf!
+![[Germany/Words to Focus/B1 Words/Set 4/Attachments/Lena_ Hallo, To.mp3]]
 
 ---
 
@@ -131,6 +133,7 @@
 **Frau Weber:** Danke, Herr Braun! Auf Wiedersehen!
 
 **Herr Braun:** Auf Wiedersehen, Frau Weber! Schönen Tag noch!
+![[Bäcker (Herr Br.mp3]]
 
 ---
 
@@ -173,6 +176,7 @@
 **Jonas:** Super! Danke für deine Hilfe, Anna. Du kennst den Supermarkt sehr gut.
 
 **Anna:** Kein Problem! Ich kaufe hier jeden Samstag ein.
+![[Anna_ Hallo, Jo.mp3]]
 
 ---
 
@@ -219,6 +223,7 @@
 **Mia:** Danke, Felix! Guten Appetit, alle!
 
 **Beide:** Danke, Mia! Guten Appetit!
+![[Gastgeberin (Mi.mp3]]
 
 ---
 
@@ -269,6 +274,7 @@
 **Nina:** Das ist ein guter Tipp. Ich werde das Rezept zu Hause probieren.
 
 **Frau König:** Wunderbar! Dann viel Erfolg beim Kochen zu Hause!
+![[Lehrerin (Frau.mp3]]
 
 ---
 
@@ -323,6 +329,7 @@
 **Ben:** Danke! — Prost, Laura! Auf eine kurze aber leckere Mittagspause!
 
 **Laura:** Prost! Guten Appetit!
+![[Kollegin (Laura 1.mp3]]
 
 ---
 
@@ -371,6 +378,7 @@
 **Lukas:** Danke, Mama! Du kochst und backst das Beste in der Familie!
 
 **Claudia:** Danke, Lukas! Das ist das schönste Kompliment!
+![[Mutter (Claudia.mp3]]
 
 ---
 
@@ -417,6 +425,7 @@
 **Stefan:** Danke, Dr. Hoffmann. Ich werde Ihre Empfehlungen befolgen.
 
 **Dr. Hoffmann:** Gute Besserung, Herr Bauer! Auf Wiedersehen.
+![[Arzt (Dr. Hoffm.mp3]]
 
 ---
 
@@ -485,6 +494,7 @@
 **Max:** Ja! Bis dann, Jana. Tschüss!
 
 **Jana:** Tschüss, Max! Guten Appetit für heute!
+![[Freund (Max)_ H.mp3]]
 
 ---
 

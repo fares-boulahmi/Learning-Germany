@@ -371,7 +371,7 @@ The preposition **um** is used with clock times:
     - _EN: On Sunday I have free time. / AR: يوم الأحد سيكون لدي وقت فراغ._
 
 ---
-
+Lessons 54-60 Exercises 
 ## Part 3: Combined Practice Exercises
 
 #### Exercise 1 — Sentence Translation (English → German) _(Lessons: 1, 2, 5)_
@@ -507,7 +507,7 @@ Each sentence has exactly one error. Identify and correct it.
 ---
 
 <details> <summary>Answer Key</summary>
-
+Lessons 54-60 Exercises answer key 
 **Exercise 1**
 
 1. Der Arzt sagt, sie soll die Tablette dreimal täglich nehmen.

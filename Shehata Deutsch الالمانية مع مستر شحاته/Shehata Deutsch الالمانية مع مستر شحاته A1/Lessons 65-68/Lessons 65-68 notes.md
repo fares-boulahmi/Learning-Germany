@@ -548,7 +548,7 @@ Verbs ending in _-ieren_ take **no ge-**: **Stamm + t**
 - (Perfekt — Fragesatz): Habt ihr schon eingekauft? 🇬🇧 Have you already done the shopping? | 🇸🇴 هل تسوقتم بالفعل؟
 
 ---
-
+Lessons 65-68 notes exercises 
 ## Part 3: Combined Practice Exercises
 
 #### Exercise 1 — Sentence Translation (English → German) _(Lessons: 65, 68)_
@@ -567,6 +567,16 @@ Translate the following sentences into German. Each sentence requires both _es g
 10. He picked up his mother from the school.
 
 ⇒
+1. In unserer  Garten gibt es einen Spielplatz 
+2. Gestern habe ich ein Sofa für der Wohnzimmer gekauft 
+3. Gebt es einen Keller in das Haus ?
+4. Sie besucht ihre Großmutter letzte Woche 
+5. Es gibt keinen Spiegel im Badezimmer
+6. Wie kaufen gestern im Supermarket ein 
+7. Es gibt ein bequemes Bett im Schlafzimmer 
+8. Hast du erklärt die Wort für deine Schwester ?
+9. Es gibt keinen Balkon in diese Wohnung 
+10. Er holt seine Mutter von der Schule ab 
 
 ---
 
@@ -576,7 +586,7 @@ Fill in each blank with the correct form of the indefinite or definite pronoun, 
 
 Lina sucht eine neue Wohnung. Sie fragt: „Gibt es ________ (1) Balkon?" Der Vermieter antwortet: „Ja, es gibt ________ (2)." Lina fragt weiter: „Und ein Arbeitszimmer — gibt es ________ (3)?" — „Leider gibt es ________ (4)." Dann sieht Lina zwei Sofas im Wohnzimmer. Sie fragt: „Wie findest du ________ (5) für 400€?" Ihr Freund sagt: „________ (6) finde ich zu klein. ________ (7) für 650€ ist besser." — „________ (8) mag ich auch, aber ________ (9) kann ich nicht kaufen. ________ (10) ist zu teuer."
 
-⇒
+⇒ Lina sucht eine neue Wohnung . Sie fragt : ,,Gibt es einen Balkon ?" Der Vermieter antwortet : ,, Ja m es gibt einen ." Lina fragt weiter : ,,Und ein Arbeitszimmer -- gibt es ein ?" -- ,,Leider gibt es kein ." Dann sieht Lina zwei Sofas im Wohnzimmer . Sie fragt : ,,Wie findest die für 400€ ?" Ihr Freund sagt: ,, Die finde ich zu klein . Die für 650€ ist besser ." Die mag ich auch , aber die kann ich nicht kaufen . Die ist zu teuer ." 
 
 ---
 
@@ -592,6 +602,12 @@ Reconstruct each sentence. Apply correct article forms (Nominativ / Akkusativ) a
 6. Badezimmer / Waschmaschine / gibt / es / eine / im
 
 ⇒
+1. Es gibt keinen Keller in dem Haus 
+2. Es gibt ein großes Sofa im Wohnzimmer 
+3. Der Kühlschrank ist in der Küche 
+4. Es gibt eine Jugendherberge neben dem Hochhaus 
+5. Es gibt keinen Flur in der Wohnung 
+6. Es gibt eine Waschmaschine im Badezimmer  
 
 ---
 
@@ -601,7 +617,7 @@ The following paragraph contains **10 errors** — wrong pronoun forms, wrong Pa
 
 Heute hat Lina im Supermarkt eingekauft. Sie hat einen Kühlschrank gesucht. Der Verkäufer hat gefragt: „Wie findest du das für 500€?" Lina hat gesagt: „Die finde ich zu teuer. Haben Sie noch welches?" Der Verkäufer hat eine für 300€ gezeigt. Lina hat gesagt: „Der sieht gut aus. Den nehme ich." Dann hat sie auch einen Spiegel gesehen. Sie hat keiner gebraucht, aber sie hat eine gekauft. Lina hat dem Spiegel mit ihrer Schwester abgeholt. Die Schwester hat sehr laut gelacht.
 
-⇒
+⇒ Heute hat Lina im Supermarkt eingekauft . Sie hat einen Kühlschrank gesehen . Der Verkäufer hat gefragt : ,,Wie findest du der für 500€?" Lina hat gesagt: ,,Den finde ich zu teuer . Haben Sie noch anderer ?" Der Verkäufer hat einen für 300€ gezeigt  . Lina Hat gesagt : ,, Der sieht gut aus . Den nehme ich ." Dann hat sie auch einen Spiegel gesehen . Sie hat keiner gebraucht , aber sie hat einer gekauft . Lina hat den Spiegel mit ihre Schwester abgeholt . Die Schwester hat sehr laut gelacht .
 
 ---
 
@@ -617,6 +633,12 @@ Transform each sentence as instructed in brackets.
 6. Es gibt ein Hochhaus in der Stadt. → [make negative, then make into a question]
 
 ⇒
+1. Es gibt keinen Tisch im Wohnzimmer 
+2. Wie find du der Kommode ? Sie ist schön .
+3. Es gibt keine Badewanne im Badezimmer 
+4. Ich habe einen 
+5. Lina kauft das . Das mag sie
+6. Es gibt kein Hochhaus in der Stadt . Gibt es ein Hochhaus in der Stadt ?
 
 ---
 
@@ -636,6 +658,16 @@ Each sentence below contains one error. Identify and correct it.
 10. Habt ihr schon im Supermarkt einkauft?
 
 ⇒
+1. Ich habe gestern Deutsch gelernt 
+2. Er ist nach Deutschland letzte Woche gefahren
+3. Es gibt keine Badewanne im Haus 
+4. Gibt es eine Küche in der Wohnung ?
+5. Sie hat mit ihre Mutter telefoniert 
+6. Ich habe das Fenster zugemacht -- stimmt . ich habe es zugemacht 
+7. Es gibt ein Problem -- gibt es kein ?
+8. Er hat sein Auto verkauft .
+9. Habt ihr schon im Supermarket eingekauft ?
+
 
 ---
 
@@ -652,12 +684,21 @@ The lines of this dialogue are scrambled. Reorder them into a logical conversati
 - Jan: Den nehme ich. Können Sie das Sofa abgeholen?
 - Verkäufer: Ja, wir holen es gerne ab.
 
-⇒
+⇒ 
+- Jan: Ich habe gestern hier eine Lampe gekauft . Ich möchte jetzt ein Sofa.
+- Jan: Wie findest du das Sofa hier?
+- Verkäufer: Meinst du den für 870€?
+- Jan: Den finde ich zu teuer. Haben Sie noch welche?
+- Verkäufer: Ja, hier ist einer für 450€.
+- Jan: Den nehme ich. Können Sie das Sofa abgeholt ?
+- Verkäufer: Ja, wir holen es gerne ab.
+- Franz: Leider haben wir keine mehr.
+
 
 ---
 
 <details> <summary>Answer Key</summary>
-
+Lessons 65-68 notes exercises  answer key 
 **Exercise 1**
 
 1. Es gibt einen Spielplatz in unserem Garten.

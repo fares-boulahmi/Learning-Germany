@@ -215,7 +215,7 @@ _gern_ bedeutet "like to" — es steht **nach dem konjugierten Verb**.
 - (wollen + Planung): Georg will nächstes Jahr Urlaub machen. — يخطط جورج لأخذ إجازة العام القادم. — Georg wants to take a holiday next year.
 
 ---
-
+Lessons 61-64 notes exercises 
 ## Part 3: Combined Practice Exercises
 
 #### Exercise 1 — Sentence Translation (English → German) _(Lessons: 1, 3, 4)_
@@ -374,7 +374,7 @@ B: Auch gut ! Bis bald!
 ---
 
 <details> <summary>Answer Key</summary>
-
+Lessons 61-64 notes exercises  answer key 
 **Exercise 1**
 
 1. Meine Mutter kocht gern, aber sie putzt selten das Haus.

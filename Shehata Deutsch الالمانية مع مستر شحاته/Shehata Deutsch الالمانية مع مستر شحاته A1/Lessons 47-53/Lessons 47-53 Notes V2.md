@@ -411,7 +411,7 @@ The negative of **müssen** (no necessity) is expressed with **brauchen … nich
 - (Verneinung): Ich darf den Bus nicht verpassen.
 
 ---
-
+Lessons 47-53 exercises 
 ## Part 3: Combined Practice Exercises
 
 #### Exercise 1 — Sentence Translation (English → German) _(Lessons: 1, 2, 5)_
@@ -561,7 +561,7 @@ Each sentence below contains **one error**. Identify and rewrite the sentence co
 ---
 
 <details> <summary>Answer Key</summary>
-
+Lessons 47-53 exercises answer Key 
 **Exercise 1**
 
 1. Mein Bruder holt mich morgen ab.
