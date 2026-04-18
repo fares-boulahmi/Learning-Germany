@@ -1,156 +1,88 @@
-You are a German language learning content generator.
+You are a German language teacher. I will give you a list of German vocabulary words. For each word, generate all its meaningful real-world states depending on its type:
 
-I will give you:
-1. **Known Words** — the full vocabulary I already know (I cannot use words outside this list in the content, except for: articles, prepositions like für/über/unter/neben/vor/durch/gegen/an/in/aus/bei/mit/nach/seit/zu/von/zwischen/hinter, conjunctions like und/aber/oder/weil/dass/wenn, auxiliary verbs like sein/haben/werden/können/müssen/wollen/möchten, and basic grammar words)
-2. **Focus Words** — a themed set of new words I am currently memorizing (e.g. "Set 3: Shopping & Money"). All focus words belong to one coherent theme.
+- **Verb** → conjugate in present tense for: ich, du, er/sie/es, wir, ihr, sie/Sie. Use a natural, logical sentence for each.
+- **Noun** → show it in: Nominative singular, Accusative singular, Dative singular, Genitive singular, Nominative plural, Accusative plural, Dative plural. Use a natural sentence for each.
+- **Adjective** → decline it with a noun in: Nominative (m/f/n), Accusative (m/f/n), Dative (m/f/n). Use a natural sentence for each.
 
-**Your task:** Generate a Markdown file containing:
-- 2 Paragraphs (Paragraph 1: A2 High informal, Paragraph 2: B1 Low formal)
-- 2 Dialogues (Dialogue 1: informal max 12 exchanges, Dialogue 2: formal max 12 exchanges)
-- 2 Emails (Email 1: informal max 10 sentences in body, Email 2: formal max 10 sentences in body)
+Output the results as **two files**:
 
-**Structure for every piece:**
+---
 
-For Paragraphs and Emails use this exact layout:
+**File 1 – Markdown file** named `german_memo.md`
+A single mixed table with these columns:
 
-**🇬🇧 English:**
-[English content]
+| German Sentence | English Translation | Arabic Translation  | Useful Info |
 
-**🇩🇪 Deutsch:**
-  
+Rules for the **Useful Info** column:
+- Keep it minimal but useful.
+- Mention gender (m/f/n) only when helpful.
+- Mention the case and reason if it adds value (e.g. "nach → always Dative").
+- For verbs, mention the conjugation form (e.g. "ich-form", "ihr-form").
+- Use short labels, no full sentences. Example: `Tisch (m) · Dative → dem` or `nach + Dative always`.
+- If nothing useful to add, leave the cell empty.
 
-<details>
-<summary>🇸🇦 العربية</summary>
-[Arabic translation]
-</details>
+---
 
-For Dialogues use this exact layout (use [Person 1] and [Person 2] — no character names):
+**File 2 – CSV file** named `anki_german_arabic.csv`
+- Anki-ready, semicolon `;` separator
+- Two columns only: German sentence ; Arabic translation
+- No header row
+- Wrap each field in double quotes
+- Arabic translation must be natural Arabic, not literal
 
-**🇬🇧 English:**
-**[Person 1]:** ...
-**[Person 2]:** ...
-(continue for all exchanges)
+---
 
-**🇩🇪 Deutsch:**
-**[Person 1]:**   
-**[Person 2]:**   
-(one placeholder line per exchange, matching the English line count exactly)
+Do not output anything outside the two files. Just create and return both files.
 
-<details>
-<summary>🇸🇦 العربية</summary>
-**[الشخص 1]:** ...
-**[الشخص 2]:** ...
-(all lines in Arabic, matching English line count exactly)
-</details>
+Here are my words:
+[### Set 5: Travel & Transportation
 
-**Rules:**
-1. Write all content first in English, then a German placeholder, then Arabic inside a <details> tag.
-2. Every focus word must appear at least 2 times total across all 6 pieces combined — spread across different pieces, not concentrated in one.
-3. All non-focus vocabulary must come exclusively from the Known Words list.
-4. Allowed freely without restriction: prepositions, articles, conjunctions, auxiliary/modal verbs, basic grammar words.
-5. Language level: A2 High for Paragraph 1, Dialogue 1, Email 1 — B1 Low for Paragraph 2, Dialogue 2, Email 2.
-6. At the end, include a Focus Word Coverage Tracker table (columns: Focus Word | P1 | P2 | D1 | D2 | E1 | E2 | Total) with a ⚠️ for any word below 2 appearances.
-7. All focus words must belong to one coherent named set — no mixing of random vocabulary.
+**Verbs:**
 
-**Known Words:**
-[Greetings: Guten Tag - Hallo - Auf Wiedersehen - Tschüss - Guten Morgen - Guten Abend - Gute Nacht
-
-Sein: ich bin - du bist - er ist - sie ist - es ist - wir sind - ihr seid - Sie sind - sie sind
-
-Basic: Wer bist du - Was ist dein Name - Mein Name ist - Wie geht es dir - Wie geht’s - Mir geht’s gut - Mir geht’s schlecht - Mir geht’s super - Mir geht’s nicht gut - Sind Sie - Bist du - Ja - Nein - Noch einmal bitte - Danke - Ich verstehe nicht - Ich weiß nicht
-
-Alphabet: wie schreibt man - Das schreibt man
-
-Numbers: null - ein - zwei - drei - vier - fünf - sechs - sieben - acht - neun - zehn - elf - zwölf - dreizehn - vierzehn - fünfzehn - sechzehn - siebzehn - achtzehn - neunzehn - zwanzig - dreißig - vierzig - fünfzig - sechzig - siebzig - achtzig - neunzig - hundert - tausend - Million - Milliarde
-
-Time: Datum - heute - morgen - Woche - Montag - Dienstag - Mittwoch - Donnerstag - Freitag - Samstag - Sonntag - Januar - Februar - März - April - Mai - Juni - Juli - August - September - Oktober - November - Dezember - Frühling - Sommer - Herbst - Winter - Uhr - Mittag - Mitternacht - Sekunde - Minute - Stunde
-
-Articles: der - die - das - ein - eine
-
-Personal: Wie heißen Sie - Ich heiße - Vorname - Familienname - wohnen - lebe - Adresse - Wie alt bist du - Jahre alt - männlich - weiblich - ledig - verheiratet - Telefonnummer
-
-Questions: Wann - Was - Wer - Wie - Wo - Woher - Wohin
-
-Countries: USA - Großbritannien - Australien - Irland - Deutschland - Schweiz - Türkei - Österreich - Tunesien - China - Indien
-
-Nationalities: Amerikaner - Australier - Tunesier - Engländer - Irländer - Deutscher - Schweizer - Türker - Österreicher - Koreaner - Chineser - Indianer
-
-Languages: Deutsch - Englisch - Arabisch - Spanisch - Chinesisch - Koreanisch - spreche - sprichst - sprechen
-
-Family: Mutter - Schwester - Frau - Tochter - Großmutter - Oma - Tante - Kusine - Vater - Bruder - Mann - Sohn - Großvater - Opa - Onkel - Cousin - Familie - Personen
-
-Haben: ich habe - du hast - er hat - sie hat - es hat - wir haben - ihr habt - Sie haben - sie haben
-
-Animals: Hund - Vogel - Bär - Löwe - Katze - Schlange - Maus - Biene - Kaninchen - Meerschweinchen - Pferd
-
-Adjectives: groß - klein - schlank - dick - jung - alt - ruhig - laut - nett - gemein - faul - fleißig - freundlich - unfreundlich - intelligent - unintelligent - launisch - kreativ - lustig
-
-Colors: rot - gelb - rosa - grün - orange - lila - blau - grau - weiß - schwarz - bunt
-
-Body: Augen - Haare - kurz - lang - blond - braun - grau - schwarz
-
-House: Haus - Wohnung - Garten - Balkon - Garage - Terrasse - Küche - Schlafzimmer - Badezimmer - Wohnzimmer - Esszimmer - Zimmer
-
-Furniture: Sofa - Tisch - Fernseher - Stuhl - Teppich - Kommode - Bett - Kleiderschrank - Badewanne - Dusche - Toilette - Kühlschrank - Herd - Spüle - Waschmaschine - Spülmaschine
-
-Prepositions: aus - bei - mit - nach - seit - zu - von - zwischen - an - in - unter - neben - auf - über - vor - hinter
-
-Daily: aufstehen - aufwachen - fernsehen - duschen - frühstücken - arbeiten - essen - gehen - kommen - schlafen - Zähne putzen - verlassen
-
-Jobs: Anwalt - Apotheker - Arzt - Bibliothekar - Chef - Kellner - Krankenpfleger - Lehrer - Schauspieler - Übersetzer - Informatiker - Verkäufer
-
-Workplaces: Büro - Schule - Krankenhaus - Geschäft - Supermarkt - Reisebüro - Café - Restaurant - Labor - Fabrik
-
- beginnen -beenden -dauern -verbringen - planen -organisieren -vorbereiten -erledigen -verschieben -vergessen -erinnern -warten -beeilen -entspannen -pausieren -der Alltag -die Gewohnheit -der Termin -die Verabredung -der Zeitplan -die Freizeit -die Beschäftigung - der Feierabend -das Wochenende -der Feiertag -die Pause -der Stress -die Eile -die Verspätung -die Pünktlichkeit -beschäftigt -frei -pünktlich -verspätet -regelmäßig -gelegentlich -täglich -wöchentlich - monatlich -  gewöhnlich
-fühlen -schmerzen - erkranken -  genesen -  husten -  niesen -  untersuchen -  behandeln -  verschreiben -  einnehmen -  verletzen - heilen -  schwitzen -  zittern -  atmen -  die Gesundheit -  die Krankheit -  die Erkältung -  das Fieber -  der Schmerz -  die Kopfschmerzen - der Husten - die Grippe - die Allergie -  das Medikament -  die Tablette - der Körper - die Haut -  das Blut -  die Verletzung -  gesund -  krank -  müde - schwach -  stark -  fit - schmerzhaft - chronisch -  ansteckend -  allergisch - 
-kaufen - verkaufen - bezahlen - kosten - sparen - ausgeben - umtauschen - zurückgeben - bestellen - liefern - verdienen - leihen - schulden - überweisen -  abheben - der Preis - das Geld - der Euro - die Rechnung - die Quittung - das Bargeld - die Kreditkarte - der Rabatt - die Mehrwertsteuer - das Angebot - der Einkauf - der Kunde - die Kasse - das Konto - die Überweisung - teuer - billig - günstig -  kostenlos - reduziert -  ausverkauft - verfügbar - knapp - wertvoll - preiswert ]
-
-**Focus Words (Set Name: Food & Dining):**
-[**Verbs:**
-
-1. schmecken - to taste
-2. kochen - to cook
-3. backen - to bake
-4. braten - to fry/roast
-5. schneiden - to cut
-6. schälen - to peel
-7. würzen - to season
-8. probieren - to try/taste
-9. servieren - to serve
-10. bestellen - to order
-11. empfehlen - to recommend
-12. bevorzugen - to prefer
-13. hungern - to be hungry
-14. dursten - to be thirsty
-15. verdauen - to digest
+1. reisen - to travel
+2. fliegen - to fly
+3. fahren - to drive/go
+4. abfahren - to depart
+5. ankommen - to arrive
+6. umsteigen - to change (trains/buses)
+7. buchen - to book
+8. reservieren - to reserve
+9. packen - to pack
+10. übernachten - to stay overnight
+11. besichtigen - to visit/sightseer
+12. erkunden - to explore
+13. verpassen - to miss
+14. verzögern - to delay
+15. erreichen - to reach
 
 **Nouns:**
 
-1. das Frühstück - breakfast
-2. das Mittagessen - lunch
-3. das Abendessen - dinner
-4. die Mahlzeit - meal
-5. die Vorspeise - appetizer
-6. die Hauptspeise - main course
-7. der Nachtisch - dessert
-8. die Speisekarte - menu
-9. die Portion - portion
-10. das Rezept - recipe
-11. die Zutat - ingredient
-12. das Gewürz - spice
-13. das Gemüse - vegetables
-14. das Fleisch - meat
-15. die Beilage - side dish
+1. die Reise - trip/journey
+2. der Urlaub - vacation
+3. der Flughafen - airport
+4. der Bahnhof - train station
+5. die Haltestelle - stop
+6. das Gleis - platform/track
+7. der Zug - train
+8. das Flugzeug - airplane
+9. der Bus - bus
+10. die Straßenbahn - tram
+11. das Ticket - ticket
+12. die Fahrkarte - ticket (train/bus)
+13. der Koffer - suitcase
+14. das Gepäck - luggage
+15. der Ausflug - excursion
 
 **Adjectives:**
 
-1. lecker - delicious
-2. süß - sweet
-3. sauer - sour
-4. salzig - salty
-5. scharf - spicy/hot
-6. bitter - bitter
-7. frisch - fresh
-8. verdorben - spoiled
-9. roh - raw
-10. gekocht - cooked]
+1. direkt - direct
+2. indirekt - indirect
+3. rechtzeitig - on time
+4. verspätet - delayed
+5. gebucht - booked
+6. verfügbar - available
+7. ausgebucht - fully booked
+8. einfach - single (ticket)
+9. hin und zurück - return
+10. bequem - comfortable
+]

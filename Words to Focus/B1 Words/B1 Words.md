@@ -2,6 +2,7 @@
 [[Connected Paragraphs ]]
 [[Dialogues B1 words prompt]]
 [[B1 words Sentence generate ]]
+[[Generate Translation Work ]]
 [[Prompt temp page ]]
 
 ## Sets 
@@ -17,3 +18,4 @@
 [[Set 2 ]]
 [[Set 3]]
 [[Set 4]]
+[[Set 5]]

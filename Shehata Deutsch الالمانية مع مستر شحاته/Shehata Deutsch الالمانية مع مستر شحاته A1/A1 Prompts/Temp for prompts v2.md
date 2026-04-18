@@ -1,533 +1,74 @@
+# German Teaching Material Generator
 
+## What You Paste In
 
-## What This Is
-
-A targeted drilling set that runs **after** you've already done the lesson exercises once. It does not re-teach. It does not scaffold. It forces you to produce correct German under exam pressure using only grammar you've already studied and vocabulary you already know.
-
----
-
-## What You Provide as Input
-
-### 1. Lesson Notes (Part 1 output from Lesson Processor)
+### 1. Current Error Report (Section B — Generator Feed)
 
 ```
-# German Lesson Set — Folge 73–79
-
----
-
-## Part 1: Lesson Notes
-
-### Lesson 1: Folge 73 — Präteritum von haben und sein
-
-#### Präsens: haben
-
-|Pronomen|haben|Beispiel|
-|---|---|---|
-|ich|habe|Ich habe Zeit.|
-|du|hast|Du hast Geld.|
-|er/sie/es|hat|Er hat ein Auto. / Sie hat ein Haus in Amerika.|
-|wir|haben|Wir haben einen Hund.|
-|ihr|habt|Ihr habt viel Arbeit.|
-|sie/Sie|haben|Sie haben heute Unterricht. / Sie haben ein schönes Handy.|
-
-#### Präteritum: hatten
-
-|Pronomen|hatten|Beispiel|
-|---|---|---|
-|ich|hatte|Ich hatte gestern Zeit.|
-|du|hattest|Du hattest vorgestern Geld.|
-|er/sie/es|hatte|Er hatte früher ein Auto. / Es hatte letzte Woche eine gute Idee.|
-|wir|hatten|Wir hatten mal einen Hund.|
-|ihr|hattet|Ihr hattet letzten Monat viel Arbeit.|
-|sie/Sie|hatten|Sie hatten gestern Unterricht. / Sie hatten letztes Jahr ein schönes Handy.|
-
-#### Präsens: sein
-
-|Pronomen|sein|Beispiel|
-|---|---|---|
-|ich|bin|Ich bin krank.|
-|du|bist|Du bist hungrig / durstig / satt.|
-|er/es/sie|ist|Er ist in Deutschland. / Sie ist eine Ärztin.|
-|wir|sind|Wir sind im Kino / Theater.|
-|ihr|seid|Ihr seid gesund.|
-|sie/Sie|sind|Sie sind pünktlich / spät / früh. / Sie sind höflich / frech.|
-
-#### Präteritum: waren
-
-|Pronomen|waren|Beispiel|
-|---|---|---|
-|ich|war|Ich war gestern krank.|
-|du|warst|Du warst hungrig / durstig / satt.|
-|er/es/sie|war|Er war vor einigen Jahren in Deutschland. / Sie war in der Vergangenheit eine Ärztin.|
-|wir|waren|Wir waren vorgestern im Kino / Theater.|
-|ihr|wart|Ihr wart vor einigen Tagen gesund.|
-|sie/Sie|waren|Sie waren pünktlich / spät / früh. / Sie waren höflich / frech.|
-
-#### Zeitausdrücke für das Präteritum
-
-Typische Zeitangaben, die das Präteritum begleiten:
-
-- gestern, früher, letzte Woche, letzten Monat, letztes Jahr
-- vor einer Stunde, vor einem Jahr, vor einigen Jahren / Tagen
-- heute Morgen, in der Vergangenheit, 1999
-
----
-
-### Lesson 2: Folge 74 — Der Alltag
-
-#### Vokabular mit Beispielen
-
-|Verb / Ausdruck|Beispielsatz|
-|---|---|
-|im Garten arbeiten|Ich arbeite im Garten.|
-|kochen|Ich koche das Essen.|
-|backen|Die Mutter backt den Kuchen.|
-|spülen|Der Vater spült die Töpfe.|
-|waschen|Ich wasche die Wäsche.|
-|aufhängen|Die Frau hängt die Wäsche auf.|
-|abhängen|Sie hängt die Wäsche ab.|
-|zusammenlegen|Ich lege die Wäsche zusammen.|
-|bügeln|Die Frau bügelt ihr Abendkleid.|
-|kehren|Ich kehre den Boden.|
-|aufräumen|Ich räume mein Zimmer auf.|
-|putzen|Die Mutter putzt die Wohnung.|
-|Bett machen|Ich mache mein Bett.|
-|aufwachen|Er wacht auf.|
-|einkaufen|Ich kaufe im Supermarkt ein.|
-|Müll rausbringen|Ich bringe den Müll raus.|
-|E-Mail schreiben|Der Mann schreibt eine E-Mail.|
-|im Internet surfen|Der Junge surft im Internet.|
-|ins Bett gehen|Ahmed geht ins Bett.|
-|Zeitung / Zeitschrift lesen|Ich lese die Zeitung / Zeitschrift.|
-|ins Kino / Konzert gehen|Die Freunde gehen ins Kino / Konzert.|
-|zeichnen|Ich zeichne eine Blume.|
-|malen|Er malt das Bild.|
-|schlafen|Das Baby schläft viel.|
-|aufstehen|Ich stehe jeden Tag um 6:00 Uhr auf.|
-|zur Arbeit gehen / fahren|Ich gehe / fahre zur Arbeit.|
-|nach Hause kommen|Ich komme um 8:00 Uhr nach Hause.|
-|sich erholen|Ich will mich erholen.|
-|Besuch haben|Wir haben Besuch.|
-|Geburtstag haben|Ich habe Geburtstag am 22. Mai.|
-|Geburtstag feiern|Ich feiere heute Geburtstag.|
-|ins Fitnessstudio gehen|Ich gehe ins Fitnessstudio.|
-|einen Ausflug machen|Wir machen einen Ausflug.|
-|lernen|Er lernt Deutsch.|
-|fernsehen|Ich möchte fernsehen.|
-|Blumen gießen|Der Bauer gießt jeden Tag die Blumen.|
-|Rad fahren|Ich fahre jeden Abend Rad.|
-|schwimmen|Er kann schwimmen.|
-|Leute / Freunde treffen|Am Wochenende treffe ich meine Freunde.|
-|telefonieren|Ich telefoniere mit meiner Tante.|
-|sich unterhalten|Wir unterhalten uns über die Politik.|
-|Instrument spielen|Er spielt Gitarre.|
-|Ball spielen|Er spielt Wasserball.|
-
----
-
-### Lesson 3: Folge 75 — Der Dativ
-
-#### Artikel im Dativ
-
-|Kasus|der|das|die (Sg.)|die (Pl.)|
-|---|---|---|---|---|
-|Nom.|der|das|die|die|
-|Akk.|den|das|die|die|
-|**Dat.**|**dem**|**dem**|**der**|**den + n**|
-
-|Kasus|ein|ein|eine|—|
-|---|---|---|---|---|
-|Nom.|ein|ein|eine|—|
-|Akk.|einen|ein|eine|—|
-|**Dat.**|**einem**|**einem**|**einer**|**— + n**|
-
-|Kasus|kein|kein|keine|keine|
-|---|---|---|---|---|
-|Nom.|kein|kein|keine|keine|
-|Akk.|keinen|kein|keine|keine|
-|**Dat.**|**keinem**|**keinem**|**keiner**|**keinen + n**|
-
-> **Regel:** Im Dativ Plural erhalten alle Nomen die Endung **-n**, sofern sie diese noch nicht haben.
-
-#### Personalpronomen
-
-|Nominativ|Akkusativ|Dativ|
-|---|---|---|
-|ich|mich|mir|
-|du|dich|dir|
-|er|ihn|ihm|
-|es|es|ihm|
-|sie|sie|ihr|
-|wir|uns|uns|
-|ihr|euch|euch|
-|sie|sie|ihnen|
-|Sie|Sie|Ihnen|
-
-#### Verben mit Dativ (immer mit Dativobjekt)
-
-> Diese Verben verlangen zwingend den Dativ:
-
-danken, helfen, antworten, gratulieren, vertrauen, glauben, verzeihen, zuhören, folgen, dienen, drohen, raten, absagen, ähneln, begegnen, beitreten, gehorchen, nützen, schaden, passieren, wehtun, fehlen, gefallen, gehören, schmecken, passen
-
-**Beispiele:**
-
-> - Der Schüler dankt dem Lehrer / ihm.
-> - Die Schülerin dankt der Lehrerin / ihr.
-> - Ich helfe dem Mann / ihm.
-> - Sara antwortet der Mutter.
-
-#### Possessivartikel im Dativ
-
-|Pronomen|der|das|die|die (Pl.)|
-|---|---|---|---|---|
-|ich|meinem|meinem|meiner|meinen|
-|du|deinem|deinem|deiner|deinen|
-|er / es|seinem|seinem|seiner|seinen|
-|sie|ihrem|ihrem|ihrer|ihren|
-|wir|unserem|unserem|unserer|unseren|
-|ihr|eurem|eurem|eurer|euren|
-|sie|ihrem|ihrem|ihrer|ihren|
-
----
-
-### Lesson 4: Folge 76 — Verben mit Dativ (erweiterte Liste)
-
-> Eine erweiterte Liste von Verben, die den Dativ verlangen, mit Beispielen:
-
-|Verb|Beispiel|
-|---|---|
-|nützen|Das Buch nützt dem Schüler.|
-|schaden|Rauchen schadet der Gesundheit.|
-|dienen|Ich diene der Dame.|
-|helfen|Die Tochter hilft ihrer Mutter.|
-|beistehen|Ich stehe dem armen Mann bei.|
-|gefallen|Das Essen gefällt mir.|
-|missfallen|Die Tasche missfällt dem Mädchen.|
-|gehören|Das Handy gehört dem Lehrer.|
-|fehlen|Mir fehlt die Heimat.|
-|schmecken|Pizza schmeckt ihm.|
-|genügen|Das genügt mir.|
-|gelingen|Die Arbeit gelingt mir.|
-|gehorchen|Die Kinder gehorchen den Eltern.|
-|drohen|Ich drohe dem Verbrecher.|
-|vertrauen|Ich vertraue meinem Vater.|
-|misstrauen|Ich misstraue dem Mann.|
-|glauben|Ich glaube meinem Sohn.|
-|zuhören|Die Schüler hören dem Lehrer zu.|
-|zusehen|Wir sehen dem Professor zu.|
-|trotzen|Ich trotze dir.|
-|widerstehen|Ich kann der Liebe nicht widerstehen.|
-|sich nähern|Das Schiff nähert sich dem Ufer.|
-|folgen|Er folgt der Frau.|
-|begegnen|Ich begegne meinen Freunden.|
-|ausweichen|Ich konnte dem Stein ausweichen.|
-|entlaufen|Die Katze ist mir entlaufen.|
-|entkommen|Das Kind ist dem Hund entkommen.|
-|entfliehen|Der Verbrecher ist dem Polizisten entfliehen.|
-|gleichen|Sie gleicht ihrer Mutter.|
-|ähneln|Mein Sohn ähnelt mir.|
-|sagen|Ich sage dir die Wahrheit.|
-|antworten|Die Schülerin antwortet der Lehrerin.|
-|erzählen|Ich erzähle dir die Geschichte.|
-|erwidern|Der Sohn erwidert seinem Vater.|
-|entgegnen|Ich entgegne ihm.|
-|widersprechen|Ich muss dem Mann widersprechen.|
-|zureden|Der Verkäufer hat mir zugeredet.|
-|zustimmen|Ich stimme dir zu.|
-|raten|Die Mutter rät ihrer Tochter.|
-|abraten|Ich rate dir von diesem Jungen ab.|
-|befehlen|Der Lehrer befiehlt den Schülern, die Übung zu lösen.|
-
----
-
-### Lesson 5: Folge 77 — Verben mit Akkusativ und Dativ
-
-> Viele Verben nehmen **zwei Objekte**: eine Person im **Dativ** und eine Sache im **Akkusativ**.
-> 
-> Schema: **Verb + Dativ (Person) + Akkusativ (Sache)**
-
-#### Verben des Gebens / Übertragens
-
-|Verb|Beispiel|
-|---|---|
-|geben|Wir geben dem Mann das Geld.|
-|zeigen|Er zeigt dem Mädchen das Museum.|
-|sagen|Sie sagt dem Mann die Wahrheit.|
-|schicken|Max schickt der Chefin eine E-Mail.|
-|kaufen|Lisa kauft der Mutter ein Auto.|
-|holen|Ich hole der Katze das Futter.|
-|bringen|Finn bringt der Tochter die Blumen.|
-|schenken|Er schenkt dem Sohn ein Handy.|
-
-#### Verben des Nehmens / Entziehens
-
-|Verb|Beispiel|
-|---|---|
-|nehmen|Er nimmt mir die Bücher.|
-|wegnehmen|Er nimmt dir dein Geld weg.|
-|stehlen|Der Dieb stiehlt uns unser Handy.|
-|rauben|Er raubt mir die Freude.|
-|entwenden|Er entwendet meinem Vater sein Auto.|
-|entziehen|Der Polizist entzieht mir den Führerschein.|
-|verweigern|Die Botschaft verweigert dem Mann das Visum.|
-
-#### Verben des Leihens / Sendens
-
-|Verb|Beispiel|
-|---|---|
-|leihen|Ich leihe dir mein Auto.|
-|borgen|Ich borge dir unseren Fernseher.|
-|liefern|Er liefert uns den Brief.|
-|schicken|Ich schicke dir einen Brief.|
-|senden|Ich sende dir eine E-Mail.|
-
-#### Verben des Mitteilens
-
-|Verb|Beispiel|
-|---|---|
-|sagen|Ich sage dir die Wahrheit.|
-|antworten|Ich antworte dir die Frage.|
-|mitteilen|Ich teile dir die Nachricht mit.|
-|erzählen|Ich erzähle dir eine Geschichte.|
-|schreiben|Ich schreibe dir einen Brief.|
-|erlauben|Ich erlaube dir das.|
-|verbieten|Ich verbiete dir das Rauchen.|
-
-#### Weitere Verben mit Dativ + Akkusativ
-
-|Verb|Beispiel|
-|---|---|
-|anvertrauen|Ich vertraue dir meine Kinder an.|
-|beweisen|Ich beweise dir die Wahrheit.|
-|empfehlen|Ich empfehle dir diese Frau.|
-|reichen|Ich reiche dir die Hand.|
-|überlassen|Er überlässt uns seine Wohnung.|
-|verschweigen|Er verschweigt mir seine Kinder.|
-|versprechen|Ich verspreche dir ein Auto.|
-|erklären|Er erklärt uns den Dativ.|
-|glauben|Ich glaube dir kein Wort.|
-|wünschen|Ich wünsche Ihnen viel Glück.|
-|beibringen|Herr Shehata bringt uns Deutsch bei.|
-|anbieten|Was kann ich dir anbieten?|
-|aufmachen|Ich mache dir die Tür auf.|
-|zumachen|Ich mache dir das Fenster zu.|
-
----
-
-### Lesson 6: Folge 78 — Personalpronomen im Dativ
-
-> Wiederholung und Vertiefung der Personalpronomen in allen drei Kasus:
-
-|Nominativ|Akkusativ|Dativ|
-|---|---|---|
-|ich|mich|mir|
-|du|dich|dir|
-|er|ihn|ihm|
-|es|es|ihm|
-|sie|sie|ihr|
-|wir|uns|uns|
-|ihr|euch|euch|
-|sie|sie|ihnen|
-|Sie|Sie|Ihnen|
-
-**Anwendungsbeispiele:**
-
-> - Wer kann **mir** (ich) helfen?
-> - Wer kann **uns** (wir) die Bücher bringen?
-> - Wie geht es **dir** (du)?
-> - Wie geht es **ihm** (er)?
-> - Wie geht es **ihr** (sie)?
-> - Wie geht es **Ihnen** (Sie)?
-> - Das Hemd passt **ihm** (Kind) gut.
-> - Herr Shehata bringt **uns** (wir) Deutsch bei.
-
----
-
-### Lesson 7: Folge 79 — Possessivpronomen im Dativ
-
-#### Possessivartikel im Nominativ
-
-|Pronomen|der|das|die|die (Pl.)|
-|---|---|---|---|---|
-|ich|mein|mein|meine|meine|
-|du|dein|dein|deine|deine|
-|er / es|sein|sein|seine|seine|
-|sie|ihr|ihr|ihre|ihre|
-|wir|unser|unser|unsere|unsere|
-|ihr|euer|euer|eure|eure|
-|sie|ihr|ihr|ihre|ihre|
-|Sie|Ihr|Ihr|Ihre|Ihre|
-
-#### Possessivartikel im Akkusativ
-
-|Pronomen|der|das|die|die (Pl.)|
-|---|---|---|---|---|
-|ich|meinen|mein|meine|meine|
-|du|deinen|dein|deine|deine|
-|er / es|seinen|sein|seine|seine|
-|sie|ihren|ihr|ihre|ihre|
-|wir|unseren|unser|unsere|unsere|
-|ihr|euren|euer|eure|eure|
-|sie|ihren|ihr|ihre|ihre|
-|Sie|Ihren|Ihr|Ihre|Ihre|
-
-#### Possessivartikel im Dativ
-
-|Pronomen|der|das|die|die (Pl.)|
-|---|---|---|---|---|
-|ich|meinem|meinem|meiner|meinen|
-|du|deinem|deinem|deiner|deinen|
-|er / es|seinem|seinem|seiner|seinen|
-|sie|ihrem|ihrem|ihrer|ihren|
-|wir|unserem|unserem|unserer|unseren|
-|ihr|eurem|eurem|eurer|euren|
-|sie|ihrem|ihrem|ihrer|ihren|
-|Sie|Ihrem|Ihrem|Ihrer|Ihren|
-
-**Beispiele:**
-
-> - Ich helfe **meiner / deiner / seiner / ihrer** Mutter.
-> - Ich gratuliere **meinem / unserem / eurem** Sohn.
-> - Ich antworte **meinen / deinen / Ihren / ihren** Kindern.
-> - Ich danke **deinem / eurem / seinem** Mädchen.
-
----
-
-## Part 2: New Words
-
-### New Words — Lesson 1: Präteritum von haben und sein
-
-**hatte** (Verb: haben → er/sie/es hatte)
-
-- (Präteritum, Verneinung): Er hatte gestern kein Geld.
-- (Präteritum, Frage): Hattest du früher ein Auto?
-
-**war** (Verb: sein → er/sie/es war)
-
-- (Präteritum, Singular): Sie war letztes Jahr in Deutschland.
-- (Präteritum, Plural): Wir waren vor einigen Tagen im Kino.
-
-**wart** (Verb: sein → ihr wart)
-
-- (Präteritum, 2. Person Plural): Wart ihr gestern gesund?
-- (Präteritum, Frage): Wart ihr pünktlich oder spät?
-
----
-
-### New Words — Lesson 2: Der Alltag
-
-**aufräumen** (Verb: aufräumen, er räumt auf — trennbares Verb)
-
-- (Akkusativ): Ich räume mein Zimmer auf.
-- (Verneinung): Er räumt sein Zimmer nie auf.
-
-**sich erholen** (Verb: sich erholen, er erholt sich — reflexiv)
-
-- (Dativ-Kontext / Wunsch): Ich will mich am Wochenende erholen.
-- (Plural): Wir erholen uns jeden Sommer am Meer.
-
-**der Ausflug** (der Ausflug / Plural: die Ausflüge)
-
-- (Akkusativ): Wir machen am Wochenende einen Ausflug.
-- (Plural): Die Kinder machen viele Ausflüge im Sommer.
-
----
-
-### New Words — Lesson 3: Der Dativ
-
-**gehören** (Verb: gehören, es gehört — immer mit Dativ)
-
-- (Dativ, bestimmter Artikel): Das Handy gehört dem Lehrer.
-- (Dativ, Personalpronomen): Das Buch gehört ihr.
-
-**gefallen** (Verb: gefallen, es gefällt — immer mit Dativ)
-
-- (Dativ, Singular): Das Essen gefällt mir sehr.
-- (Dativ, Plural): Die Bilder gefallen den Touristen.
-
-**schmecken** (Verb: schmecken, es schmeckt — immer mit Dativ)
-
-- (Dativ, Singular): Pizza schmeckt dem Kind.
-- (Dativ, Verneinung): Fisch schmeckt den Kindern meistens nicht.
-
----
-
-### New Words — Lesson 4: Verben mit Dativ (erweitert)
-
-**wehtun** (Verb: wehtun, es tut weh — trennbar, immer mit Dativ)
-
-- (Dativ, Singular): Mein Zahn tut mir weh.
-- (Dativ, Frage): Tut dir dein Knie noch immer weh?
-
-**gelingen** (Verb: gelingen, es gelingt — immer mit Dativ)
-
-- (Dativ, Singular): Die Arbeit gelingt mir heute gut.
-- (Dativ, Verneinung): Das Experiment gelingt ihm nicht.
-
-**ähneln** (Verb: ähneln, er ähnelt — immer mit Dativ)
-
-- (Dativ, Singular): Mein Sohn ähnelt mir sehr.
-- (Dativ, Personalpronomen): Sie ähnelt ihrer Mutter.
-
----
-
-### New Words — Lesson 5: Verben mit Akkusativ und Dativ
-
-**schenken** (Verb: schenken, er schenkt — Dativ + Akkusativ)
-
-- (Dativ Person + Akkusativ Sache): Er schenkt dem Sohn ein Handy.
-- (Possessiv im Dativ): Ich schenke meiner Freundin eine Tasche.
-
-**empfehlen** (Verb: empfehlen, er empfiehlt — Dativ + Akkusativ)
-
-- (Dativ + Akkusativ): Ich empfehle dir dieses Restaurant.
-- (Höflichkeitsform): Ich empfehle Ihnen diesen Film.
-
-**versprechen** (Verb: versprechen, er verspricht — Dativ + Akkusativ)
-
-- (Dativ + Akkusativ): Ich verspreche dir ein Auto.
-- (Verneinung): Er verspricht ihr nichts.
-
----
-
-### New Words — Lesson 6: Personalpronomen im Dativ
-
-**mir** (Personalpronomen Dativ von „ich")
-
-- (Dativ nach Verb mit Dativ): Wer kann mir helfen?
-- (Dativ, Gefühl): Der Film hat mir sehr gut gefallen.
-
-**ihnen** (Personalpronomen Dativ von „sie" Plural)
-
-- (Dativ, Plural): Ich erkläre ihnen die Grammatik.
-- (Dativ, Verneinung): Das gefällt ihnen überhaupt nicht.
-
-**Ihnen** (Personalpronomen Dativ von „Sie" Höflichkeitsform)
-
-- (Höflichkeitsform, Dativ): Ich wünsche Ihnen viel Glück.
-- (Höflichkeitsform, Frage): Wie geht es Ihnen?
-
----
-
-### New Words — Lesson 7: Possessivpronomen im Dativ
-
-**unserem** (Possessivartikel Dativ, maskulin/neutrum von „wir")
-
-- (Dativ, maskulin): Wir gratulieren unserem Sohn zum Geburtstag.
-- (Dativ, neutrum): Wir danken unserem Kind.
-
-**ihrer** (Possessivartikel Dativ, feminin von „sie" Singular)
-
-- (Dativ, feminin): Sie hilft ihrer Mutter jeden Tag.
-- (Dativ, Verb mit Dativ): Er ähnelt seiner Mutter — sie ähnelt ihrer Mutter.
-
-**euren** (Possessivartikel Dativ, Plural von „ihr")
-
-- (Dativ, Plural): Ihr antwortet euren Freundinnen.
-- (Dativ, Verb mit Dativ): Wir danken euren Eltern.
+=== ERROR REPORT — SET 13 ===
+Generated from: Sets 11, 12, 13
+
+--- CRITICAL ERRORS (must appear at least twice in Block 1) ---
+
+• FORM: habe essen / hat anrufen / hat schlafen / hat gefrühstückt wrong → gegessen / angerufen / geschlafen / gefrühstückt | CATEGORY: Perfekt — past participle formation in free production | FREQUENCY: Sets 12+13 (CRITICAL — all free-production Perfekt attempts failed Set 13)
+• FORM: weil er ist / weil lebe nicht / weil kein Geld er → weil er … ist / weil ich … esse / weil er kein Geld … hat | CATEGORY: subordinate clause verb-final — broken in free production | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
+• FORM: aber after kein/nicht-negation → sondern; sondern after addition → aber | CATEGORY: kein/nicht + sondern for correction vs. aber for addition | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
+• FORM: seit wie viele Jahren → seit wie vielen Jahren | CATEGORY: seit + dative plural interrogative phrase | FREQUENCY: Sets 10+11+12+13 (CRITICAL — 4 consecutive sets)
+• FORM: noch nicht + Präsens → noch nicht + Perfekt | CATEGORY: noch nicht for "not yet" requires Perfekt | FREQUENCY: Sets 11+12+13 (CRITICAL — 3 consecutive sets)
+• FORM: Ich bin seit X interessiere / interessiert für das → Ich interessiere mich seit X dafür | CATEGORY: reflexive verb — doubled finite verb; pronominal adverb dafür | FREQUENCY: Sets 11+12+13 (CRITICAL — 3 consecutive sets)
+• FORM: Block 4 produced ~10 sentences, missing doch / Sie-imperatives / noch nicht Perfekt / weil-verb-final → all required elements present, 16-sentence minimum | CATEGORY: integrated production — checklist compliance | FREQUENCY: Sets 12+13 (CRITICAL)
+
+--- ACTIVE ERRORS (must appear at least once in Block 1) ---
+
+• FORM: bekommt → kommt | CATEGORY: vocabulary — bekommen (to receive) vs. kommen (to come/arrive) | FREQUENCY: Set 13 (3 instances)
+• FORM: ihre Kollegin / ihre Schlüssel (helfen) → ihrem Kollegen | CATEGORY: helfen + dative — accusative used instead | FREQUENCY: Sets 12+13
+• FORM: zu Arbeit → bei der Arbeit | CATEGORY: prepositional phrase — at work | FREQUENCY: Sets 12+13
+• FORM: liest (ihr-context) → lest; nimmt (ihr-context) → nehmt | CATEGORY: ihr-imperative — indicative er/sie/es form used instead | FREQUENCY: Sets 12+13
+• FORM: Kauf Lebensmittel / Kauft Lebensmittel → Kauf Lebensmittel ein! | CATEGORY: separable verb imperative — prefix dropped | FREQUENCY: Sets 12+13
+• FORM: empfiehlt etwas → empfehlen Sie etwas | CATEGORY: Sie-imperative — er/sie/es form used instead of infinitiv + Sie | FREQUENCY: Set 13
+• FORM: Er lieber abends essen (no finite verb) → Er isst lieber abends | CATEGORY: finite verb omitted with modal-adjacent adverb lieber | FREQUENCY: Set 13
+• FORM: meiner/meines substituted for deiner/deinen (B5) → correct possessive pronoun person selection | CATEGORY: pronominale Possessiva — wrong person | FREQUENCY: Set 13
+• FORM: lichter → leichter | CATEGORY: comparative form — leicht → leichter | FREQUENCY: Set 13
+• FORM: für hocken → für das Kochen | CATEGORY: nominalized infinitive — wrong verb + capitalisation + article das | FREQUENCY: Set 13
+• FORM: ihr-imperative of lesen: liest → lest | CATEGORY: ihr-imperative form | FREQUENCY: Set 13
+
+--- RESOLVED ERRORS (do not re-test — student has fixed these) ---
+
+• rieft → hat angerufen — last seen: Set 12 → Set 13: Perfekt attempted (form wrong but rieft not produced)
+• Die teuern → die teuren — last seen: Set 12 → not tested Set 13
+• gesundheit nicht → nicht gesund — last seen: Set 12 → not retested
+• Student → Studentin — last seen: Set 12 → Set 13: correct
+• Wenn besuche ich → Wenn ich … besuche — partially tested: wenn-clause word order still broken (see active)
+• Auf Wiedersehen → Mit freundlichen Grüßen — last seen: Set 10 → confirmed resolved
+• doch polarity in isolated prompts — confirmed resolved
+• Accusative vs. Nominative article selection in drill — confirmed solid
+• Adjective endings — indefinite nominative — confirmed solid
+
+--- STRENGTHS (do not target these in Block 1 — already solid) ---
+
+• nicht mehr as temporal negation — consistent across all prompts
+• Mit freundlichen Grüßen — correct closing
+• wohin for directed motion — consistent
+• seit + Präsens in structured sentence slots — correct when cued
+• doch contradiction — correct discourse function when prompted
+• nicht mehr Studentin (predicate nominal) — correct
+• du-imperative fahr — no umlaut, correct
+• du-imperative iss — vowel change correct
+• kein/keine mehr (quantity negation) — correct
+• Separable verb sieht…aus — correct position in B1 rewrite
+
+--- GENERATOR NOTES ---
+
+1. Block 1 paragraph must include minimum 5 Perfekt verbs in context where student must produce them in free rewrite — at least 3 with irregular past participles (geschlafen, angerufen, gegessen). Do NOT provide the infinitive — force recall of full Perfekt form. At least 2 of these must appear in noch nicht + Perfekt slots.
+
+2. Block 3 Speed Production must include minimum 6 prompts requiring Perfekt in free production with no completion blank. Distribute across regular and irregular verbs. Include at least 2 prompts where the trap is using Präsens instead of Perfekt with noch nicht.
+
+3. Block 4 formal email: print the checklist in full inside the task. Add a mandatory pre-submission checklist the student must fill in: "Write the number of the sentence where you used: (a) seit + Präsens __, (b) doch __, (c) Sie-imperative 1 __, (d) Sie-imperative 2 __, (e) noch nicht + Perfekt __, (f) weil + verb final __." Hard minimum 16 sentences. Student produced ~10 sentences with most checklist items absent in both Sets 12 and 13 — checklist must be interactive not passive.
+
+4. Block 2 must include at least 2 sentences requiring bekommt vs. kommt distinction — student used bekommt for "arrives/comes" 3 times in Set 13. Also include one helfen sentence requiring dative (ihrem Kollegen not ihre Kollegin) and one ihr-imperative of a separable verb to combine two active errors in one prompt.
 ```
 
-### 2. Error Report
+### 2. Previous Error Report (Section B — Generator Feed)
 
 ```
 === ERROR REPORT — LESSONS 47–72 (Pre-Set Feed) ===
@@ -615,213 +156,208 @@ Generated from: Lesson exercises 47–53, 54–60, 61–64, 65–68, 69–72
 5. Include one prompt per block requiring the mögen vs. wollen distinction in an invitation or intent context — student conflates "do you like to" with "do you want to" when extending invitations.
 ```
 
-### 3. Known Word List
+---
 
-```
-Greetings: Guten Tag - Hallo - Auf Wiedersehen - Tschüss - Guten Morgen - Guten Abend - Gute Nacht
+## What You Will Receive
 
-Sein: ich bin - du bist - er ist - sie ist - es ist - wir sind - ihr seid - Sie sind - sie sind
+One markdown file used as a **warm-up review before the next practice set**.
 
-Basic: Wer bist du - Was ist dein Name - Mein Name ist - Wie geht es dir - Wie geht’s - Mir geht’s gut - Mir geht’s schlecht - Mir geht’s super - Mir geht’s nicht gut - Sind Sie - Bist du - Ja - Nein - Noch einmal bitte - Danke - Ich verstehe nicht - Ich weiß nicht
+Three parts:
 
-Alphabet: wie schreibt man - Das schreibt man
+- **PART 1 — Mini-Lessons:** Short targeted lessons built from your current errors. Each one starts from your actual wrong form, not an invented example.
+- **PART 2 — Cheat Sheet:** Condensed reference tables you scan in 2 minutes before the next set.
+- **PART 3 — Vocabulary Gap List:** Three sections — wrong/unknown words, word families, fixed phrases you keep breaking.
 
-Numbers: null - ein - zwei - drei - vier - fünf - sechs - sieben - acht - neun - zehn - elf - zwölf - dreizehn - vierzehn - fünfzehn - sechzehn - siebzehn - achtzehn - neunzehn - zwanzig - dreißig - vierzig - fünfzig - sechzig - siebzig - achtzig - neunzig - hundert - tausend - Million - Milliarde
-
-Time: Datum - heute - morgen - Woche - Montag - Dienstag - Mittwoch - Donnerstag - Freitag - Samstag - Sonntag - Januar - Februar - März - April - Mai - Juni - Juli - August - September - Oktober - November - Dezember - Frühling - Sommer - Herbst - Winter - Uhr - Mittag - Mitternacht - Sekunde - Minute - Stunde
-
-Articles: der - die - das - ein - eine
-
-Personal: Wie heißen Sie - Ich heiße - Vorname - Familienname - wohnen - lebe - Adresse - Wie alt bist du - Jahre alt - männlich - weiblich - ledig - verheiratet - Telefonnummer
-
-Questions: Wann - Was - Wer - Wie - Wo - Woher - Wohin
-
-Countries: USA - Großbritannien - Australien - Irland - Deutschland - Schweiz - Türkei - Österreich - Tunesien - China - Indien
-
-Nationalities: Amerikaner - Australier - Tunesier - Engländer - Irländer - Deutscher - Schweizer - Türker - Österreicher - Koreaner - Chineser - Indianer
-
-Languages: Deutsch - Englisch - Arabisch - Spanisch - Chinesisch - Koreanisch - spreche - sprichst - sprechen
-
-Family: Mutter - Schwester - Frau - Tochter - Großmutter - Oma - Tante - Kusine - Vater - Bruder - Mann - Sohn - Großvater - Opa - Onkel - Cousin - Familie - Personen
-
-Haben: ich habe - du hast - er hat - sie hat - es hat - wir haben - ihr habt - Sie haben - sie haben
-
-Animals: Hund - Vogel - Bär - Löwe - Katze - Schlange - Maus - Biene - Kaninchen - Meerschweinchen - Pferd
-
-Adjectives: groß - klein - schlank - dick - jung - alt - ruhig - laut - nett - gemein - faul - fleißig - freundlich - unfreundlich - intelligent - unintelligent - launisch - kreativ - lustig
-
-Colors: rot - gelb - rosa - grün - orange - lila - blau - grau - weiß - schwarz - bunt
-
-Body: Augen - Haare - kurz - lang - blond - braun - grau - schwarz
-
-House: Haus - Wohnung - Garten - Balkon - Garage - Terrasse - Küche - Schlafzimmer - Badezimmer - Wohnzimmer - Esszimmer - Zimmer
-
-Furniture: Sofa - Tisch - Fernseher - Stuhl - Teppich - Kommode - Bett - Kleiderschrank - Badewanne - Dusche - Toilette - Kühlschrank - Herd - Spüle - Waschmaschine - Spülmaschine
-
-Prepositions: aus - bei - mit - nach - seit - zu - von - zwischen - an - in - unter - neben - auf - über - vor - hinter
-
-Daily: aufstehen - aufwachen - fernsehen - duschen - frühstücken - arbeiten - essen - gehen - kommen - schlafen - Zähne putzen - verlassen
-
-Jobs: Anwalt - Apotheker - Arzt - Bibliothekar - Chef - Kellner - Krankenpfleger - Lehrer - Schauspieler - Übersetzer - Informatiker - Verkäufer
-
-Workplaces: Büro - Schule - Krankenhaus - Geschäft - Supermarkt - Reisebüro - Café - Restaurant - Labor - Fabrik
-
- beginnen -beenden -dauern -verbringen - planen -organisieren -vorbereiten -erledigen -verschieben -vergessen -erinnern -warten -beeilen -entspannen -pausieren -der Alltag -die Gewohnheit -der Termin -die Verabredung -der Zeitplan -die Freizeit -die Beschäftigung - der Feierabend -das Wochenende -der Feiertag -die Pause -der Stress -die Eile -die Verspätung -die Pünktlichkeit -beschäftigt -frei -pünktlich -verspätet -regelmäßig -gelegentlich -täglich -wöchentlich - monatlich -  gewöhnlich
-fühlen -schmerzen - erkranken -  genesen -  husten -  niesen -  untersuchen -  behandeln -  verschreiben -  einnehmen -  verletzen - heilen -  schwitzen -  zittern -  atmen -  die Gesundheit -  die Krankheit -  die Erkältung -  das Fieber -  der Schmerz -  die Kopfschmerzen - der Husten - die Grippe - die Allergie -  das Medikament -  die Tablette - der Körper - die Haut -  das Blut -  die Verletzung -  gesund -  krank -  müde - schwach -  stark -  fit - schmerzhaft - chronisch -  ansteckend -  allergisch - 
-kaufen - verkaufen - bezahlen - kosten - sparen - ausgeben - umtauschen - zurückgeben - bestellen - liefern - verdienen - leihen - schulden - überweisen -  abheben - der Preis - das Geld - der Euro - die Rechnung - die Quittung - das Bargeld - die Kreditkarte - der Rabatt - die Mehrwertsteuer - das Angebot - der Einkauf - der Kunde - die Kasse - das Konto - die Überweisung - teuer - billig - günstig -  kostenlos - reduziert -  ausverkauft - verfügbar - knapp - wertvoll - preiswert - schmecken - kochen - backen -  braten - schneiden - schälen - würzen - probieren - servieren - bestellen - empfehlen - bevorzugen - hungern -  dursten - verdauen - das Frühstück - das Mittagessen - das Abendessen -  die Mahlzeit - die Vorspeise - die Hauptspeise - der Nachtisch - die Speisekarte - die Portion - das Rezept - die Zutat - das Gewürz - das Gemüse - das Fleisch - die Beilage - lecker - süß - sauer - salzig - scharf - bitter - frisch - verdorben -  roh - gekocht 
-```
+Total reading time: 10–15 minutes. This is a warm-up, not a study session.
 
 ---
 
-## Core Rules — Read Before Generating
+## Core Instructions — Read Before Generating
 
-**The student has read the lesson notes and knows the rules. They have not done any exercises yet on this material. This set is the first and only drilling pass.**
+You are working from structured error data only. The error report already contains everything: wrong forms, correct forms, categories, frequency, and recurrence across sets.
 
-But this is not a beginner drill. The student is building toward B1/B2 exam mastery. They already know most rules from previous sets. The current lesson grammar is the _thematic anchor_ — it gives the exercises their context — but every exercise should treat the student as someone who is expected to control all previously learned grammar simultaneously, not just the lesson topic.
+Your job:
 
-**Three non-negotiable principles:**
+1. Use CRITICAL errors first, then HIGH, then single-set errors.
+2. Build every example from the actual wrong/correct forms in the report — never invent vocabulary.
+3. Prioritize vocabulary and fixed phrase gaps — many of this student's errors come from not knowing the right word, not just misapplying a rule.
+4. Keep everything short. One concept per lesson. One sentence per explanation. This student knows the rules — they need the correct forms to stick, not re-teaching.
 
-1. **Lesson vocabulary as anchor, not cage** — the current lesson's grammar theme shapes the exercises, but other grammar rules the student has already encountered (subordinate clauses, negation, modal verbs, connectors, Perfekt, imperatives, etc.) must appear naturally throughout. The student should never feel "this exercise is only about one thing."
-2. **Error targeting embedded, not labeled** — every critical and active error from the report must appear inside exercises without flagging. The student does not know a trap is coming.
-3. **No creative writing tasks** — no letters, no emails, no dialogue composition. Pure grammar production only.
+**One absolute rule:** Every ❌ example must come directly from the FORM field in the error report. No invented errors.
 
 ---
 
-## Exercise Count
+## PART 1 — Mini-Lessons
 
-Scale to lesson and error count:
+### Format for each lesson:
 
-|Lesson count|Critical errors|Exercise count|
+```
+## [Error Category Label]
+
+❌ You wrote:   [wrong form — from FORM field in error report]
+✅ Correct:     [correct form — from FORM field in error report]
+💡 Why:         [one sentence — plain language, no jargon unless already in the report]
+
+More examples:
+• [correct example using vocabulary from the error report]
+• [correct example using vocabulary from the error report]
+• [correct example using vocabulary from the error report]
+```
+
+### Rules:
+
+- One mini-lesson per error category — not one per individual wrong form
+- If a category has multiple wrong forms (e.g. weil broken in 4 ways), pick the most representative one for ❌, use the others to build the "More examples" lines
+- Order: CRITICAL errors → HIGH errors → single-set active errors
+- Hard limit: **8 mini-lessons maximum** — merge minor single-set errors or drop them if they are not vocabulary-related
+- The 💡 line must be one sentence. No sub-points. No lists inside a lesson.
+- If an error is marked CRITICAL or seen in 3+ sets, add a 🔁 marker to the lesson header
+
+---
+
+## PART 2 — Cheat Sheet
+
+Compact reference tables — scan before sitting down to the next set.
+
+Generate **only the tables relevant to errors in the current report**. Skip any table where this student had no errors.
+
+---
+
+**Table: Negation Quick Reference** _(Include only if negation errors appear in the current report)_
+
+|Situation|Use|Example from this set|
 |---|---|---|
-|1–2|any|7|
-|3–4|≤ 4|7|
-|3–4|5+|8|
-|5+|any|9|
-
-Never go below 7. Never go above 9.
+|Negating a verb/action|nicht|[example from report]|
+|Negating a noun|kein/keine/keinen|[example from report]|
+|Correcting after kein/nicht|sondern|[example from report]|
+|Contradicting a kein-statement|doch|[example from report]|
+|No longer|nicht mehr|[example from report]|
+|Not yet — requires Perfekt|noch nicht + Perfekt|[example from report]|
 
 ---
 
-## Exercise Types — Available Pool
+**Table: Fixed Phrases — Location and Transport** _(Include only if location/transport errors appear in the current report)_
 
-Pick from this pool. **Never repeat the same type twice in one set.**
-
-|Code|Type|Description|
+|Meaning|Correct German|❌ Wrong form from this set|
 |---|---|---|
-|TR|Translation EN→DE|10–15 sentences, each with exactly one grammar decision point embedded|
-|SB|Sentence building|6–8 scrambled word groups (5–8 words each), student assembles correct sentence|
-|ED|Error detection paragraph|One continuous paragraph, 10–15 errors hidden, student rewrites entirely corrected|
-|FI|Fill-in paragraph|Continuous text, blanks only — no word bank, no hint labels|
-|TX|Sentence transformation|8–10 sentences, each requires one specific structural change (change tense / negate / subordinate / change register)|
-|ST|Subordinate clause construction|8–10 sentence pairs, student combines using a given connector — connector is given, nothing else|
-|NC|Negation correction|8–10 sentences each with one negation error (aber/sondern, nicht/kein, noch/schon etc.), student identifies and rewrites|
-|TP|Tense-switching paragraph|Short paragraph given in Präsens, student rewrites fully in Perfekt (or reverse)|
-|QA|Question-answer production|8–10 questions given, student writes complete grammatically correct answers using own words — no answer scaffolding|
-|MX|Mixed correction|10–12 isolated sentences, one error each, student identifies and fixes|
+|at home|zu Hause|[from report if present]|
+|at work|bei der Arbeit|[from report if present]|
+|by bike|mit dem Fahrrad|[from report if present]|
+|by car|mit dem Auto|[from report if present]|
 
 ---
 
-## How to Select Exercises
+**Table: Subordinate Clauses — Verb Goes Last** _(Include only if weil/wenn/dass errors appear in the current report)_
 
-1. Look at the critical errors in the report — these must appear in at least **2 different exercises** each
-2. Look at the active errors — these must appear in at least **1 exercise** each
-3. Look at the lesson grammar focus — at least **3 exercises must directly require the lesson's grammar** (not just error-targeting)
-4. Every exercise must require **at least 2 grammar rules simultaneously** — never test one rule in isolation
-5. At least **1 exercise must use subordinate clauses** (weil / obwohl / dass / wenn / als / nachdem etc.) as the structural frame
-
----
-
-## Difficulty Level
-
-Target: a student who knows all the rules _in isolation_ but hasn't yet made them automatic together. This set should feel like it's testing whether you truly own the grammar, not whether you recognize it.
-
-- Harder than a standard A2/B1 drill
-- Sentences should be long enough that the student must hold 2–3 rules in mind simultaneously
-- At least 3 exercises must combine the current lesson grammar with a rule from a _previous_ topic (Perfekt + subordinate clause, modal + negation, imperative + separable verb, etc.)
-- No exercise should feel like it belongs to "Folge 69" specifically — it should feel like real German that happens to use Perfekt, or uses _-ieren_ verbs, or uses _sein_ Perfekt — naturally embedded
-
-Specific difficulty markers:
-
-- No fill-in-the-blank may provide the infinitive as a hint inside the blank
-- No translation may include word order hints through bracketing
-- No error detection may state how many errors exist
-- At least one exercise must require the student to choose between two similar structures they commonly confuse (e.g. _seit_ vs. _vor_, _aber_ vs. _sondern_, _noch nicht_ + Perfekt vs. Präsens, _bekommt_ vs. _kommt_)
+|Conjunction|Correct example|❌ Your version|
+|---|---|---|
+|weil|[from report]|[from report]|
+|wenn|[from report]|[from report]|
 
 ---
 
-## Output Format
+**Table: seit — Duration** _(Include only if seit errors appear in the current report)_
 
-```markdown
-# Consolidation Set — [Lesson Range / Topic]
-
----
-
-### Exercise 1 — [Type Name] *(Grammar focus: [rules])*
-[content]
-⇒
-
-### Exercise 2 — [Type Name] *(Grammar focus: [rules])*
-[content]
-⇒
-
-[...continue to 7–9]
+|Structure|Correct|❌ Wrong|
+|---|---|---|
+|Statement — ongoing|seit + present tense|[from report]|
+|Question — how long|Seit wie vielen Jahren…?|[from report]|
 
 ---
 
-<details>
-<summary>Answer Key</summary>
+**Table: Adjective Endings** _(Include only the cases that were wrong in the current report — not all 48 combinations)_
 
-**Exercise 1**
-1. [correct answer]
-   — ⚠️ [error targeted, if any]: [one-line note]
-2. [correct answer]
-[...]
+|Article type|Gender/Case|Ending|Example from this set|
+|---|---|---|---|
+|[only wrong cases]||||
 
-**Exercise 2**
-[...]
+---
 
-</details>
+### Cheat sheet rules:
+
+- Every example cell uses vocabulary from the error report — no abstract placeholders
+- If a table would exceed 8 rows, split it
+- No prose between tables — headers and tables only
+- If an error category has no natural table format, skip it — do not force it into Part 2
+
+---
+
+## PART 3 — Vocabulary Gap List
+
+Three sections. Clean lists only — no prose, no explanations longer than a parenthetical.
+
+---
+
+### Section A: Words You Used Wrong or Didn't Know
+
+Built from: FORM fields where the error is clearly a vocabulary mistake (wrong word chosen, noun used instead of adjective, English word used, word simply absent).
+
+|Your version|Correct German|English meaning|Notes|
+|---|---|---|---|
+|[from report]|[from report]|[translation]|[noun vs. adjective / register / fixed phrase / _(unknown)_]|
+
+Rules:
+
+- Only include words that caused an actual error in the current report
+- Mark with _(unknown)_ in Notes if the student clearly didn't know the word at all (wrote English, left blank, or used a completely unrelated word)
+- One-word Notes only — no full sentences
+
+---
+
+### Section B: Word Families
+
+For each word where the student confused forms (used noun instead of adjective, used infinitive instead of conjugated verb, etc.), show the relevant family.
+
+Format:
+
+```
+Root: [WORD]
+
+| Form | German | Example |
+|---|---|---|
+| adjective | … | … |
+| noun | … | … |
+| verb | … | … |
 ```
 
-**Format rules:**
+Rules:
 
-- Section headers: `### Exercise [N] — [Type]`
-- Grammar focus label after header: always present, lists the 2+ rules being combined
-- Answer blank: `⇒` on its own line, nothing else
-- Answer key: inside a `<details>` collapse block
-- Error traps in key: marked `⚠️` with name of the error from the report and a one-sentence note
-- Alternative acceptable answers listed where they exist
-- No ⚠️ labels visible anywhere in the exercises themselves — only in the answer key
+- Only generate families for roots where form-confusion caused an error in the current report
+- Maximum 5 families per output
+- Only include forms up to B1 level — skip advanced derivations
+- Examples must use vocabulary from the error report
 
 ---
 
-## What This Set Does NOT Do
+### Section C: Fixed Phrases You Keep Breaking
 
-- Does not re-explain any grammar rule
-- Does not use word banks anywhere
-- Does not label traps during exercises
-- Does not repeat an exercise type within one set
-- Does not introduce vocabulary outside the known list (except inline-marked exceptions)
-- Does not include any creative writing task (no letters, emails, dialogues, essays)
-- Does not exceed 9 exercises
-- Does not go below 7 exercises
-- Does not test any resolved error from the report
-- Does not produce any exercise that targets only one rule in isolation
+Memorized units — not built by rules. Do not explain them grammatically.
+
+|Correct phrase|Meaning|❌ Your version||
+|---|---|---|---|
+|[from report]|[English]|[from report]|🔁 if seen in 3+ sets|
+
+Rules:
+
+- Include only phrases that appear as errors in the current report
+- Add 🔁 if the phrase has been wrong across 3 or more sets (visible in FREQUENCY field of report)
+- No grammar notes — these are memory items
+- If a phrase was correct this set, do not include it even if it was wrong before
 
 ---
 
-## Quality Check — Run Before Outputting
+## Formatting Rules
 
-- [ ] Every critical error appears in at least 2 exercises
-- [ ] Every active error appears in at least 1 exercise
-- [ ] At least 3 exercises directly test the current lesson grammar
-- [ ] Every exercise requires 2+ grammar rules simultaneously
-- [ ] At least 1 exercise uses subordinate clause structure
-- [ ] No exercise type appears more than once
-- [ ] No vocabulary outside known list (exceptions inline-marked)
-- [ ] No word banks anywhere
-- [ ] No error labels visible in exercise body
-- [ ] Exercise count matches the scaling table
-- [ ] No fill-in hint gives the infinitive form inside the blank
-- [ ] Answer key is complete with ⚠️ trap notes on all targeted items
-- [ ] No creative writing task in the set
+- Total length: 600–900 words (not counting table content)
+- Part headers: `# PART [N] — [NAME]`
+- Mini-lesson headers: `## [Topic Label]`
+- No exercises — review material only
+- No word banks
+- No praise, no encouragement, no filler
+- One file only
+
+---
+
+## Output
+
+Generate the teaching material now based on the two error reports above. No preamble. No explanation. Start directly with PART 1.
