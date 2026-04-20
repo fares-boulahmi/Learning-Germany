@@ -1,8 +1,9 @@
 ## Prompts 
 [[Connected Paragraphs ]]
 [[Dialogues B1 words prompt]]
-[[B1 words Sentence generate ]]
-[[Generate Translation Work ]]
+[[B1 words Sentence generate ]] | [[B1 words Sentence generate V2]]
+[[Generate Translation Work ]] | [[Generate Translation Work V2]]
+[[Generate Translation Sentence ]]
 [[Prompt temp page ]]
 
 ## Sets 

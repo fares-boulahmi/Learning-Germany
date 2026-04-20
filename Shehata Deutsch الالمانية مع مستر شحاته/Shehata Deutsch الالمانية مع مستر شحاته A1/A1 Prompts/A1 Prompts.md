@@ -11,9 +11,9 @@
 [[Daily Paragraphs ]]
 [text to voice ](https://www.text-to-speech.online/)
 # Practice Set Prompts 
-first step take from pdf the lesson and put in generate lessons not [[Lesson note generate prompt  v2 ]] | [[Lesson note generate prompt  v3]]
+first step take from pdf the lesson and put in generate lessons not [[Lesson note generate prompt  v2 ]] | [[Lesson note generate prompt  v3]] | [[Lesson note generate prompt V4]] | [[Lessons note generate V5]]
 then solve the lessons exercises 
-after that put the report from last practice [[Report Generate V2 ]] put into the practice set generate with lessons summary  [[Summarize German Lessons for Practice Set Generation]] into generate practice set  [[Practice Sets prompt Enhanced ]] 
+after that put the report from last practice [[Report Generate V2 ]] put into the practice set generate with lessons summary  [[Summarize German Lessons for Practice Set Generation]] into generate practice set  [[Practice Sets prompt Enhanced ]] | [[Practice Set prompt v2 ]] | [[Practice Set prompt v3]]
 after that make the lesson material from error to avoid next time 
 
 

@@ -1,487 +1,570 @@
-# German Vocabulary – Set 5: Travel & Transportation
+# German Vocabulary – Travel & Transport
 
-## 🔵 Verbs
+## Verbs
 
 ### 1. reisen – to travel
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich reise nach Berlin.|I travel to Berlin.|أنا أسافر إلى برلين.|ich-form|
-|Du reist oft ins Ausland.|You travel abroad often.|أنت تسافر إلى الخارج كثيرًا.|du-form · stem ends in -s → du reist (no extra s)|
-|Er reist jedes Jahr nach Spanien.|He travels to Spain every year.|هو يسافر إلى إسبانيا كل عام.|er-form|
-|Wir reisen mit dem Zug.|We travel by train.|نحن نسافر بالقطار.|wir-form|
-|Ihr reist morgen früh ab.|You all depart tomorrow morning.|أنتم تسافرون غدًا صباحًا.|ihr-form|
-|Sie reisen durch Europa.|They travel through Europe.|هم يسافرون عبر أوروبا.|sie/Sie-form|
+|Ich reise nach Deutschland.|I travel to Germany.|أنا أسافر إلى ألمانيا.|ich-form · nach + Dative always|
+|Du reist morgen nach Österreich.|You travel to Austria tomorrow.|أنت تسافر غداً إلى النمسا.|du-form · -st ending|
+|Er reist mit dem Zug.|He travels by train.|هو يسافر بالقطار.|er-form · mit + Dative always|
+|Wir reisen im Sommer nach Tunesien.|We travel to Tunisia in summer.|نحن نسافر في الصيف إلى تونس.|wir-form · im = in + dem|
+|Ihr reist mit der Familie.|You (pl.) travel with the family.|أنتم تسافرون مع العائلة.|ihr-form · mit + Dative|
+|Sie reisen jede Woche.|They/You travel every week.|هم/حضرتك يسافرون كل أسبوع.|sie/Sie-form|
+
+---
 
 ### 2. fliegen – to fly
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich fliege nach Paris.|I fly to Paris.|أنا أطير إلى باريس.|ich-form|
-|Du fliegst morgen nach London.|You fly to London tomorrow.|أنت تطير إلى لندن غدًا.|du-form · strong verb: fliegen → fliegst|
-|Sie fliegt erste Klasse.|She flies first class.|هي تطير بالدرجة الأولى.|er/sie-form|
-|Wir fliegen um 6 Uhr ab.|We fly at 6 o'clock.|نحن نطير الساعة السادسة.|wir-form|
-|Ihr fliegt über die Alpen.|You all fly over the Alps.|أنتم تطيرون فوق جبال الألب.|ihr-form|
-|Sie fliegen direkt nach Dubai.|They fly directly to Dubai.|هم يطيرون مباشرةً إلى دبي.|sie/Sie-form|
+|Ich fliege nach China.|I fly to China.|أنا أطير إلى الصين.|ich-form · nach + Dative|
+|Du fliegst morgen.|You fly tomorrow.|أنت تطير غداً.|du-form · stem vowel change ie→ie|
+|Er fliegt nach Großbritannien.|He flies to Great Britain.|هو يطير إلى بريطانيا العظمى.|er-form|
+|Wir fliegen im Juli.|We fly in July.|نحن نطير في يوليو.|wir-form · im = in + dem|
+|Ihr fliegt mit dem Flugzeug.|You (pl.) fly by airplane.|أنتم تطيرون بالطائرة.|ihr-form|
+|Sie fliegen nach Australien.|They fly to Australia.|هم يطيرون إلى أستراليا.|sie-form|
+
+---
 
 ### 3. fahren – to drive/go
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich fahre mit dem Bus.|I go by bus.|أنا أسافر بالحافلة.|ich-form · strong verb|
-|Du fährst zu schnell.|You drive too fast.|أنت تقود بسرعة كبيرة.|du-form · vowel change: a → ä|
-|Er fährt jeden Tag zur Arbeit.|He drives to work every day.|هو يذهب إلى العمل كل يوم.|er-form · vowel change|
-|Wir fahren ans Meer.|We go to the sea.|نحن نذهب إلى البحر.|wir-form|
-|Ihr fahrt mit dem Zug.|You all go by train.|أنتم تسافرون بالقطار.|ihr-form|
-|Sie fahren durch die Stadt.|They drive through the city.|هم يسيرون عبر المدينة.|sie/Sie-form|
+|Ich fahre zum Bahnhof.|I drive/go to the train station.|أنا أذهب إلى محطة القطار.|ich-form · zum = zu + dem (Dative)|
+|Du fährst mit dem Bus.|You go by bus.|أنت تذهب بالحافلة.|du-form · vowel change a→ä|
+|Er fährt nach Hause.|He drives home.|هو يقود السيارة إلى البيت.|er-form · vowel change a→ä|
+|Wir fahren ins Büro.|We drive to the office.|نحن نذهب إلى المكتب.|wir-form · ins = in + das|
+|Ihr fahrt morgen.|You (pl.) go tomorrow.|أنتم تذهبون غداً.|ihr-form · -t ending|
+|Sie fahren zur Schule.|They go to school.|هم يذهبون إلى المدرسة.|sie-form · zur = zu + der (Dative)|
+
+---
 
 ### 4. abfahren – to depart
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich fahre um 8 Uhr ab.|I depart at 8 o'clock.|أنا أغادر الساعة الثامنة.|ich-form · separable verb: ab- splits off|
-|Du fährst pünktlich ab.|You depart on time.|أنت تغادر في الوقت المحدد.|du-form · vowel change a → ä|
-|Der Zug fährt gleich ab.|The train departs soon.|القطار سيغادر قريبًا.|er-form|
-|Wir fahren morgen früh ab.|We depart early tomorrow.|نحن نغادر غدًا باكرًا.|wir-form|
-|Ihr fahrt vom Bahnhof ab.|You all depart from the station.|أنتم تغادرون من المحطة.|ihr-form|
-|Sie fahren um Mitternacht ab.|They depart at midnight.|هم يغادرون في منتصف الليل.|sie/Sie-form|
+|Ich fahre um neun Uhr ab.|I depart at nine o'clock.|أنا أغادر الساعة التاسعة.|ich-form · separable verb: ab splits off|
+|Du fährst morgen früh ab.|You depart early tomorrow.|أنت تغادر باكراً غداً.|du-form · vowel change a→ä|
+|Er fährt vom Bahnhof ab.|He departs from the train station.|هو يغادر من محطة القطار.|er-form · von + Dative|
+|Wir fahren um zwölf ab.|We depart at twelve.|نحن نغادر الساعة الثانية عشرة.|wir-form|
+|Ihr fahrt pünktlich ab.|You (pl.) depart on time.|أنتم تغادرون في الوقت المحدد.|ihr-form|
+|Sie fahren am Montag ab.|They depart on Monday.|هم يغادرون يوم الاثنين.|sie-form · am = an + dem|
+
+---
 
 ### 5. ankommen – to arrive
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich komme um 10 Uhr an.|I arrive at 10 o'clock.|أنا أصل الساعة العاشرة.|ich-form · separable: an- splits off|
-|Du kommst spät an.|You arrive late.|أنت تصل متأخرًا.|du-form|
-|Er kommt morgen in Wien an.|He arrives in Vienna tomorrow.|هو يصل إلى فيينا غدًا.|er-form|
-|Wir kommen sicher an.|We arrive safely.|نحن نصل بسلام.|wir-form|
-|Ihr kommt am Abend an.|You all arrive in the evening.|أنتم تصلون مساءً.|ihr-form|
-|Sie kommen nach einer langen Reise an.|They arrive after a long journey.|هم يصلون بعد رحلة طويلة.|sie/Sie-form|
+|Ich komme um zehn Uhr an.|I arrive at ten o'clock.|أنا أصل الساعة العاشرة.|ich-form · separable: an splits off|
+|Du kommst am Bahnhof an.|You arrive at the train station.|أنت تصل إلى محطة القطار.|du-form|
+|Er kommt am Mittwoch an.|He arrives on Wednesday.|هو يصل يوم الأربعاء.|er-form · am = an + dem|
+|Wir kommen um acht Uhr an.|We arrive at eight o'clock.|نحن نصل الساعة الثامنة.|wir-form|
+|Ihr kommt rechtzeitig an.|You (pl.) arrive on time.|أنتم تصلون في الوقت المحدد.|ihr-form|
+|Sie kommen am Flughafen an.|They arrive at the airport.|هم يصلون إلى المطار.|sie-form|
+
+---
 
 ### 6. umsteigen – to change (trains/buses)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich steige in Frankfurt um.|I change trains in Frankfurt.|أنا أغيّر القطار في فرانكفورت.|ich-form · separable: um- splits off|
-|Du steigst hier um.|You change here.|أنت تغيّر هنا.|du-form|
-|Sie steigt zweimal um.|She changes twice.|هي تغيّر مرتين.|er/sie-form|
-|Wir steigen am Hauptbahnhof um.|We change at the main station.|نحن نغيّر في المحطة الرئيسية.|wir-form|
-|Ihr steigt in Köln um.|You all change in Cologne.|أنتم تغيّرون في كولونيا.|ihr-form|
-|Sie steigen auf den Bus um.|They switch to the bus.|هم ينتقلون إلى الحافلة.|sie/Sie-form|
+|Ich steige in Berlin um.|I change in Berlin.|أنا أبدّل في برلين.|ich-form · separable: um splits off|
+|Du steigst am Bahnhof um.|You change at the train station.|أنت تبدّل في محطة القطار.|du-form|
+|Er steigt in den Bus um.|He changes onto the bus.|هو يبدّل إلى الحافلة.|er-form · in + Accusative (direction)|
+|Wir steigen in Zürich um.|We change in Zurich.|نحن نبدّل في زيورخ.|wir-form|
+|Ihr steigt hier um.|You (pl.) change here.|أنتم تبدّلون هنا.|ihr-form|
+|Sie steigen in die Straßenbahn um.|They change to the tram.|هم يبدّلون إلى الترام.|sie-form · in + Accusative (direction)|
+
+---
 
 ### 7. buchen – to book
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich buche einen Flug.|I book a flight.|أنا أحجز رحلة طيران.|ich-form|
-|Du buchst das Hotel online.|You book the hotel online.|أنت تحجز الفندق عبر الإنترنت.|du-form|
-|Er bucht zwei Tickets.|He books two tickets.|هو يحجز تذكرتين.|er-form|
-|Wir buchen frühzeitig.|We book early.|نحن نحجز مبكرًا.|wir-form|
-|Ihr bucht das Zimmer für drei Nächte.|You all book the room for three nights.|أنتم تحجزون الغرفة لثلاث ليالٍ.|ihr-form|
-|Sie buchen eine Kreuzfahrt.|They book a cruise.|هم يحجزون رحلة بحرية.|sie/Sie-form|
+|Ich buche ein Ticket.|I book a ticket.|أنا أحجز تذكرة.|ich-form · ein Ticket (n, Accusative)|
+|Du buchst ein Zimmer.|You book a room.|أنت تحجز غرفة.|du-form|
+|Er bucht den Urlaub.|He books the vacation.|هو يحجز الإجازة.|er-form · den = Accusative m.|
+|Wir buchen das Hotel.|We book the hotel.|نحن نحجز الفندق.|wir-form · das Hotel (n)|
+|Ihr bucht online.|You (pl.) book online.|أنتم تحجزون عبر الإنترنت.|ihr-form|
+|Sie buchen die Reise.|They book the trip.|هم يحجزون الرحلة.|sie-form · die Reise (f, Accusative)|
+
+---
 
 ### 8. reservieren – to reserve
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich reserviere einen Tisch.|I reserve a table.|أنا أحجز طاولة.|ich-form|
-|Du reservierst das Zimmer im Voraus.|You reserve the room in advance.|أنت تحجز الغرفة مسبقًا.|du-form|
-|Er reserviert einen Sitzplatz.|He reserves a seat.|هو يحجز مقعدًا.|er-form|
-|Wir reservieren für vier Personen.|We reserve for four people.|نحن نحجز لأربعة أشخاص.|wir-form|
-|Ihr reserviert das Auto am Flughafen.|You all reserve the car at the airport.|أنتم تحجزون السيارة في المطار.|ihr-form|
-|Sie reservieren früh genug.|They reserve early enough.|هم يحجزون في وقت مبكر كافٍ.|sie/Sie-form|
+|Ich reserviere einen Tisch.|I reserve a table.|أنا أحجز طاولة.|ich-form · einen = Accusative m.|
+|Du reservierst ein Zimmer.|You reserve a room.|أنت تحجز غرفة.|du-form|
+|Er reserviert das Ticket.|He reserves the ticket.|هو يحجز التذكرة.|er-form|
+|Wir reservieren ein Zimmer.|We reserve a room.|نحن نحجز غرفة.|wir-form|
+|Ihr reserviert die Fahrkarte.|You (pl.) reserve the ticket.|أنتم تحجزون التذكرة.|ihr-form|
+|Sie reservieren zwei Plätze.|They reserve two seats.|هم يحجزون مقعدين.|sie-form|
+
+---
 
 ### 9. packen – to pack
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich packe meinen Koffer.|I pack my suitcase.|أنا أحزم حقيبتي.|ich-form|
-|Du packst zu viel ein.|You pack too much.|أنت تحزم أكثر مما يجب.|du-form|
-|Sie packt schnell und ordentlich.|She packs quickly and neatly.|هي تحزم بسرعة وبشكل منظم.|er/sie-form|
-|Wir packen die Geschenke ein.|We pack the gifts.|نحن نحزم الهدايا.|wir-form|
-|Ihr packt alles für den Strand.|You all pack everything for the beach.|أنتم تحزمون كل شيء للشاطئ.|ihr-form|
-|Sie packen ihre Sachen zusammen.|They pack their things together.|هم يحزمون أغراضهم معًا.|sie/Sie-form|
+|Ich packe meinen Koffer.|I pack my suitcase.|أنا أحزم حقيبتي.|ich-form · Accusative m.|
+|Du packst das Gepäck.|You pack the luggage.|أنت تحزم الأمتعة.|du-form|
+|Er packt seinen Koffer.|He packs his suitcase.|هو يحزم حقيبته.|er-form|
+|Wir packen morgen.|We pack tomorrow.|نحن نحزم غداً.|wir-form|
+|Ihr packt die Koffer.|You (pl.) pack the suitcases.|أنتم تحزمون الحقائب.|ihr-form|
+|Sie packen das Gepäck.|They pack the luggage.|هم يحزمون الأمتعة.|sie-form|
+
+---
 
 ### 10. übernachten – to stay overnight
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich übernachte im Hotel.|I stay overnight in the hotel.|أنا أبيت في الفندق.|ich-form · inseparable prefix: über-|
-|Du übernachtest bei Freunden.|You stay overnight at friends'.|أنت تبيت عند الأصدقاء.|du-form|
-|Er übernachtet in einer Jugendherberge.|He stays in a youth hostel.|هو يبيت في نزل الشباب.|er-form|
-|Wir übernachten zwei Nächte.|We stay for two nights.|نحن نبيت ليلتين.|wir-form|
-|Ihr übernachtet am See.|You all stay overnight by the lake.|أنتم تبيتون عند البحيرة.|ihr-form|
-|Sie übernachten im Zelt.|They stay overnight in a tent.|هم يبيتون في الخيمة.|sie/Sie-form|
+|Ich übernachte im Hotel.|I stay overnight at the hotel.|أنا أبيت في الفندق.|ich-form · im = in + dem|
+|Du übernachtest bei deiner Familie.|You stay overnight with your family.|أنت تبيت عند عائلتك.|du-form · bei + Dative|
+|Er übernachtet in der Wohnung.|He stays overnight in the apartment.|هو يبيت في الشقة.|er-form · in + Dative (location)|
+|Wir übernachten am Montag.|We stay overnight on Monday.|نحن نبيت يوم الاثنين.|wir-form|
+|Ihr übernachtet im Zimmer.|You (pl.) stay overnight in the room.|أنتم تبيتون في الغرفة.|ihr-form|
+|Sie übernachten in der Schweiz.|They stay overnight in Switzerland.|هم يبيتون في سويسرا.|sie-form|
+
+---
 
 ### 11. besichtigen – to visit/sightsee
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich besichtige das Schloss.|I visit the castle.|أنا أزور القلعة.|ich-form · inseparable: be-|
-|Du besichtigst das Museum.|You visit the museum.|أنت تزور المتحف.|du-form|
-|Sie besichtigt die alte Stadt.|She sightseees the old city.|هي تتجوّل في المدينة القديمة.|er/sie-form|
-|Wir besichtigen die Kathedrale.|We visit the cathedral.|نحن نزور الكاتدرائية.|wir-form|
-|Ihr besichtigt die Sehenswürdigkeiten.|You all visit the sights.|أنتم تزورون المعالم السياحية.|ihr-form|
-|Sie besichtigen das historische Zentrum.|They visit the historic center.|هم يزورون المركز التاريخي.|sie/Sie-form|
+|Ich besichtige das Haus.|I visit the house.|أنا أزور البيت.|ich-form · Accusative n.|
+|Du besichtigst die Schule.|You visit the school.|أنت تزور المدرسة.|du-form|
+|Er besichtigt das Krankenhaus.|He visits the hospital.|هو يزور المستشفى.|er-form|
+|Wir besichtigen die Stadt.|We sightsee the city.|نحن نزور المدينة.|wir-form|
+|Ihr besichtigt das Café.|You (pl.) visit the café.|أنتم تزورون المقهى.|ihr-form|
+|Sie besichtigen das Restaurant.|They visit the restaurant.|هم يزورون المطعم.|sie-form|
+
+---
 
 ### 12. erkunden – to explore
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich erkunde die Stadt zu Fuß.|I explore the city on foot.|أنا أستكشف المدينة سيرًا.|ich-form|
-|Du erkundest die Altstadt allein.|You explore the old town alone.|أنت تستكشف المدينة القديمة بمفردك.|du-form|
-|Er erkundet die Natur.|He explores nature.|هو يستكشف الطبيعة.|er-form|
-|Wir erkunden das Viertel.|We explore the neighborhood.|نحن نستكشف الحي.|wir-form|
-|Ihr erkundet den Marktplatz.|You all explore the market square.|أنتم تستكشفون ساحة السوق.|ihr-form|
-|Sie erkunden die Küste.|They explore the coast.|هم يستكشفون الساحل.|sie/Sie-form|
+|Ich erkundige die Stadt.|I explore the city.|أنا أستكشف المدينة.|ich-form · Accusative|
+|Du erkundest den Garten.|You explore the garden.|أنت تستكشف الحديقة.|du-form · den = Accusative m.|
+|Er erkundet die Umgebung.|He explores the surroundings.|هو يستكشف المحيط.|er-form|
+|Wir erkunden das Haus.|We explore the house.|نحن نستكشف البيت.|wir-form|
+|Ihr erkundet den Bahnhof.|You (pl.) explore the train station.|أنتم تستكشفون محطة القطار.|ihr-form|
+|Sie erkunden die Wohnung.|They explore the apartment.|هم يستكشفون الشقة.|sie-form|
+
+---
 
 ### 13. verpassen – to miss
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich verpasse den Zug.|I miss the train.|أنا أفوّت القطار.|ich-form · inseparable: ver-|
-|Du verpasst den Anschluss.|You miss the connection.|أنت تفوّت الرحلة المتواصلة.|du-form|
-|Er verpasst den Flug.|He misses the flight.|هو يفوّت الطيران.|er-form|
-|Wir verpassen die letzte Bahn.|We miss the last train.|نحن نفوّت آخر قطار.|wir-form|
-|Ihr verpasst den Bus.|You all miss the bus.|أنتم تفوّتون الحافلة.|ihr-form|
-|Sie verpassen die Abfahrt.|They miss the departure.|هم يفوّتون موعد المغادرة.|sie/Sie-form|
+|Ich verpasse den Zug.|I miss the train.|أنا أفوّت القطار.|ich-form · den = Accusative m.|
+|Du verpasst den Bus.|You miss the bus.|أنت تفوّت الحافلة.|du-form|
+|Er verpasst das Flugzeug.|He misses the airplane.|هو يفوّت الطائرة.|er-form · das = Accusative n.|
+|Wir verpassen den Termin.|We miss the appointment.|نحن نفوّت الموعد.|wir-form|
+|Ihr verpasst die Straßenbahn.|You (pl.) miss the tram.|أنتم تفوّتون الترام.|ihr-form|
+|Sie verpassen die Abfahrt.|They miss the departure.|هم يفوّتون موعد الانطلاق.|sie-form|
+
+---
 
 ### 14. verzögern – to delay
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich verzögere die Abfahrt nicht absichtlich.|I don't delay the departure intentionally.|أنا لا أؤخر المغادرة عن عمد.|ich-form|
-|Du verzögerst unsere Reise.|You delay our trip.|أنت تؤخر رحلتنا.|du-form|
-|Das Wetter verzögert den Flug.|The weather delays the flight.|الطقس يؤخر الرحلة الجوية.|er-form · often used with impersonal subjects|
-|Wir verzögern den Start.|We delay the start.|نحن نؤخر الانطلاق.|wir-form|
-|Ihr verzögert das Einsteigen.|You all delay the boarding.|أنتم تؤخرون الصعود.|ihr-form|
-|Sie verzögern die Reise um eine Stunde.|They delay the trip by one hour.|هم يؤخرون الرحلة بساعة واحدة.|sie/Sie-form|
+|Ich verzögere die Reise.|I delay the trip.|أنا أؤجل الرحلة.|ich-form|
+|Du verzögerst den Abflug.|You delay the departure (flight).|أنت تؤجل الإقلاع.|du-form|
+|Er verzögert den Urlaub.|He delays the vacation.|هو يؤجل الإجازة.|er-form|
+|Wir verzögern den Plan.|We delay the plan.|نحن نؤجل الخطة.|wir-form|
+|Ihr verzögert die Arbeit.|You (pl.) delay the work.|أنتم تؤجلون العمل.|ihr-form|
+|Sie verzögern die Ankunft.|They delay the arrival.|هم يؤجلون الوصول.|sie-form|
+
+---
 
 ### 15. erreichen – to reach
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Ich erreiche den Bahnhof rechtzeitig.|I reach the station on time.|أنا أصل إلى المحطة في الوقت المناسب.|ich-form · inseparable: er-|
-|Du erreichst das Ziel.|You reach the destination.|أنت تصل إلى الوجهة.|du-form|
-|Er erreicht den Gipfel.|He reaches the summit.|هو يصل إلى القمة.|er-form|
-|Wir erreichen die Küste am Abend.|We reach the coast in the evening.|نحن نصل إلى الساحل مساءً.|wir-form|
-|Ihr erreicht das Hotel um Mitternacht.|You all reach the hotel at midnight.|أنتم تصلون إلى الفندق منتصف الليل.|ihr-form|
-|Sie erreichen ihr Ziel trotz Verspätung.|They reach their goal despite delay.|هم يصلون إلى هدفهم رغم التأخير.|sie/Sie-form|
+|Ich erreiche den Bahnhof.|I reach the train station.|أنا أصل إلى محطة القطار.|ich-form · Accusative m.|
+|Du erreichst das Ziel.|You reach the goal/destination.|أنت تصل إلى الهدف.|du-form|
+|Er erreicht den Flughafen.|He reaches the airport.|هو يصل إلى المطار.|er-form|
+|Wir erreichen das Hotel.|We reach the hotel.|نحن نصل إلى الفندق.|wir-form|
+|Ihr erreicht die Haltestelle.|You (pl.) reach the stop.|أنتم تصلون إلى المحطة.|ihr-form|
+|Sie erreichen das Gleis.|They reach the platform.|هم يصلون إلى الرصيف.|sie-form|
 
 ---
 
-## 🟢 Nouns
+## Nouns
 
 ### 1. die Reise – trip/journey (f)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Die Reise war wunderschön.|The trip was wonderful.|كانت الرحلة رائعة.|Nominative sg · die Reise (f)|
-|Ich plane die Reise sorgfältig.|I plan the trip carefully.|أنا أخطط للرحلة بعناية.|Accusative sg · die → die (f unchanged)|
-|Nach der Reise bin ich erschöpft.|After the trip I am exhausted.|بعد الرحلة أنا منهك.|Dative sg · nach + Dative → der Reise|
-|Das Ziel der Reise ist Rom.|The destination of the trip is Rome.|وجهة الرحلة هي روما.|Genitive sg · der Reise|
-|Die Reisen sind teuer.|The trips are expensive.|الرحلات مكلفة.|Nominative pl · die Reisen|
-|Ich liebe die Reisen durch Europa.|I love trips through Europe.|أنا أحب الرحلات عبر أوروبا.|Accusative pl · die Reisen|
-|Bei den Reisen lerne ich viel.|On the trips I learn a lot.|في الرحلات أتعلم الكثير.|Dative pl · den Reisen|
+|Die Reise ist lang.|The trip is long.|الرحلة طويلة.|Nominative sg · die Reise (f)|
+|Ich buche die Reise.|I book the trip.|أنا أحجز الرحلة.|Accusative sg · die Reise|
+|Ich erzähle von der Reise.|I tell about the trip.|أنا أحكي عن الرحلة.|Dative sg · von + Dative → der Reise|
+|Das ist die Idee der Reise.|That is the idea of the trip.|هذه فكرة الرحلة.|Genitive sg · der Reise|
+|Die Reisen sind teuer.|The trips are expensive.|الرحلات غالية.|Nominative pl · die Reisen|
+|Ich buche die Reisen.|I book the trips.|أنا أحجز الرحلات.|Accusative pl · die Reisen|
+|Ich erzähle von den Reisen.|I tell about the trips.|أنا أحكي عن الرحلات.|Dative pl · den Reisen (+n rule)|
+
+---
 
 ### 2. der Urlaub – vacation (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Urlaub beginnt morgen.|The vacation begins tomorrow.|الإجازة تبدأ غدًا.|Nominative sg · der Urlaub (m)|
-|Ich genieße den Urlaub sehr.|I enjoy the vacation a lot.|أنا أستمتع بالإجازة كثيرًا.|Accusative sg · den Urlaub|
-|Im Urlaub schlafe ich lange.|During vacation I sleep long.|في الإجازة أنام طويلًا.|Dative sg · im = in dem|
-|Die Fotos des Urlaubs sind toll.|The vacation photos are great.|صور الإجازة رائعة.|Genitive sg · des Urlaubs (m adds -s)|
-|Die Urlaube waren alle schön.|All the vacations were lovely.|كانت جميع الإجازات جميلة.|Nominative pl · die Urlaube|
-|Ich erinnere mich an die Urlaube.|I remember the vacations.|أنا أتذكر الإجازات.|Accusative pl · die Urlaube|
-|Von den Urlauben habe ich viele Fotos.|From the vacations I have many photos.|لديّ صور كثيرة من الإجازات.|Dative pl · den Urlauben|
+|Der Urlaub ist schön.|The vacation is beautiful.|الإجازة رائعة.|Nominative sg · der Urlaub (m)|
+|Ich buche den Urlaub.|I book the vacation.|أنا أحجز الإجازة.|Accusative sg · den Urlaub|
+|Ich freue mich auf dem Urlaub.|I look forward to the vacation.|أنا أتطلع إلى الإجازة.|Dative sg · dem Urlaub|
+|Das Ende des Urlaubs ist traurig.|The end of the vacation is sad.|نهاية الإجازة حزينة.|Genitive sg · des Urlaubs|
+|Die Urlaube sind kurz.|The vacations are short.|الإجازات قصيرة.|Nominative pl · die Urlaube|
+|Wir planen die Urlaube.|We plan the vacations.|نحن نخطط للإجازات.|Accusative pl|
+|Ich erzähle von den Urlauben.|I tell about the vacations.|أنا أحكي عن الإجازات.|Dative pl · den Urlauben|
+
+---
 
 ### 3. der Flughafen – airport (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Flughafen ist sehr groß.|The airport is very large.|المطار كبير جدًا.|Nominative sg · der Flughafen (m)|
-|Ich erreiche den Flughafen früh.|I reach the airport early.|أصل إلى المطار مبكرًا.|Accusative sg · den Flughafen|
-|Am Flughafen gibt es viele Geschäfte.|At the airport there are many shops.|في المطار توجد محلات كثيرة.|Dative sg · am = an dem|
-|Die Lage des Flughafens ist günstig.|The location of the airport is convenient.|موقع المطار مناسب.|Genitive sg · des Flughafens|
-|Die Flughäfen sind oft überfüllt.|The airports are often crowded.|المطارات مزدحمة في الغالب.|Nominative pl · die Flughäfen (umlaut)|
-|Er kennt die Flughäfen Europas gut.|He knows the airports of Europe well.|هو يعرف مطارات أوروبا جيدًا.|Accusative pl · die Flughäfen|
-|In den Flughäfen gibt es Wartebereiche.|In the airports there are waiting areas.|في المطارات توجد صالات انتظار.|Dative pl · den Flughäfen|
+|Der Flughafen ist groß.|The airport is big.|المطار كبير.|Nominative sg · der Flughafen (m)|
+|Ich erreiche den Flughafen.|I reach the airport.|أنا أصل إلى المطار.|Accusative sg · den Flughafen|
+|Ich warte am Flughafen.|I wait at the airport.|أنا أنتظر في المطار.|Dative sg · am = an + dem|
+|Die Größe des Flughafens ist bekannt.|The size of the airport is known.|حجم المطار معروف.|Genitive sg · des Flughafens|
+|Die Flughäfen sind modern.|The airports are modern.|المطارات حديثة.|Nominative pl · die Flughäfen (umlaut)|
+|Wir kennen die Flughäfen.|We know the airports.|نحن نعرف المطارات.|Accusative pl|
+|Wir fahren zu den Flughäfen.|We go to the airports.|نحن نذهب إلى المطارات.|Dative pl · zu + Dative|
+
+---
 
 ### 4. der Bahnhof – train station (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Bahnhof liegt im Zentrum.|The train station is in the center.|المحطة تقع في المركز.|Nominative sg · der Bahnhof (m)|
-|Ich suche den Bahnhof.|I'm looking for the train station.|أنا أبحث عن المحطة.|Accusative sg · den Bahnhof|
-|Wir treffen uns am Bahnhof.|We meet at the train station.|نحن نلتقي في المحطة.|Dative sg · am = an dem|
-|Die Öffnungszeiten des Bahnhofs sind lang.|The opening hours of the station are long.|ساعات عمل المحطة طويلة.|Genitive sg · des Bahnhofs|
-|Die Bahnhöfe sind renoviert worden.|The train stations have been renovated.|تم تجديد المحطات.|Nominative pl · die Bahnhöfe (umlaut)|
-|Er besucht die Bahnhöfe der Großstädte.|He visits the stations of the big cities.|هو يزور محطات المدن الكبرى.|Accusative pl · die Bahnhöfe|
-|In den Bahnhöfen gibt es Restaurants.|In the train stations there are restaurants.|في المحطات توجد مطاعم.|Dative pl · den Bahnhöfen|
+|Der Bahnhof ist alt.|The train station is old.|محطة القطار قديمة.|Nominative sg · der Bahnhof (m)|
+|Ich erreiche den Bahnhof.|I reach the train station.|أنا أصل إلى المحطة.|Accusative sg · den Bahnhof|
+|Ich warte am Bahnhof.|I wait at the train station.|أنا أنتظر في المحطة.|Dative sg · am = an + dem|
+|Die Größe des Bahnhofs ist bekannt.|The size of the station is known.|حجم المحطة معروف.|Genitive sg · des Bahnhofs|
+|Die Bahnhöfe sind groß.|The train stations are big.|محطات القطار كبيرة.|Nominative pl · die Bahnhöfe (umlaut)|
+|Wir kennen die Bahnhöfe.|We know the train stations.|نحن نعرف المحطات.|Accusative pl|
+|Wir fahren zu den Bahnhöfen.|We go to the train stations.|نحن نذهب إلى المحطات.|Dative pl · zu + Dative|
+
+---
 
 ### 5. die Haltestelle – stop (f)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Die Haltestelle ist um die Ecke.|The stop is around the corner.|الموقف يقع عند الزاوية.|Nominative sg · die Haltestelle (f)|
-|Ich suche die Haltestelle.|I'm looking for the stop.|أنا أبحث عن الموقف.|Accusative sg · die (f unchanged)|
-|An der Haltestelle warte ich.|I wait at the stop.|أنا أنتظر عند الموقف.|Dative sg · an + Dative → der Haltestelle|
-|Der Name der Haltestelle ist unbekannt.|The name of the stop is unknown.|اسم الموقف غير معروف.|Genitive sg · der Haltestelle|
-|Die Haltestellen sind neu gebaut.|The stops are newly built.|تم إنشاء مواقف جديدة.|Nominative pl · die Haltestellen|
-|Er kennt alle Haltestellen der Linie.|He knows all the stops on the line.|هو يعرف جميع مواقف الخط.|Accusative pl · die Haltestellen|
-|An den Haltestellen stehen Schilder.|At the stops there are signs.|عند المواقف توجد لافتات.|Dative pl · den Haltestellen|
+|Die Haltestelle ist nah.|The stop is nearby.|المحطة قريبة.|Nominative sg · die Haltestelle (f)|
+|Ich erreiche die Haltestelle.|I reach the stop.|أنا أصل إلى المحطة.|Accusative sg · die Haltestelle|
+|Ich warte an der Haltestelle.|I wait at the stop.|أنا أنتظر عند المحطة.|Dative sg · an + Dative → der Haltestelle|
+|Der Name der Haltestelle ist bekannt.|The name of the stop is known.|اسم المحطة معروف.|Genitive sg · der Haltestelle|
+|Die Haltestellen sind nah.|The stops are nearby.|المحطات قريبة.|Nominative pl · die Haltestellen|
+|Ich kenne die Haltestellen.|I know the stops.|أنا أعرف المحطات.|Accusative pl|
+|Ich fahre zu den Haltestellen.|I go to the stops.|أنا أذهب إلى المحطات.|Dative pl · zu + Dative|
+
+---
 
 ### 6. das Gleis – platform/track (n)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Das Gleis ist gesperrt.|The platform is closed.|الرصيف مغلق.|Nominative sg · das Gleis (n)|
-|Ich suche das richtige Gleis.|I'm looking for the right platform.|أنا أبحث عن الرصيف الصحيح.|Accusative sg · das (n unchanged)|
-|Der Zug hält am Gleis sieben.|The train stops at platform seven.|القطار يتوقف عند الرصيف سبعة.|Dative sg · am = an dem|
-|Die Nummer des Gleises steht auf dem Ticket.|The platform number is on the ticket.|رقم الرصيف مكتوب على التذكرة.|Genitive sg · des Gleises|
-|Die Gleise sind gut beleuchtet.|The platforms are well lit.|الأرصفة مضاءة جيدًا.|Nominative pl · die Gleise|
-|Er überquert die Gleise nicht.|He does not cross the tracks.|هو لا يتجاوز المسارات.|Accusative pl · die Gleise|
-|Auf den Gleisen fahren viele Züge.|On the tracks many trains run.|على المسارات تسير قطارات كثيرة.|Dative pl · den Gleisen|
+|Das Gleis ist lang.|The platform is long.|الرصيف طويل.|Nominative sg · das Gleis (n)|
+|Ich erreiche das Gleis.|I reach the platform.|أنا أصل إلى الرصيف.|Accusative sg · das Gleis|
+|Ich warte auf dem Gleis.|I wait on the platform.|أنا أنتظر على الرصيف.|Dative sg · auf + Dative (location)|
+|Die Nummer des Gleises ist drei.|The number of the platform is three.|رقم الرصيف هو ثلاثة.|Genitive sg · des Gleises|
+|Die Gleise sind lang.|The platforms are long.|الأرصفة طويلة.|Nominative pl · die Gleise|
+|Ich kenne die Gleise.|I know the platforms.|أنا أعرف الأرصفة.|Accusative pl|
+|Wir warten auf den Gleisen.|We wait on the platforms.|نحن ننتظر على الأرصفة.|Dative pl · auf + Dative|
+
+---
 
 ### 7. der Zug – train (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Zug ist pünktlich.|The train is on time.|القطار في موعده.|Nominative sg · der Zug (m)|
-|Ich nehme den Zug um neun.|I take the nine o'clock train.|أنا آخذ قطار التاسعة.|Accusative sg · den Zug|
-|Im Zug gibt es ein Restaurant.|In the train there is a restaurant.|في القطار يوجد مطعم.|Dative sg · im = in dem|
-|Die Geschwindigkeit des Zuges ist beeindruckend.|The speed of the train is impressive.|سرعة القطار مثيرة للإعجاب.|Genitive sg · des Zuges|
-|Die Züge fahren häufig.|The trains run frequently.|القطارات تسير بانتظام.|Nominative pl · die Züge (umlaut)|
-|Ich mag die Züge in Deutschland.|I like the trains in Germany.|أنا أحب القطارات في ألمانيا.|Accusative pl · die Züge|
-|In den Zügen ist es ruhig.|In the trains it is quiet.|في القطارات يسود الهدوء.|Dative pl · den Zügen|
+|Der Zug ist pünktlich.|The train is on time.|القطار في الموعد.|Nominative sg · der Zug (m)|
+|Ich verpasse den Zug.|I miss the train.|أنا أفوّت القطار.|Accusative sg · den Zug|
+|Ich fahre mit dem Zug.|I travel by train.|أنا أسافر بالقطار.|Dative sg · mit + Dative always|
+|Die Geschwindigkeit des Zuges ist hoch.|The speed of the train is high.|سرعة القطار عالية.|Genitive sg · des Zuges|
+|Die Züge sind schnell.|The trains are fast.|القطارات سريعة.|Nominative pl · die Züge (umlaut)|
+|Ich nehme die Züge.|I take the trains.|أنا أركب القطارات.|Accusative pl|
+|Ich fahre mit den Zügen.|I travel by trains.|أنا أسافر بالقطارات.|Dative pl · mit + Dative|
+
+---
 
 ### 8. das Flugzeug – airplane (n)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Das Flugzeug landet gleich.|The airplane is landing soon.|الطائرة ستهبط قريبًا.|Nominative sg · das Flugzeug (n)|
-|Ich sehe das Flugzeug am Himmel.|I see the airplane in the sky.|أرى الطائرة في السماء.|Accusative sg · das (n unchanged)|
-|Im Flugzeug schläft er immer.|In the airplane he always sleeps.|هو ينام دائمًا في الطائرة.|Dative sg · im = in dem|
-|Die Größe des Flugzeuges ist enorm.|The size of the airplane is enormous.|حجم الطائرة هائل.|Genitive sg · des Flugzeuges|
-|Die Flugzeuge starten pünktlich.|The airplanes depart on time.|الطائرات تقلع في الموعد.|Nominative pl · die Flugzeuge|
-|Ich fotografiere die Flugzeuge.|I photograph the airplanes.|أنا أصوّر الطائرات.|Accusative pl · die Flugzeuge|
-|In den Flugzeugen gibt es Bildschirme.|In the airplanes there are screens.|في الطائرات توجد شاشات.|Dative pl · den Flugzeugen|
+|Das Flugzeug ist groß.|The airplane is big.|الطائرة كبيرة.|Nominative sg · das Flugzeug (n)|
+|Ich nehme das Flugzeug.|I take the airplane.|أنا أركب الطائرة.|Accusative sg · das Flugzeug|
+|Ich fliege mit dem Flugzeug.|I fly by airplane.|أنا أسافر بالطائرة.|Dative sg · mit + Dative always|
+|Die Größe des Flugzeugs ist bekannt.|The size of the airplane is known.|حجم الطائرة معروف.|Genitive sg · des Flugzeugs|
+|Die Flugzeuge sind modern.|The airplanes are modern.|الطائرات حديثة.|Nominative pl · die Flugzeuge|
+|Ich sehe die Flugzeuge.|I see the airplanes.|أنا أرى الطائرات.|Accusative pl|
+|Wir fliegen mit den Flugzeugen.|We fly in the airplanes.|نحن نسافر بالطائرات.|Dative pl · mit + Dative|
+
+---
 
 ### 9. der Bus – bus (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Bus kommt in fünf Minuten.|The bus comes in five minutes.|الحافلة ستصل خلال خمس دقائق.|Nominative sg · der Bus (m)|
-|Ich nehme den Bus zur Schule.|I take the bus to school.|أنا آخذ الحافلة إلى المدرسة.|Accusative sg · den Bus|
-|Im Bus gibt es viele Fahrgäste.|In the bus there are many passengers.|في الحافلة ركاب كثيرون.|Dative sg · im = in dem|
-|Die Linie des Busses ist die 42.|The line of the bus is 42.|خط الحافلة هو 42.|Genitive sg · des Busses|
-|Die Busse fahren stündlich.|The buses run hourly.|الحافلات تسير كل ساعة.|Nominative pl · die Busse|
-|Er benutzt die Busse täglich.|He uses the buses daily.|هو يستخدم الحافلات يوميًا.|Accusative pl · die Busse|
-|In den Bussen ist es laut.|In the buses it is noisy.|في الحافلات يسود الضجيج.|Dative pl · den Bussen|
+|Der Bus ist verspätet.|The bus is delayed.|الحافلة متأخرة.|Nominative sg · der Bus (m)|
+|Ich nehme den Bus.|I take the bus.|أنا أركب الحافلة.|Accusative sg · den Bus|
+|Ich fahre mit dem Bus.|I go by bus.|أنا أذهب بالحافلة.|Dative sg · mit + Dative always|
+|Die Haltestelle des Busses ist nah.|The stop of the bus is nearby.|محطة الحافلة قريبة.|Genitive sg · des Busses|
+|Die Busse sind billig.|The buses are cheap.|الحافلات رخيصة.|Nominative pl · die Busse|
+|Ich nehme die Busse.|I take the buses.|أنا أركب الحافلات.|Accusative pl|
+|Ich fahre mit den Bussen.|I go by buses.|أنا أذهب بالحافلات.|Dative pl · mit + Dative|
+
+---
 
 ### 10. die Straßenbahn – tram (f)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Die Straßenbahn ist praktisch.|The tram is practical.|الترام عملي.|Nominative sg · die Straßenbahn (f)|
-|Ich fahre mit der Straßenbahn.|I ride the tram.|أنا أسافر بالترام.|Dative sg · mit + Dative → der Straßenbahn|
-|Ich nehme die Straßenbahn ins Zentrum.|I take the tram to the center.|أنا آخذ الترام إلى المركز.|Accusative sg · die (f unchanged)|
-|Die Abfahrtszeit der Straßenbahn ist 9 Uhr.|The tram's departure time is 9.|وقت مغادرة الترام الساعة التاسعة.|Genitive sg · der Straßenbahn|
-|Die Straßenbahnen sind umweltfreundlich.|The trams are eco-friendly.|الترامات صديقة للبيئة.|Nominative pl · die Straßenbahnen|
-|Ich mag die Straßenbahnen in Wien.|I like the trams in Vienna.|أحب ترامات فيينا.|Accusative pl · die Straßenbahnen|
-|Mit den Straßenbahnen kommt man schnell voran.|With the trams you get around quickly.|بالترامات تتنقل بسرعة.|Dative pl · den Straßenbahnen|
+|Die Straßenbahn ist alt.|The tram is old.|الترام قديم.|Nominative sg · die Straßenbahn (f)|
+|Ich nehme die Straßenbahn.|I take the tram.|أنا أركب الترام.|Accusative sg · die Straßenbahn|
+|Ich fahre mit der Straßenbahn.|I go by tram.|أنا أذهب بالترام.|Dative sg · mit + Dative → der Straßenbahn|
+|Die Haltestelle der Straßenbahn ist nah.|The tram stop is nearby.|محطة الترام قريبة.|Genitive sg · der Straßenbahn|
+|Die Straßenbahnen sind günstig.|The trams are affordable.|الترامات بأسعار معقولة.|Nominative pl · die Straßenbahnen|
+|Ich kenne die Straßenbahnen.|I know the trams.|أنا أعرف الترامات.|Accusative pl|
+|Ich fahre mit den Straßenbahnen.|I go by trams.|أنا أذهب بالترامات.|Dative pl · mit + Dative|
+
+---
 
 ### 11. das Ticket – ticket (n)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Das Ticket ist gültig.|The ticket is valid.|التذكرة صالحة.|Nominative sg · das Ticket (n)|
-|Ich kaufe das Ticket online.|I buy the ticket online.|أنا أشتري التذكرة عبر الإنترنت.|Accusative sg · das (n unchanged)|
-|Mit dem Ticket komme ich durch.|With the ticket I get through.|بالتذكرة أتمكن من الدخول.|Dative sg · mit + Dative → dem Ticket|
+|Das Ticket ist teuer.|The ticket is expensive.|التذكرة غالية.|Nominative sg · das Ticket (n)|
+|Ich buche das Ticket.|I book the ticket.|أنا أحجز التذكرة.|Accusative sg · das Ticket|
+|Ich bezahle mit dem Ticket.|I pay with the ticket.|أنا أدفع بالتذكرة.|Dative sg · mit + Dative|
 |Der Preis des Tickets ist hoch.|The price of the ticket is high.|سعر التذكرة مرتفع.|Genitive sg · des Tickets|
-|Die Tickets sind ausverkauft.|The tickets are sold out.|التذاكر نفدت.|Nominative pl · die Tickets|
-|Ich habe die Tickets schon gebucht.|I have already booked the tickets.|لقد حجزت التذاكر بالفعل.|Accusative pl · die Tickets|
-|Mit den Tickets fahren wir los.|With the tickets we set off.|بالتذاكر ننطلق.|Dative pl · den Tickets|
+|Die Tickets sind verfügbar.|The tickets are available.|التذاكر متاحة.|Nominative pl · die Tickets|
+|Ich kaufe die Tickets.|I buy the tickets.|أنا أشتري التذاكر.|Accusative pl|
+|Ich bezahle mit den Tickets.|I pay with the tickets.|أنا أدفع بالتذاكر.|Dative pl · mit + Dative|
 
-### 12. die Fahrkarte – ticket – train/bus (f)
+---
+
+### 12. die Fahrkarte – ticket (train/bus) (f)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Die Fahrkarte ist abgelaufen.|The ticket has expired.|التذكرة انتهت صلاحيتها.|Nominative sg · die Fahrkarte (f)|
-|Ich zeige die Fahrkarte dem Schaffner.|I show the ticket to the conductor.|أنا أُريت التذكرة للموظف.|Accusative sg · die (f unchanged)|
-|Ohne die Fahrkarte darf man nicht einsteigen.|Without the ticket one may not board.|بدون التذكرة لا يجوز الصعود.|Dative? · ohne + Accusative → die Fahrkarte|
-|Der Code der Fahrkarte ist lesbar.|The code of the ticket is readable.|رمز التذكرة قابل للقراءة.|Genitive sg · der Fahrkarte|
-|Die Fahrkarten liegen auf dem Tisch.|The tickets are on the table.|التذاكر على الطاولة.|Nominative pl · die Fahrkarten|
-|Ich verliere nie die Fahrkarten.|I never lose the tickets.|أنا لا أضيّع التذاكر أبدًا.|Accusative pl · die Fahrkarten|
-|Mit den Fahrkarten können wir einsteigen.|With the tickets we can board.|بالتذاكر يمكننا الصعود.|Dative pl · den Fahrkarten|
+|Die Fahrkarte ist günstig.|The ticket is affordable.|تذكرة القطار/الحافلة بسعر معقول.|Nominative sg · die Fahrkarte (f)|
+|Ich kaufe die Fahrkarte.|I buy the ticket.|أنا أشتري التذكرة.|Accusative sg · die Fahrkarte|
+|Ich bezahle mit der Fahrkarte.|I pay with the ticket.|أنا أدفع بالتذكرة.|Dative sg · mit + Dative → der Fahrkarte|
+|Der Preis der Fahrkarte ist bekannt.|The price of the ticket is known.|سعر التذكرة معروف.|Genitive sg · der Fahrkarte|
+|Die Fahrkarten sind billig.|The tickets are cheap.|التذاكر رخيصة.|Nominative pl · die Fahrkarten|
+|Ich kaufe die Fahrkarten.|I buy the tickets.|أنا أشتري التذاكر.|Accusative pl|
+|Ich bezahle mit den Fahrkarten.|I pay with the tickets.|أنا أدفع بالتذاكر.|Dative pl · den Fahrkarten (+n rule)|
+
+---
 
 ### 13. der Koffer – suitcase (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Koffer ist sehr schwer.|The suitcase is very heavy.|الحقيبة ثقيلة جدًا.|Nominative sg · der Koffer (m)|
-|Ich trage den Koffer selbst.|I carry the suitcase myself.|أنا أحمل الحقيبة بنفسي.|Accusative sg · den Koffer|
-|Im Koffer ist alles ordentlich.|In the suitcase everything is tidy.|في الحقيبة كل شيء منظم.|Dative sg · im = in dem|
-|Das Gewicht des Koffers überschreitet das Limit.|The weight of the suitcase exceeds the limit.|وزن الحقيبة يتجاوز الحد المسموح.|Genitive sg · des Koffers|
-|Die Koffer stehen am Ausgang.|The suitcases are at the exit.|الحقائب عند المخرج.|Nominative pl · die Koffer (no umlaut)|
-|Ich hole die Koffer vom Band.|I collect the suitcases from the belt.|أنا آخذ الحقائب من السير.|Accusative pl · die Koffer|
-|Mit den Koffern ist der Bus voll.|With the suitcases the bus is full.|بالحقائب الحافلة ممتلئة.|Dative pl · den Koffern|
+|Der Koffer ist schwer.|The suitcase is heavy.|الحقيبة ثقيلة.|Nominative sg · der Koffer (m)|
+|Ich packe den Koffer.|I pack the suitcase.|أنا أحزم الحقيبة.|Accusative sg · den Koffer|
+|Ich warte mit dem Koffer.|I wait with the suitcase.|أنا أنتظر مع الحقيبة.|Dative sg · mit + Dative|
+|Das Gewicht des Koffers ist groß.|The weight of the suitcase is large.|وزن الحقيبة كبير.|Genitive sg · des Koffers|
+|Die Koffer sind schwer.|The suitcases are heavy.|الحقائب ثقيلة.|Nominative pl · die Koffer (same form)|
+|Ich packe die Koffer.|I pack the suitcases.|أنا أحزم الحقائب.|Accusative pl|
+|Ich reise mit den Koffern.|I travel with the suitcases.|أنا أسافر مع الحقائب.|Dative pl · den Koffern (+n)|
+
+---
 
 ### 14. das Gepäck – luggage (n)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Das Gepäck ist zu schwer.|The luggage is too heavy.|الأمتعة ثقيلة جدًا.|Nominative sg · das Gepäck (n) · usually uncountable|
-|Ich gebe das Gepäck auf.|I check in the luggage.|أنا أسلّم الأمتعة.|Accusative sg · das (n unchanged)|
-|Mit dem Gepäck ist es schwierig.|With the luggage it is difficult.|مع الأمتعة الأمر صعب.|Dative sg · mit + Dative → dem Gepäck|
-|Das Gewicht des Gepäcks ist begrenzt.|The weight of the luggage is limited.|وزن الأمتعة محدود.|Genitive sg · des Gepäcks|
-|Die Gepäckstücke liegen am Band.|The pieces of luggage lie on the belt.|قطع الأمتعة على السير.|Nominative pl · die Gepäckstücke (compound)|
-|Ich hole die Gepäckstücke ab.|I collect the pieces of luggage.|أنا أستلم قطع الأمتعة.|Accusative pl|
-|Bei den Gepäckstücken fehlt eines.|Among the pieces of luggage one is missing.|من بين الأمتعة تنقص قطعة.|Dative pl|
+|Das Gepäck ist schwer.|The luggage is heavy.|الأمتعة ثقيلة.|Nominative sg · das Gepäck (n) · uncountable|
+|Ich packe das Gepäck.|I pack the luggage.|أنا أحزم الأمتعة.|Accusative sg · das Gepäck|
+|Ich reise mit dem Gepäck.|I travel with the luggage.|أنا أسافر مع الأمتعة.|Dative sg · mit + Dative|
+|Das Gewicht des Gepäcks ist hoch.|The weight of the luggage is high.|وزن الأمتعة مرتفع.|Genitive sg · des Gepäcks|
+|—|(no standard plural used)|—|Usually no plural in German|
+|—|—|—|—|
+|—|—|—|—|
+
+---
 
 ### 15. der Ausflug – excursion (m)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der Ausflug dauert einen Tag.|The excursion lasts one day.|النزهة تستغرق يومًا واحدًا.|Nominative sg · der Ausflug (m)|
-|Wir planen den Ausflug für Samstag.|We plan the excursion for Saturday.|نحن نخطط للنزهة يوم السبت.|Accusative sg · den Ausflug|
-|Beim Ausflug tragen wir bequeme Schuhe.|On the excursion we wear comfortable shoes.|في النزهة نرتدي أحذية مريحة.|Dative sg · beim = bei dem|
-|Die Fotos des Ausflugs sind toll.|The photos of the excursion are great.|صور النزهة رائعة.|Genitive sg · des Ausflugs|
-|Die Ausflüge sind sehr beliebt.|The excursions are very popular.|النزهات شائعة جدًا.|Nominative pl · die Ausflüge (umlaut)|
-|Ich liebe die Ausflüge ans Meer.|I love excursions to the sea.|أنا أحب النزهات إلى البحر.|Accusative pl · die Ausflüge|
-|Bei den Ausflügen lernt man viel.|On excursions one learns a lot.|في النزهات يتعلم المرء الكثير.|Dative pl · den Ausflügen|
+|Der Ausflug ist schön.|The excursion is beautiful.|الرحلة القصيرة رائعة.|Nominative sg · der Ausflug (m)|
+|Wir planen den Ausflug.|We plan the excursion.|نحن نخطط للرحلة القصيرة.|Accusative sg · den Ausflug|
+|Ich erzähle von dem Ausflug.|I tell about the excursion.|أنا أحكي عن الرحلة القصيرة.|Dative sg · von + Dative → dem Ausflug|
+|Das Ziel des Ausflugs ist bekannt.|The destination of the excursion is known.|وجهة الرحلة القصيرة معروفة.|Genitive sg · des Ausflugs|
+|Die Ausflüge sind teuer.|The excursions are expensive.|الرحلات القصيرة غالية.|Nominative pl · die Ausflüge (umlaut)|
+|Wir planen die Ausflüge.|We plan the excursions.|نحن نخطط للرحلات القصيرة.|Accusative pl|
+|Wir erzählen von den Ausflügen.|We tell about the excursions.|نحن نحكي عن الرحلات القصيرة.|Dative pl · von + Dative|
 
 ---
 
-## 🟡 Adjectives
+## Adjectives
 
 ### 1. direkt – direct
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der direkte Flug ist teurer.|The direct flight is more expensive.|الرحلة المباشرة أغلى ثمنًا.|Nominative m · der direkte Flug|
-|Die direkte Verbindung spart Zeit.|The direct connection saves time.|الاتصال المباشر يوفر الوقت.|Nominative f · die direkte Verbindung|
-|Das direkte Ticket kostet mehr.|The direct ticket costs more.|التذكرة المباشرة تكلف أكثر.|Nominative n · das direkte Ticket|
-|Ich nehme den direkten Weg.|I take the direct route.|أنا آخذ الطريق المباشر.|Accusative m · den direkten Weg|
-|Er wählt die direkte Route.|He chooses the direct route.|هو يختار المسار المباشر.|Accusative f · die direkte Route|
-|Wir buchen das direkte Angebot.|We book the direct offer.|نحن نحجز العرض المباشر.|Accusative n · das direkte Angebot|
-|Mit dem direkten Zug geht es schneller.|With the direct train it goes faster.|بالقطار المباشر يكون الأمر أسرع.|Dative m · dem direkten Zug|
-|Sie fährt mit der direkten Linie.|She travels on the direct line.|هي تسافر بالخط المباشر.|Dative f · der direkten Linie|
-|Er reist mit dem direkten Bus.|He travels with the direct bus.|هو يسافر بالحافلة المباشرة.|Dative n · dem direkten Bus|
+|Der direkte Zug kommt um zehn Uhr.|The direct train comes at ten o'clock.|القطار المباشر يأتي الساعة العاشرة.|Nominative m. · der direkte Zug|
+|Die direkte Reise ist bequem.|The direct trip is comfortable.|الرحلة المباشرة مريحة.|Nominative f. · die direkte Reise|
+|Das direkte Ticket ist teuer.|The direct ticket is expensive.|التذكرة المباشرة غالية.|Nominative n. · das direkte Ticket|
+|Ich nehme den direkten Zug.|I take the direct train.|أنا أركب القطار المباشر.|Accusative m. · den direkten Zug|
+|Ich buche die direkte Reise.|I book the direct trip.|أنا أحجز الرحلة المباشرة.|Accusative f. · die direkte Reise|
+|Ich kaufe das direkte Ticket.|I buy the direct ticket.|أنا أشتري التذكرة المباشرة.|Accusative n. · das direkte Ticket|
+|Ich fahre mit dem direkten Zug.|I travel with the direct train.|أنا أسافر بالقطار المباشر.|Dative m. · dem direkten Zug|
+|Ich erzähle von der direkten Reise.|I tell about the direct trip.|أنا أحكي عن الرحلة المباشرة.|Dative f. · der direkten Reise|
+|Ich fahre mit dem direkten Flugzeug.|I travel by the direct airplane.|أنا أسافر بالطائرة المباشرة.|Dative n. · dem direkten Flugzeug|
+
+---
 
 ### 2. indirekt – indirect
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der indirekte Flug hat einen Stopp.|The indirect flight has a stop.|الرحلة غير المباشرة لها توقف.|Nominative m|
-|Die indirekte Route ist länger.|The indirect route is longer.|المسار غير المباشر أطول.|Nominative f|
-|Das indirekte Angebot ist günstiger.|The indirect offer is cheaper.|العرض غير المباشر أرخص.|Nominative n|
-|Ich nehme den indirekten Weg.|I take the indirect route.|أنا آخذ الطريق غير المباشر.|Accusative m|
-|Er wählt die indirekte Verbindung.|He chooses the indirect connection.|هو يختار الاتصال غير المباشر.|Accusative f|
-|Wir buchen das indirekte Ticket.|We book the indirect ticket.|نحن نحجز التذكرة غير المباشرة.|Accusative n|
-|Mit dem indirekten Flug spart man Geld.|With the indirect flight one saves money.|بالرحلة غير المباشرة يوفر المرء المال.|Dative m|
-|Mit der indirekten Route dauert es länger.|With the indirect route it takes longer.|بالمسار غير المباشر يستغرق الأمر وقتًا أطول.|Dative f|
-|Mit dem indirekten Bus kommt man auch an.|With the indirect bus one also arrives.|بالحافلة غير المباشرة يصل المرء أيضًا.|Dative n|
+|Der indirekte Zug ist langsam.|The indirect train is slow.|القطار غير المباشر بطيء.|Nominative m.|
+|Die indirekte Reise ist lang.|The indirect trip is long.|الرحلة غير المباشرة طويلة.|Nominative f.|
+|Das indirekte Ticket ist billig.|The indirect ticket is cheap.|التذكرة غير المباشرة رخيصة.|Nominative n.|
+|Ich nehme den indirekten Zug.|I take the indirect train.|أنا أركب القطار غير المباشر.|Accusative m.|
+|Ich buche die indirekte Reise.|I book the indirect trip.|أنا أحجز الرحلة غير المباشرة.|Accusative f.|
+|Ich kaufe das indirekte Ticket.|I buy the indirect ticket.|أنا أشتري التذكرة غير المباشرة.|Accusative n.|
+|Ich fahre mit dem indirekten Zug.|I travel by the indirect train.|أنا أسافر بالقطار غير المباشر.|Dative m.|
+|Ich erzähle von der indirekten Reise.|I tell about the indirect trip.|أنا أحكي عن الرحلة غير المباشرة.|Dative f.|
+|Ich fahre mit dem indirekten Bus.|I go by the indirect bus.|أنا أذهب بالحافلة غير المباشرة.|Dative n.→m. · der Bus (m)|
+
+---
 
 ### 3. rechtzeitig – on time
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der rechtzeitige Abflug war wichtig.|The on-time departure was important.|المغادرة في الوقت المناسب كانت مهمة.|Nominative m|
-|Die rechtzeitige Ankunft ist erleichternd.|The on-time arrival is relieving.|الوصول في الوقت المناسب مريح.|Nominative f|
-|Das rechtzeitige Einsteigen ist Pflicht.|On-time boarding is mandatory.|الصعود في الوقت المناسب إلزامي.|Nominative n|
-|Er schätzt den rechtzeitigen Abgang.|He appreciates the on-time departure.|هو يقدّر المغادرة في الوقت المحدد.|Accusative m|
-|Sie bemerkt die rechtzeitige Abfahrt.|She notices the on-time departure.|هي تلاحظ المغادرة في الموعد.|Accusative f|
-|Wir schätzen das rechtzeitige Handeln.|We appreciate acting on time.|نحن نقدّر التصرف في الوقت المناسب.|Accusative n|
-|Er dankt dem rechtzeitigen Alarm.|He is grateful for the on-time alarm.|هو يشكر التنبيه الذي جاء في الوقت.|Dative m|
-|Dank der rechtzeitigen Warnung kamen wir an.|Thanks to the timely warning we arrived.|بفضل التحذير في الوقت المناسب وصلنا.|Dative f|
-|Mit dem rechtzeitigen Eingriff wurde es besser.|With the timely intervention it got better.|بالتدخل في الوقت المناسب تحسّن الوضع.|Dative n|
+|Der rechtzeitige Zug ist hier.|The on-time train is here.|القطار الذي في الموعد هنا.|Nominative m.|
+|Die rechtzeitige Abfahrt ist wichtig.|The on-time departure is important.|المغادرة في الموعد مهمة.|Nominative f.|
+|Das rechtzeitige Flugzeug kommt an.|The on-time airplane arrives.|الطائرة التي في الموعد تصل.|Nominative n.|
+|Ich nehme den rechtzeitigen Zug.|I take the on-time train.|أنا أركب القطار الذي في الموعد.|Accusative m.|
+|Ich buche die rechtzeitige Fahrkarte.|I book the on-time ticket.|أنا أحجز التذكرة في الموعد.|Accusative f.|
+|Ich kaufe das rechtzeitige Ticket.|I buy the on-time ticket.|أنا أشتري التذكرة في الموعد.|Accusative n.|
+|Ich warte auf den rechtzeitigen Zug.|I wait for the on-time train.|أنا أنتظر القطار الذي في الموعد.|Dative m. · auf + Dative (waiting)|
+|Ich freue mich über die rechtzeitige Ankunft.|I am happy about the on-time arrival.|أنا سعيد بالوصول في الموعد.|Dative f.|
+|Ich denke an das rechtzeitige Flugzeug.|I think about the on-time airplane.|أنا أفكر في الطائرة التي في الموعد.|Dative n.|
+
+---
 
 ### 4. verspätet – delayed
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der verspätete Zug ärger alle.|The delayed train annoys everyone.|القطار المتأخر يزعج الجميع.|Nominative m|
-|Die verspätete Maschine landet bald.|The delayed aircraft will land soon.|الطائرة المتأخرة ستهبط قريبًا.|Nominative f|
-|Das verspätete Gepäck kommt morgen.|The delayed luggage arrives tomorrow.|الأمتعة المتأخرة تصل غدًا.|Nominative n|
-|Ich melde den verspäteten Flug.|I report the delayed flight.|أنا أبلّغ عن الرحلة المتأخرة.|Accusative m|
-|Er wartet auf die verspätete Straßenbahn.|He waits for the delayed tram.|هو ينتظر الترام المتأخر.|Accusative f|
-|Wir fordern das verspätete Gepäck zurück.|We demand the delayed luggage back.|نحن نطالب باسترداد الأمتعة المتأخرة.|Accusative n|
-|Er ärgert sich über den verspäteten Zug.|He is annoyed about the delayed train.|هو يغضب من القطار المتأخر.|Dative m · über + Accusative here, but typical dative context|
-|Wegen der verspäteten Bahn kamen wir spät.|Because of the delayed train we arrived late.|بسبب القطار المتأخر وصلنا متأخرين.|Dative f · wegen + Genitive (but common spoken Dative)|
-|Mit dem verspäteten Bus kamen wir zu spät.|With the delayed bus we arrived too late.|بالحافلة المتأخرة وصلنا بعد الموعد.|Dative n|
+|Der verspätete Zug kommt um zwölf.|The delayed train comes at twelve.|القطار المتأخر يأتي الساعة الثانية عشرة.|Nominative m.|
+|Die verspätete Straßenbahn ist laut.|The delayed tram is loud.|الترام المتأخر صاخب.|Nominative f.|
+|Das verspätete Flugzeug landet.|The delayed airplane lands.|الطائرة المتأخرة تهبط.|Nominative n.|
+|Ich nehme den verspäteten Zug.|I take the delayed train.|أنا أركب القطار المتأخر.|Accusative m.|
+|Ich verpasse die verspätete Straßenbahn nicht.|I don't miss the delayed tram.|أنا لا أفوّت الترام المتأخر.|Accusative f.|
+|Ich nehme das verspätete Flugzeug.|I take the delayed airplane.|أنا أركب الطائرة المتأخرة.|Accusative n.|
+|Ich warte auf den verspäteten Zug.|I wait for the delayed train.|أنا أنتظر القطار المتأخر.|Dative m.|
+|Ich warte auf die verspätete Straßenbahn.|I wait for the delayed tram.|أنا أنتظر الترام المتأخر.|Dative f.|
+|Ich fliege mit dem verspäteten Flugzeug.|I fly with the delayed airplane.|أنا أسافر بالطائرة المتأخرة.|Dative n.|
+
+---
 
 ### 5. gebucht – booked
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der gebuchte Flug ist bestätigt.|The booked flight is confirmed.|الرحلة المحجوزة مؤكدة.|Nominative m|
-|Die gebuchte Unterkunft ist storniert.|The booked accommodation is cancelled.|السكن المحجوز ملغى.|Nominative f|
-|Das gebuchte Zimmer ist bereit.|The booked room is ready.|الغرفة المحجوزة جاهزة.|Nominative n|
-|Ich nehme den gebuchten Platz.|I take the booked seat.|أنا آخذ المقعد المحجوز.|Accusative m|
-|Er ändert die gebuchte Route.|He changes the booked route.|هو يغيّر المسار المحجوز.|Accusative f|
-|Wir stornieren das gebuchte Hotel.|We cancel the booked hotel.|نحن نلغي الفندق المحجوز.|Accusative n|
-|Mit dem gebuchten Ticket geht es los.|With the booked ticket off we go.|بالتذكرة المحجوزة ننطلق.|Dative m|
-|Wir verlassen uns auf die gebuchte Unterkunft.|We rely on the booked accommodation.|نحن نعتمد على السكن المحجوز.|Dative f|
-|Mit dem gebuchten Zimmer sind wir zufrieden.|We are satisfied with the booked room.|نحن راضون عن الغرفة المحجوزة.|Dative n|
+|Der gebuchte Zug fährt morgen.|The booked train leaves tomorrow.|القطار المحجوز يغادر غداً.|Nominative m.|
+|Die gebuchte Reise ist teuer.|The booked trip is expensive.|الرحلة المحجوزة غالية.|Nominative f.|
+|Das gebuchte Ticket ist da.|The booked ticket is there.|التذكرة المحجوزة موجودة.|Nominative n.|
+|Ich nehme den gebuchten Zug.|I take the booked train.|أنا أركب القطار المحجوز.|Accusative m.|
+|Ich buche die gebuchte Reise um.|I rebook the booked trip.|أنا أعيد حجز الرحلة المحجوزة.|Accusative f.|
+|Ich kaufe das gebuchte Ticket.|I buy the booked ticket.|أنا أشتري التذكرة المحجوزة.|Accusative n.|
+|Ich fahre mit dem gebuchten Zug.|I travel with the booked train.|أنا أسافر بالقطار المحجوز.|Dative m.|
+|Ich erzähle von der gebuchten Reise.|I tell about the booked trip.|أنا أحكي عن الرحلة المحجوزة.|Dative f.|
+|Ich bezahle mit dem gebuchten Ticket.|I pay with the booked ticket.|أنا أدفع بالتذكرة المحجوزة.|Dative n.|
+
+---
 
 ### 6. verfügbar – available
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der verfügbare Zug fährt um 10 Uhr.|The available train leaves at 10.|القطار المتاح يغادر الساعة العاشرة.|Nominative m|
-|Die verfügbare Kabine ist klein.|The available cabin is small.|الكابينة المتاحة صغيرة.|Nominative f|
-|Das verfügbare Zimmer ist im dritten Stock.|The available room is on the third floor.|الغرفة المتاحة في الطابق الثالث.|Nominative n|
-|Ich buche den verfügbaren Platz sofort.|I book the available seat immediately.|أنا أحجز المقعد المتاح فورًا.|Accusative m|
-|Er nimmt die verfügbare Option.|He takes the available option.|هو يأخذ الخيار المتاح.|Accusative f|
-|Wir wählen das verfügbare Angebot.|We choose the available offer.|نحن نختار العرض المتاح.|Accusative n|
-|Er ist froh über den verfügbaren Platz.|He is glad about the available seat.|هو سعيد بالمقعد المتاح.|Dative m|
-|Mit der verfügbaren Verbindung fahren wir.|With the available connection we travel.|بالاتصال المتاح نسافر.|Dative f|
-|Mit dem verfügbaren Zimmer sind wir zufrieden.|With the available room we are satisfied.|نحن راضون عن الغرفة المتاحة.|Dative n|
+|Der verfügbare Zug fährt um neun.|The available train leaves at nine.|القطار المتاح يغادر الساعة التاسعة.|Nominative m.|
+|Die verfügbare Fahrkarte ist günstig.|The available ticket is affordable.|التذكرة المتاحة بسعر معقول.|Nominative f.|
+|Das verfügbare Zimmer ist klein.|The available room is small.|الغرفة المتاحة صغيرة.|Nominative n.|
+|Ich nehme den verfügbaren Zug.|I take the available train.|أنا أركب القطار المتاح.|Accusative m.|
+|Ich kaufe die verfügbare Fahrkarte.|I buy the available ticket.|أنا أشتري التذكرة المتاحة.|Accusative f.|
+|Ich buche das verfügbare Zimmer.|I book the available room.|أنا أحجز الغرفة المتاحة.|Accusative n.|
+|Ich frage nach dem verfügbaren Zug.|I ask about the available train.|أنا أسأل عن القطار المتاح.|Dative m. · nach + Dative|
+|Ich frage nach der verfügbaren Fahrkarte.|I ask about the available ticket.|أنا أسأل عن التذكرة المتاحة.|Dative f.|
+|Ich frage nach dem verfügbaren Zimmer.|I ask about the available room.|أنا أسأل عن الغرفة المتاحة.|Dative n.|
+
+---
 
 ### 7. ausgebucht – fully booked
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der ausgebuchte Flug hat keine Plätze mehr.|The fully booked flight has no seats left.|الرحلة المكتملة لا تحتوي مقاعد شاغرة.|Nominative m|
-|Die ausgebuchte Unterkunft nimmt keine Gäste mehr an.|The fully booked accommodation takes no more guests.|السكن المكتمل لا يقبل ضيوفًا آخرين.|Nominative f|
-|Das ausgebuchte Hotel ist leider voll.|The fully booked hotel is unfortunately full.|الفندق المكتمل ممتلئ للأسف.|Nominative n|
-|Ich finde keinen Platz im ausgebuchten Zug.|I find no seat on the fully booked train.|لا أجد مقعدًا في القطار المكتمل.|Dative m · in + Dative|
-|Er wartet auf eine Absage bei der ausgebuchten Linie.|He waits for a cancellation on the fully booked line.|هو ينتظر إلغاءً في الخط المكتمل.|Dative f|
-|Mit dem ausgebuchten Flug haben wir Pech.|With the fully booked flight we are unlucky.|مع الرحلة المكتملة نحن محظوظون بالعكس.|Dative n|
+|Der ausgebuchte Zug fährt ohne mich.|The fully booked train leaves without me.|القطار الممتلئ يغادر بدوني.|Nominative m.|
+|Die ausgebuchte Reise ist vorbei.|The fully booked trip is over.|الرحلة الممتلئة انتهت.|Nominative f.|
+|Das ausgebuchte Hotel ist voll.|The fully booked hotel is full.|الفندق الممتلئ ممتلئ.|Nominative n.|
+|Ich verpasse den ausgebuchten Zug.|I miss the fully booked train.|أنا أفوّت القطار الممتلئ.|Accusative m.|
+|Ich verpasse die ausgebuchte Reise.|I miss the fully booked trip.|أنا أفوّت الرحلة الممتلئة.|Accusative f.|
+|Ich suche das ausgebuchte Hotel.|I look for the fully booked hotel.|أنا أبحث عن الفندق الممتلئ.|Accusative n.|
+|Ich frage nach dem ausgebuchten Zug.|I ask about the fully booked train.|أنا أسأل عن القطار الممتلئ.|Dative m.|
+|Ich frage nach der ausgebuchten Reise.|I ask about the fully booked trip.|أنا أسأل عن الرحلة الممتلئة.|Dative f.|
+|Ich frage nach dem ausgebuchten Hotel.|I ask about the fully booked hotel.|أنا أسأل عن الفندق الممتلئ.|Dative n.|
+
+---
 
 ### 8. einfach – single (ticket) / simple
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der einfache Weg ist der beste.|The simple way is the best.|الطريق البسيط هو الأفضل.|Nominative m|
-|Die einfache Fahrkarte gilt nur einmal.|The single ticket is valid only once.|تذكرة الذهاب فقط صالحة مرة واحدة.|Nominative f · key travel sense|
-|Das einfache Ticket reicht für heute.|The single ticket is enough for today.|تذكرة الذهاب كافية لليوم.|Nominative n|
-|Ich kaufe den einfachen Fahrschein.|I buy the single ticket.|أنا أشتري تذكرة الذهاب فقط.|Accusative m|
-|Er bestellt die einfache Fahrkarte.|He orders the single ticket.|هو يطلب تذكرة الذهاب.|Accusative f|
-|Wir wählen das einfache Ticket.|We choose the single ticket.|نحن نختار تذكرة الذهاب فقط.|Accusative n|
-|Mit dem einfachen Ticket kommt man hin.|With the single ticket one gets there.|بتذكرة الذهاب يصل المرء.|Dative m|
-|Mit der einfachen Fahrkarte geht es.|With the single ticket it works.|بتذكرة الذهاب يسير الأمر.|Dative f|
-|Mit dem einfachen Angebot spart man.|With the simple offer one saves.|بالعرض البسيط يوفر المرء.|Dative n|
+|Der einfache Weg ist der beste.|The simple way is the best.|الطريق البسيط هو الأفضل.|Nominative m.|
+|Die einfache Fahrkarte kostet wenig.|The single ticket costs little.|تذكرة الذهاب فقط تكلف قليلاً.|Nominative f.|
+|Das einfache Ticket ist billig.|The single ticket is cheap.|التذكرة البسيطة رخيصة.|Nominative n.|
+|Ich kaufe den einfachen Weg.|I choose the simple way.|أنا أختار الطريق البسيط.|Accusative m.|
+|Ich kaufe die einfache Fahrkarte.|I buy the single ticket.|أنا أشتري تذكرة الذهاب فقط.|Accusative f.|
+|Ich buche das einfache Ticket.|I book the single ticket.|أنا أحجز التذكرة البسيطة.|Accusative n.|
+|Ich frage nach dem einfachen Weg.|I ask about the simple way.|أنا أسأل عن الطريق البسيط.|Dative m.|
+|Ich frage nach der einfachen Fahrkarte.|I ask about the single ticket.|أنا أسأل عن تذكرة الذهاب فقط.|Dative f.|
+|Ich bezahle mit dem einfachen Ticket.|I pay with the single ticket.|أنا أدفع بالتذكرة البسيطة.|Dative n.|
 
-### 9. hin und zurück – return (ticket) / round trip
+---
+
+### 9. hin und zurück – return (ticket)
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Das Ticket hin und zurück ist teurer.|The return ticket is more expensive.|تذكرة الذهاب والعودة أغلى.|fixed phrase · used predicatively or as noun modifier|
-|Ich kaufe eine Fahrkarte hin und zurück.|I buy a return ticket.|أنا أشتري تذكرة ذهاب وعودة.|Accusative · hin und zurück = round trip|
-|Wir reisen hin und zurück mit dem Zug.|We travel there and back by train.|نحن نسافر ذهابًا وإيابًا بالقطار.|used adverbially|
+|Der Hin-und-zurück-Zug fährt morgen.|The return train leaves tomorrow.|قطار الذهاب والإياب يغادر غداً.|Nominative m. · used as compound adj.|
+|Die Hin-und-zurück-Fahrkarte ist teuer.|The return ticket is expensive.|تذكرة الذهاب والإياب غالية.|Nominative f.|
+|Das Hin-und-zurück-Ticket kostet viel.|The return ticket costs a lot.|تذكرة الذهاب والإياب تكلف كثيراً.|Nominative n.|
+|Ich kaufe den Hin-und-zurück-Zug.|I buy the return train (ticket).|أنا أشتري تذكرة قطار الذهاب والإياب.|Accusative m.|
+|Ich kaufe die Hin-und-zurück-Fahrkarte.|I buy the return ticket.|أنا أشتري تذكرة الذهاب والإياب.|Accusative f.|
+|Ich buche das Hin-und-zurück-Ticket.|I book the return ticket.|أنا أحجز تذكرة الذهاب والإياب.|Accusative n.|
+|Ich frage nach dem Hin-und-zurück-Zug.|I ask about the return train.|أنا أسأل عن قطار الذهاب والإياب.|Dative m.|
+|Ich frage nach der Hin-und-zurück-Fahrkarte.|I ask about the return ticket.|أنا أسأل عن تذكرة الذهاب والإياب.|Dative f.|
+|Ich bezahle mit dem Hin-und-zurück-Ticket.|I pay with the return ticket.|أنا أدفع بتذكرة الذهاب والإياب.|Dative n.|
+
+---
 
 ### 10. bequem – comfortable
 
 |German Sentence|English Translation|Arabic Translation|Useful Info|
 |---|---|---|---|
-|Der bequeme Sitz macht die Reise angenehm.|The comfortable seat makes the journey pleasant.|المقعد المريح يجعل الرحلة ممتعة.|Nominative m|
-|Die bequeme Kabine ist schnell ausgebucht.|The comfortable cabin is quickly fully booked.|الكابينة المريحة تُحجز بسرعة.|Nominative f|
-|Das bequeme Abteil ist im ersten Wagen.|The comfortable compartment is in the first carriage.|الحجرة المريحة في العربة الأولى.|Nominative n|
-|Ich wähle den bequemen Platz am Fenster.|I choose the comfortable window seat.|أنا أختار المقعد المريح عند النافذة.|Accusative m|
-|Er bevorzugt die bequeme Business Class.|He prefers the comfortable business class.|هو يفضّل درجة رجال الأعمال المريحة.|Accusative f|
-|Wir schätzen das bequeme Abteil.|We appreciate the comfortable compartment.|نحن نقدّر الحجرة المريحة.|Accusative n|
-|Er schläft in dem bequemen Sitz.|He sleeps in the comfortable seat.|هو ينام في المقعد المريح.|Dative m|
-|Mit der bequemen Kabine ist die Reise toll.|With the comfortable cabin the trip is great.|بالكابينة المريحة الرحلة رائعة.|Dative f|
-|In dem bequemen Abteil erholt man sich.|In the comfortable compartment one rests.|في الحجرة المريحة يرتاح المرء.|Dative n|
+|Der bequeme Zug ist langsam.|The comfortable train is slow.|القطار المريح بطيء.|Nominative m.|
+|Die bequeme Reise ist lang.|The comfortable trip is long.|الرحلة المريحة طويلة.|Nominative f.|
+|Das bequeme Sofa ist groß.|The comfortable sofa is big.|الأريكة المريحة كبيرة.|Nominative n.|
+|Ich nehme den bequemen Zug.|I take the comfortable train.|أنا أركب القطار المريح.|Accusative m.|
+|Ich buche die bequeme Reise.|I book the comfortable trip.|أنا أحجز الرحلة المريحة.|Accusative f.|
+|Ich kaufe das bequeme Sofa.|I buy the comfortable sofa.|أنا أشتري الأريكة المريحة.|Accusative n.|
+|Ich fahre mit dem bequemen Zug.|I travel with the comfortable train.|أنا أسافر بالقطار المريح.|Dative m.|
+|Ich erzähle von der bequemen Reise.|I tell about the comfortable trip.|أنا أحكي عن الرحلة المريحة.|Dative f.|
+|Ich sitze auf dem bequemen Sofa.|I sit on the comfortable sofa.|أنا أجلس على الأريكة المريحة.|Dative n. · auf + Dative (location)|

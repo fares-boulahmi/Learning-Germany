@@ -138,17 +138,17 @@ Typische Zeitangaben, die das Präteritum begleiten:
 
 #### Personalpronomen
 
-|Nominativ|Akkusativ|Dativ|
-|---|---|---|
-|ich|mich|mir|
-|du|dich|dir|
-|er|ihn|ihm|
-|es|es|ihm|
-|sie|sie|ihr|
-|wir|uns|uns|
-|ihr|euch|euch|
-|sie|sie|ihnen|
-|Sie|Sie|Ihnen|
+| Nominativ | Akkusativ | Dativ |
+| --------- | --------- | ----- |
+| ich       | mich      | mir   |
+| du        | dich      | dir   |
+| er        | ihn       | ihm   |
+| es        | es        | ihm   |
+| sie       | sie       | ihr   |
+| wir       | uns       | uns   |
+| ihr       | euch      | euch  |
+| sie       | sie       | ihnen |
+| Sie       | Sie       | Ihnen |
 
 #### Verben mit Dativ (immer mit Dativobjekt)
 

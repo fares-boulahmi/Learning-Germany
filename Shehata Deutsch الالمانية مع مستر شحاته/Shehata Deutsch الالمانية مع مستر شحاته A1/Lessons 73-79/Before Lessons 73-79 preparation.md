@@ -227,7 +227,7 @@ Root: INTERESSIEREN
 
 ### Section C: Fixed Phrases You Keep Breaking
 
-|Correct phrase|Meaning|❌ Your version||
+|Correct phrase|Meaning|❌ Your version| |
 |---|---|---|---|
 |weil … [verb]|because … [verb final]|weil er ist / weil kein Geld er|🔁|
 |noch nicht + Perfekt|not yet|noch nicht + Präsens|🔁|
