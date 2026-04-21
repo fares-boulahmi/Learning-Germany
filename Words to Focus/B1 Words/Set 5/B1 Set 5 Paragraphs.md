@@ -1,4 +1,4 @@
-I'll generate the 10 German paragraphs following the prompt's rules. This is a content generation task — output goes directly in markdown.
+ I'll generate the 10 German paragraphs following the prompt's rules. This is a content generation task — output goes directly in markdown.
 
 ---
 
@@ -69,3 +69,5 @@ Ich koche sehr gerne und lerne jede Woche neue Rezepte. Heute koche ich ein leck
 
 Nach dem Urlaub komme ich immer glücklich nach Hause zurück. Mein Flugzeug landet rechtzeitig am Flughafen. Ich hole mein Gepäck und nehme ein Taxi nach Hause. Der Koffer ist voller Souvenirs für die Familie. Meine Kinder warten aufgeregt auf mich und fragen: „Was hast du mitgebracht?" Ich verteile die Geschenke und erzähle von meiner Reise. Ich habe viele Städte erkundet und viele neue Dinge besichtigt. Der schönste Ausflug war eine Bootsfahrt auf dem See. Ich habe viele Fotos gemacht, die ich der Familie zeige. Mein Sohn fragt: „Wohin reisen wir nächstes Jahr?" Ich sage: „Vielleicht nach Deutschland oder in die Schweiz." Wir planen schon den nächsten Urlaub und ich buche früh, damit wir gute Preise bekommen. Das Ticket hin und zurück ist günstiger, wenn man es frühzeitig reserviert. Reisen ist meine größte Leidenschaft und ich freue mich immer auf die nächste Reise.
 ![[Ich koche sehr (1).mp3]]
+- 🍅 (pomodoro::WORK) (duration:: 90m) (begin:: 2026-04-21 05:28) - (end:: 2026-04-21 08:15)
+- 🍅 (pomodoro::WORK) (duration:: 90m) (begin:: 2026-04-21 08:16) - (end:: 2026-04-21 10:08)

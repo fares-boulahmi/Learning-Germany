@@ -3,8 +3,9 @@
 [[Dialogues B1 words prompt]]
 [[B1 words Sentence generate ]] | [[B1 words Sentence generate V2]]
 [[Generate Translation Work ]] | [[Generate Translation Work V2]]
-[[Generate Translation Sentence ]]
-[[Prompt temp page ]]
+[[Generate Translation Sentence ]] | [[Generate Translation Sentence V2]]
+[[Speaking prompt ]]
+ [[Prompt temp page ]]
 
 ## Sets 
 [[known B1 words ]]

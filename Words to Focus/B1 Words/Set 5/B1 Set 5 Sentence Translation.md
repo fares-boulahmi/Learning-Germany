@@ -6,76 +6,76 @@
 
 These words were needed to build logical sentences. They are not in your Known Words list.
 
-|German Word|Article / Type|English Meaning|
-|---|---|---|
-|mal|adverb|once / just (softener)|
-|gern(e)|adverb|gladly / like to|
-|endlich|adverb|finally|
-|leider|adverb|unfortunately|
-|schon|adverb|already|
-|noch|adverb|still / yet|
-|sofort|adverb|immediately|
-|alleine|adverb|alone|
-|zusammen|adverb|together|
-|nächste|adjective|next|
-|letzte|adjective|last|
-|lange|adverb|for a long time|
-|dort|adverb|there|
-|ab|separable prefix/preposition|from / off|
-|los|adjective/adverb|off / away|
-|früh|adjective/adverb|early|
-|spät|adjective/adverb|late|
-|weit|adjective/adverb|far|
-|nah|adjective/adverb|near/close|
-|weg|adverb|away/gone|
-|Minuten|noun (pl.)|minutes|
-|Stunden|noun (pl.)|hours|
-|Nacht|die Nacht|night|
-|Zimmer|das Zimmer|room (already in known words — hotel context)|
-|Hotel|das Hotel|hotel|
-|Strand|der Strand|beach|
-|Stadt|die Stadt|city|
-|Land|das Land|country/land|
-|Berg|der Berg|mountain|
-|See|der/die See|lake / sea|
-|Hafen|der Hafen|harbor/port|
-|Grenze|die Grenze|border|
-|Pass|der Pass|passport|
-|Visum|das Visum|visa|
-|Abflug|der Abflug|departure (flight)|
-|Ankunft|die Ankunft|arrival|
-|Verspätung|die Verspätung|delay (already known)|
-|Boarding|das Boarding|boarding|
-|Gate|das Gate|gate|
-|Platz|der Platz|seat / square|
-|Fenster|das Fenster|window|
-|Gang|der Gang|aisle|
-|Schaffner|der Schaffner|conductor (train)|
-|Pilot|der Pilot|pilot|
-|Stewardess|die Stewardess|flight attendant|
-|Taxifahrer|der Taxifahrer|taxi driver|
-|Mietwagen|der Mietwagen|rental car|
-|Stau|der Stau|traffic jam|
-|Karte|die Karte|map / card|
-|Sehenswürdigkeit|die Sehenswürdigkeit|tourist sight|
-|Museum|das Museum|museum|
-|Schloss|das Schloss|castle|
-|Kirche|die Kirche|church|
-|Markt|der Markt|market|
-|Abenteuer|das Abenteuer|adventure|
-|Erfahrung|die Erfahrung|experience|
-|Reiseführer|der Reiseführer|travel guide|
-|Gepäckausgabe|die Gepäckausgabe|baggage claim|
-|Sicherheitskontrolle|die Sicherheitskontrolle|security check|
-|Einzel|adjective prefix|single|
-|Rückfahrt|die Rückfahrt|return journey|
-|Hinfahrt|die Hinfahrt|outward journey|
-|Verbindung|die Verbindung|connection|
-|Abfahrtszeit|die Abfahrtszeit|departure time|
-|Ankunftszeit|die Ankunftszeit|arrival time|
-|Fahrtzeit|die Fahrtzeit|travel time|
-|Unterschrift|die Unterschrift|signature|
-|Reisebüro|das Reisebüro|travel agency (already known)|
+| German Word          | Article / Type               | English Meaning                               |
+| -------------------- | ---------------------------- | --------------------------------------------- |
+| mal                  | adverb                       | once / just (softener)                        |
+| gern(e)              | adverb                       | gladly / like to                              |
+| endlich              | adverb                       | finally                                       |
+| leider               | adverb                       | unfortunately                                 |
+| schon                | adverb                       | already                                       |
+| noch                 | adverb                       | still / yet                                   |
+| sofort               | adverb                       | immediately                                   |
+| alleine              | adverb                       | alone                                         |
+| zusammen             | adverb                       | together                                      |
+| nächste              | adjective                    | next                                          |
+| letzte               | adjective                    | last                                          |
+| lange                | adverb                       | for a long time                               |
+| dort                 | adverb                       | there                                         |
+| ab                   | separable prefix/preposition | from / off                                    |
+| los                  | adjective/adverb             | off / away                                    |
+| früh                 | adjective/adverb             | early                                         |
+| spät                 | adjective/adverb             | late                                          |
+| weit                 | adjective/adverb             | far                                           |
+| nah                  | adjective/adverb             | near/close                                    |
+| weg                  | adverb                       | away/gone                                     |
+| Minuten              | noun (pl.)                   | minutes                                       |
+| Stunden              | noun (pl.)                   | hours                                         |
+| Nacht                | die Nacht                    | night                                         |
+| Zimmer               | das Zimmer                   | room (already in known words — hotel context) |
+| Hotel                | das Hotel                    | hotel                                         |
+| Strand               | der Strand                   | beach                                         |
+| Stadt                | die Stadt                    | city                                          |
+| Land                 | das Land                     | country/land                                  |
+| Berg                 | der Berg                     | mountain                                      |
+| See                  | der/die See                  | lake / sea                                    |
+| Hafen                | der Hafen                    | harbor/port                                   |
+| Grenze               | die Grenze                   | border                                        |
+| Pass                 | der Pass                     | passport                                      |
+| Visum                | das Visum                    | visa                                          |
+| Abflug               | der Abflug                   | departure (flight)                            |
+| Ankunft              | die Ankunft                  | arrival                                       |
+| Verspätung           | die Verspätung               | delay (already known)                         |
+| Boarding             | das Boarding                 | boarding                                      |
+| Gate                 | das Gate                     | gate                                          |
+| Platz                | der Platz                    | seat / square                                 |
+| Fenster              | das Fenster                  | window                                        |
+| Gang                 | der Gang                     | aisle                                         |
+| Schaffner            | der Schaffner                | conductor (train)                             |
+| Pilot                | der Pilot                    | pilot                                         |
+| Stewardess           | die Stewardess               | flight attendant                              |
+| Taxifahrer           | der Taxifahrer               | taxi driver                                   |
+| Mietwagen            | der Mietwagen                | rental car                                    |
+| Stau                 | der Stau                     | traffic jam                                   |
+| Karte                | die Karte                    | map / card                                    |
+| Sehenswürdigkeit     | die Sehenswürdigkeit         | tourist sight                                 |
+| Museum               | das Museum                   | museum                                        |
+| Schloss              | das Schloss                  | castle                                        |
+| Kirche               | die Kirche                   | church                                        |
+| Markt                | der Markt                    | market                                        |
+| Abenteuer            | das Abenteuer                | adventure                                     |
+| Erfahrung            | die Erfahrung                | experience                                    |
+| Reiseführer          | der Reiseführer              | travel guide                                  |
+| Gepäckausgabe        | die Gepäckausgabe            | baggage claim                                 |
+| Sicherheitskontrolle | die Sicherheitskontrolle     | security check                                |
+| Einzel               | adjective prefix             | single                                        |
+| Rückfahrt            | die Rückfahrt                | return journey                                |
+| Hinfahrt             | die Hinfahrt                 | outward journey                               |
+| Verbindung           | die Verbindung               | connection                                    |
+| Abfahrtszeit         | die Abfahrtszeit             | departure time                                |
+| Ankunftszeit         | die Ankunftszeit             | arrival time                                  |
+| Fahrtzeit            | die Fahrtzeit                | travel time                                   |
+| Unterschrift         | die Unterschrift             | signature                                     |
+| Reisebüro            | das Reisebüro                | travel agency (already known)                 |
 
 ---
 
@@ -83,83 +83,83 @@ These words were needed to build logical sentences. They are not in your Known W
 
 ---
 
-**1. 🇬🇧** I travel to Germany every summer. **🇸🇦** أنا أسافر إلى ألمانيا كل صيف. **🇩🇪** _______________________________________________
+**1. 🇬🇧** I travel to Germany every summer. **🇸🇦** أنا أسافر إلى ألمانيا كل صيف. **🇩🇪** Ich reise jeden Sommer nach Deutschland 
 
 ---
 
-**2. 🇬🇧** Do you travel alone or with your family? **🇸🇦** هل تسافر وحدك أم مع عائلتك؟ **🇩🇪** _______________________________________________
+**2. 🇬🇧** Do you travel alone or with your family? **🇸🇦** هل تسافر وحدك أم مع عائلتك؟ **🇩🇪** reist du alleine oder mit deiner Familie ? 
 
 ---
 
-**3. 🇬🇧** He travels to work by train every day. **🇸🇦** يسافر إلى العمل بالقطار كل يوم. **🇩🇪** _______________________________________________
+**3. 🇬🇧** He travels to work by train every day. **🇸🇦** يسافر إلى العمل بالقطار كل يوم. **🇩🇪** Er reist jeden tag mit dem Zug zur Arbeit 
 
 ---
 
-**4. 🇬🇧** She traveled to Tunisia last summer. **🇸🇦** سافرت إلى تونس الصيف الماضي. **🇩🇪** _______________________________________________
+**4. 🇬🇧** She traveled to Tunisia last summer. **🇸🇦** سافرت إلى تونس الصيف الماضي. **🇩🇪** Sie reist  letzte Sommer nach Tunesien  .
 
 ---
 
-**5. 🇬🇧** We travel together every year. **🇸🇦** نسافر معاً كل عام. **🇩🇪** _______________________________________________
+**5. 🇬🇧** We travel together every year. **🇸🇦** نسافر معاً كل عام. **🇩🇪** Wir reisen jedes Jahr zusammen 
 
 ---
 
-**6. 🇬🇧** Do you (plural) travel by bus or by train? **🇸🇦** هل تسافرون بالحافلة أم بالقطار؟ **🇩🇪** _______________________________________________
+**6. 🇬🇧** Do you (plural) travel by bus or by train? **🇸🇦** هل تسافرون بالحافلة أم بالقطار؟ **🇩🇪** Reisen sie mit dem Bus oder Zug ?
 
 ---
 
-**7. 🇬🇧** They travel to a different country every year. **🇸🇦** يسافرون إلى بلد مختلف كل عام. **🇩🇪** _______________________________________________
+**7. 🇬🇧** They travel to a different country every year. **🇸🇦** يسافرون إلى بلد مختلف كل عام. **🇩🇪** Sie reisen jedes Jahr in ein anderes Land 
 
 ---
 
-**8. 🇬🇧** I traveled by plane for the first time last year. **🇸🇦** سافرت بالطائرة لأول مرة العام الماضي. **🇩🇪** _______________________________________________
+**8. 🇬🇧** I traveled by plane for the first time last year. **🇸🇦** سافرت بالطائرة لأول مرة العام الماضي. **🇩🇪** Ich reise erste mal mit dem Flugzeug letztes Jahr 
 
 ---
 
-**9. 🇬🇧** He has traveled to ten countries. **🇸🇦** لقد سافر إلى عشر دول. **🇩🇪** _______________________________________________
+**9. 🇬🇧** He has traveled to ten countries. **🇸🇦** لقد سافر إلى عشر دول. **🇩🇪** Er hat nach zehn Land gereist 
 
 ---
 
-**10. 🇬🇧** She has already traveled to China and India. **🇸🇦** لقد سافرت بالفعل إلى الصين والهند. **🇩🇪** _______________________________________________
+**10. 🇬🇧** She has already traveled to China and India. **🇸🇦** لقد سافرت بالفعل إلى الصين والهند. **🇩🇪** Sie hat schon nach China und Indian gereist 
 
 ---
 
-**11. 🇬🇧** We will travel to Austria next week. **🇸🇦** سنسافر إلى النمسا الأسبوع القادم. **🇩🇪** _______________________________________________
+**11. 🇬🇧** We will travel to Austria next week. **🇸🇦** سنسافر إلى النمسا الأسبوع القادم. **🇩🇪** Wir werden nächste Woche nach Österreich reisen .
 
 ---
 
-**12. 🇬🇧** My dream is a trip through Europe. **🇸🇦** حلمي هو رحلة عبر أوروبا. **🇩🇪** _______________________________________________
+**12. 🇬🇧** My dream is a trip through Europe. **🇸🇦** حلمي هو رحلة عبر أوروبا. **🇩🇪** Mein Traum ist ein Urlaub durch Europe . 
 
 ---
 
-**13. 🇬🇧** The trip to Berlin took three hours. **🇸🇦** استغرقت الرحلة إلى برلين ثلاث ساعات. **🇩🇪** _______________________________________________
+**13. 🇬🇧** The trip to Berlin took three hours. **🇸🇦** استغرقت الرحلة إلى برلين ثلاث ساعات. **🇩🇪** Der Urlaub nach Berlin dauert drei Stunden .
 
 ---
 
-**14. 🇬🇧** I give my sister a travel guide. **🇸🇦** أعطي أختي دليل سفر. **🇩🇪** _______________________________________________
+**14. 🇬🇧** I give my sister a travel guide. **🇸🇦** أعطي أختي دليل سفر. **🇩🇪** Ich gebe meiner Schwester einen Reiseführer   
 
 ---
 
-**15. 🇬🇧** The cost of the trip was very expensive. **🇸🇦** كانت تكلفة الرحلة باهظة جداً. **🇩🇪** _______________________________________________
+**15. 🇬🇧** The cost of the trip was very expensive. **🇸🇦** كانت تكلفة الرحلة باهظة جداً. **🇩🇪** Die kostet des Urlaub war sehr teuer 
 
 ---
 
-**16. 🇬🇧** I fly to London every month. **🇸🇦** أطير إلى لندن كل شهر. **🇩🇪** _______________________________________________
+**16. 🇬🇧** I fly to London every month. **🇸🇦** أطير إلى لندن كل شهر. **🇩🇪** Ich fliege jeden Monat nach London 
 
 ---
 
-**17. 🇬🇧** Do you fly often for work? **🇸🇦** هل تطير كثيراً بسبب العمل؟ **🇩🇪** _______________________________________________
+**17. 🇬🇧** Do you fly often for work? **🇸🇦** هل تطير كثيراً بسبب العمل؟ **🇩🇪** Fliegst du oft für die Arbeit ?
 
 ---
 
-**18. 🇬🇧** The pilot flies the plane very calmly. **🇸🇦** يقود الطيار الطائرة بهدوء شديد. **🇩🇪** _______________________________________________
+**18. 🇬🇧** The pilot flies the plane very calmly. **🇸🇦** يقود الطيار الطائرة بهدوء شديد. **🇩🇪** Der Pilot fliegt das Flugzeug ruhig 
 
 ---
 
-**19. 🇬🇧** My mother flew to Australia last year. **🇸🇦** طارت أمي إلى أستراليا العام الماضي. **🇩🇪** _______________________________________________
+**19. 🇬🇧** My mother flew to Australia last year. **🇸🇦** طارت أمي إلى أستراليا العام الماضي. **🇩🇪** Meine Mutter fliegt letztes Jahr nach Australia 
 
 ---
 
-**20. 🇬🇧** We flew over the mountains. **🇸🇦** حلّقنا فوق الجبال. **🇩🇪** _______________________________________________
+**20. 🇬🇧** We flew over the mountains. **🇸🇦** حلّقنا فوق الجبال. **🇩🇪** Wir fliegen über die Berge 
 
 ---
 
@@ -194,110 +194,110 @@ These words were needed to build logical sentences. They are not in your Known W
 
 ---
 
-**21. 🇬🇧** Do you (plural) fly direct or with a stopover? **🇸🇦** هل تطيرون مباشرة أم مع توقف؟ **🇩🇪** _______________________________________________
+**21. 🇬🇧** Do you (plural) fly direct or with a stopover? **🇸🇦** هل تطيرون مباشرة أم مع توقف؟ **🇩🇪** Fliegen sie direkt oder mit Haltestelle ? 
 
 ---
 
-**22. 🇬🇧** They flew to the USA last Monday. **🇸🇦** طاروا إلى الولايات المتحدة الإثنين الماضي. **🇩🇪** _______________________________________________
+**22. 🇬🇧** They flew to the USA last Monday. **🇸🇦** طاروا إلى الولايات المتحدة الإثنين الماضي. **🇩🇪** Sie fliegen letzten Monat in die USA
 
 ---
 
-**23. 🇬🇧** I have never flown by plane before. **🇸🇦** لم أطر بالطائرة من قبل قط. **🇩🇪** _______________________________________________
+**23. 🇬🇧** I have never flown by plane before. **🇸🇦** لم أطر بالطائرة من قبل قط. **🇩🇪** Ich bin noch nie  mit Flugzeug geflogen  
 
 ---
 
-**24. 🇬🇧** She has flown to more than twenty countries. **🇸🇦** لقد طارت إلى أكثر من عشرين دولة. **🇩🇪** _______________________________________________
+**24. 🇬🇧** She has flown to more than twenty countries. **🇸🇦** لقد طارت إلى أكثر من عشرين دولة. **🇩🇪** Sie ist nach mehr zwanzig Lände geflogen 
 
 ---
 
-**25. 🇬🇧** We will fly to Switzerland in December. **🇸🇦** سنطير إلى سويسرا في ديسمبر. **🇩🇪** _______________________________________________
+**25. 🇬🇧** We will fly to Switzerland in December. **🇸🇦** سنطير إلى سويسرا في ديسمبر. **🇩🇪** Wir werden im Dezember in die Schweis fliegen 
 
 ---
 
-**26. 🇬🇧** I drive to work every morning. **🇸🇦** أقود إلى العمل كل صباح. **🇩🇪** _______________________________________________
+**26. 🇬🇧** I drive to work every morning. **🇸🇦** أقود إلى العمل كل صباح. **🇩🇪** Ich fahre jeden Morgen zur Arbeit .
 
 ---
 
-**27. 🇬🇧** Do you drive fast? **🇸🇦** هل تقود بسرعة؟ **🇩🇪** _______________________________________________
+**27. 🇬🇧** Do you drive fast? **🇸🇦** هل تقود بسرعة؟ **🇩🇪** Fährst du schnell ?
 
 ---
 
-**28. 🇬🇧** The bus goes directly to the airport. **🇸🇦** تذهب الحافلة مباشرة إلى المطار. **🇩🇪** _______________________________________________
+**28. 🇬🇧** The bus goes directly to the airport. **🇸🇦** تذهب الحافلة مباشرة إلى المطار. **🇩🇪** Der Bus gehen direkt nach Flughafen .
 
 ---
 
-**29. 🇬🇧** She drove to the train station yesterday. **🇸🇦** قادت إلى محطة القطار أمس. **🇩🇪** _______________________________________________
+**29. 🇬🇧** She drove to the train station yesterday. **🇸🇦** قادت إلى محطة القطار أمس. **🇩🇪** Sie fährt gestern zum Bahnhof   
 
 ---
 
-**30. 🇬🇧** We drove through Germany for two weeks. **🇸🇦** قدنا عبر ألمانيا لمدة أسبوعين. **🇩🇪** _______________________________________________
+**30. 🇬🇧** We drove through Germany for two weeks. **🇸🇦** قدنا عبر ألمانيا لمدة أسبوعين. **🇩🇪** Wir fuhren zwei Wochen durch Deutschland 
 
 ---
 
-**31. 🇬🇧** Did you (plural) drive or take the train? **🇸🇦** هل قدتم السيارة أم ركبتم القطار؟ **🇩🇪** _______________________________________________
+**31. 🇬🇧** Did you (plural) drive or take the train? **🇸🇦** هل قدتم السيارة أم ركبتم القطار؟ **🇩🇪** Fuhren sie oder nehmen der Zug ?
 
 ---
 
-**32. 🇬🇧** They drove to the lake on Saturday. **🇸🇦** قادوا إلى البحيرة يوم السبت. **🇩🇪** _______________________________________________
+**32. 🇬🇧** They drove to the lake on Saturday. **🇸🇦** قادوا إلى البحيرة يوم السبت. **🇩🇪** Sie fahren am Sonntag zum See 
 
 ---
 
-**33. 🇬🇧** I have never driven a rental car. **🇸🇦** لم أقد سيارة مستأجرة قط. **🇩🇪** _______________________________________________
+**33. 🇬🇧** I have never driven a rental car. **🇸🇦** لم أقد سيارة مستأجرة قط. **🇩🇪** Ich bin noch nie einen Mietwagen gefahren 
 
 ---
 
-**34. 🇬🇧** My father has driven the same car for ten years. **🇸🇦** لقد قاد أبي نفس السيارة لعشر سنوات. **🇩🇪** _______________________________________________
+**34. 🇬🇧** My father has driven the same car for ten years. **🇸🇦** لقد قاد أبي نفس السيارة لعشر سنوات. **🇩🇪** Mein Vater hat   zehn Jahre lang dasselbe  wage gefahren 
 
 ---
 
-**35. 🇬🇧** We will drive to the border tomorrow. **🇸🇦** سنقود إلى الحدود غداً. **🇩🇪** _______________________________________________
+**35. 🇬🇧** We will drive to the border tomorrow. **🇸🇦** سنقود إلى الحدود غداً. **🇩🇪** Wir fahren morgen zur Grenze 
 
 ---
 
-**36. 🇬🇧** The train departs at nine o'clock. **🇸🇦** يغادر القطار الساعة التاسعة. **🇩🇪** _______________________________________________
+**36. 🇬🇧** The train departs at nine o'clock. **🇸🇦** يغادر القطار الساعة التاسعة. **🇩🇪** Der Zug fährt um neun Uhr ab 
 
 ---
 
-**37. 🇬🇧** I depart early because of traffic. **🇸🇦** أغادر مبكراً بسبب الازدحام. **🇩🇪** _______________________________________________
+**37. 🇬🇧** I depart early because of traffic. **🇸🇦** أغادر مبكراً بسبب الازدحام. **🇩🇪** Ich fahre früh ab wegen des Staus 
 
 ---
 
-**38. 🇬🇧** Does your bus depart from this stop? **🇸🇦** هل تغادر حافلتك من هذا الموقف؟ **🇩🇪** _______________________________________________
+**38. 🇬🇧** Does your bus depart from this stop? **🇸🇦** هل تغادر حافلتك من هذا الموقف؟ **🇩🇪** Fährt dein Bus von dieser Haltestelle ab ? 
 
 ---
 
-**39. 🇬🇧** She departed from Berlin on Friday. **🇸🇦** غادرت من برلين يوم الجمعة. **🇩🇪** _______________________________________________
+**39. 🇬🇧** She departed from Berlin on Friday. **🇸🇦** غادرت من برلين يوم الجمعة. **🇩🇪** Sie fährt am Freitag von Berlin ab 
 
 ---
 
-**40. 🇬🇧** We departed very early in the morning. **🇸🇦** غادرنا في وقت مبكر جداً من الصباح. **🇩🇪** _______________________________________________
+**40. 🇬🇧** We departed very early in the morning. **🇸🇦** غادرنا في وقت مبكر جداً من الصباح. **🇩🇪** Wir fahren sehr früh am morgen ab 
 
 ---
 
 ## ✅ Answer Key — Sentences 21–40
 
-|#|German Answer|
-|---|---|
-|21|Fliegt ihr direkt oder mit Zwischenstopp?|
-|22|Sie flogen letzten Montag in die USA.|
-|23|Ich bin noch nie mit dem Flugzeug geflogen.|
-|24|Sie ist in mehr als zwanzig Länder geflogen.|
-|25|Wir werden im Dezember in die Schweiz fliegen.|
-|26|Ich fahre jeden Morgen zur Arbeit.|
-|27|Fährst du schnell?|
-|28|Der Bus fährt direkt zum Flughafen.|
-|29|Sie fuhr gestern zum Bahnhof.|
-|30|Wir fuhren zwei Wochen durch Deutschland.|
-|31|Seid ihr gefahren oder habt ihr den Zug genommen?|
-|32|Sie fuhren am Samstag zum See.|
-|33|Ich bin noch nie einen Mietwagen gefahren.|
-|34|Mein Vater hat zehn Jahre lang dasselbe Auto gefahren.|
-|35|Wir werden morgen zur Grenze fahren.|
-|36|Der Zug fährt um neun Uhr ab.|
-|37|Ich fahre früh ab wegen des Staus.|
-|38|Fährt dein Bus von dieser Haltestelle ab?|
-|39|Sie fuhr am Freitag von Berlin ab.|
-|40|Wir fuhren sehr früh am Morgen ab.|
+| #   | German Answer                                          |
+| --- | ------------------------------------------------------ |
+| 21  | Fliegt ihr direkt oder mit Zwischenstopp?              |
+| 22  | Sie flogen letzten Montag in die USA.                  |
+| 23  | Ich bin noch nie mit dem Flugzeug geflogen.            |
+| 24  | Sie ist in mehr als zwanzig Länder geflogen.           |
+| 25  | Wir werden im Dezember in die Schweiz fliegen.         |
+| 26  | Ich fahre jeden Morgen zur Arbeit.                     |
+| 27  | Fährst du schnell?                                     |
+| 28  | Der Bus fährt direkt zum Flughafen.                    |
+| 29  | Sie fuhr gestern zum Bahnhof.                          |
+| 30  | Wir fuhren zwei Wochen durch Deutschland.              |
+| 31  | Seid ihr gefahren oder habt ihr den Zug genommen?      |
+| 32  | Sie fuhren am Samstag zum See.                         |
+| 33  | Ich bin noch nie einen Mietwagen gefahren.             |
+| 34  | Mein Vater hat zehn Jahre lang dasselbe Auto gefahren. |
+| 35  | Wir werden morgen zur Grenze fahren.                   |
+| 36  | Der Zug fährt um neun Uhr ab.                          |
+| 37  | Ich fahre früh ab wegen des Staus.                     |
+| 38  | Fährt dein Bus von dieser Haltestelle ab?              |
+| 39  | Sie fuhr am Freitag von Berlin ab.                     |
+| 40  | Wir fuhren sehr früh am Morgen ab.                     |
 
 ---
 
