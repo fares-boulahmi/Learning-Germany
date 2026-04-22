@@ -1,117 +1,17 @@
-You are a German language learning sentence generator.
+You are a German speaking skills analyst and training designer.
 
-I will give you:
-1. **Known Words** — vocabulary I already know.
-2. **Focus Words** — a themed set of new words I am currently memorizing.
+I am a German learner. My grammar level is strong A2 with some B1 grammar awareness (Perfekt, Dativ, subordinate clauses, modal verbs). My vocabulary is low-to-solid A2. My passive recognition is stronger than active production. My speaking reflex is weak — I retrieve words slowly under pressure.
 
-**Allowed freely without restriction (do not count as "unknown"):**
-- Articles: der/die/das/ein/eine
-- Prepositions: für/über/unter/neben/vor/durch/gegen/an/in/aus/bei/mit/nach/seit/zu/von/zwischen/hinter
-- Conjunctions: und/aber/oder/weil/dass/wenn/obwohl/während/als/bevor/nachdem
-- Auxiliary & modal verbs: sein/haben/werden/können/müssen/wollen/möchten/dürfen/sollen
-- Numbers, time words, basic question words: wann/wo/wer/was/wie/warum/wohin/woher
-- Punctuation and grammar particles
+My goal: build speaking automaticity and retrieval speed, not conversational fluency or social chatting. I need drill-based spoken production, not free discussion.
 
----
-
-## Your Task
-
-Generate a set of **translation practice sentences** following these rules:
-
-### Sentence Density Rule (MOST IMPORTANT)
-
-**Every sentence must contain 3–5 focus words simultaneously.** This includes:
-- The same focus word in a different grammatical form counts as one of the 3–5 slots.
-- Different focus words in the same sentence each count separately.
-- Sentences may be moderately complex (subordinate clauses, compound structures) to accommodate multiple focus words — but must remain logical and natural.
-
-This rule overrides padding: the goal is full grammatical coverage with the fewest possible sentences by combining multiple focus words per sentence.
-
-### Coverage Rules
-
-- Every **focus word** must appear in **every possible grammatical form**, spread across the sentences:
-  - **Verbs**: all persons (ich / du / er-sie-es / wir / ihr / sie-Sie) × all tenses (Präsens, Präteritum, Perfekt, Futur I). That is 24 forms per verb minimum.
-  - **Nouns**: singular and plural, in all four cases (Nominativ, Akkusativ, Dativ, Genitiv) where natural.
-  - **Adjectives**: all three declension types (strong, weak, mixed) where natural, plus comparative and superlative.
-  - **Other word types** (adverbs, prepositions, conjunctions as focus words): use in as many distinct sentence structures as possible.
-- Every sentence must be **logical, natural, and meaningful** — no nonsense sentences just to fill a form slot.
-- Build sentences using **Known Words and Focus Words as much as possible**. If an extra word is needed to make a sentence logical and natural, you may use it — but list it in the vocabulary note (see format below).
-- The **total number of sentences is determined by coverage need**, not by form-slots: combine forms aggressively so that full coverage is achieved in **36–60 sentences** for a typical 5–8 focus word set.
-
-### Sentence Format
-
-Number every sentence. For each sentence use this exact layout:
-
----
-
-**[number]. 🇬🇧** [English sentence]
-**🇸🇦** [Arabic translation]
-**🇩🇪** _______________________________________________
-
----
-
-### Answer Key
-
-After every 20 sentences, insert a clearly marked answer key block:
-
----
-
-## ✅ Answer Key — Sentences [X]–[Y]
-
-| # | German Answer |
-|---|---------------|
-| X | [German sentence] |
-| … | … |
-| Y | [German sentence] |
-
----
-
-Then continue with the next batch of sentences.
-
-### Extra Vocabulary Note
-
-At the very top of the output, before sentence 1, include a section:
-
----
-
-## 📝 Extra Vocabulary Used
-
-These words were needed to build logical sentences. They are not in your Known Words list.
-
-| German Word | Article / Type | English Meaning |
-|-------------|---------------|-----------------|
-| … | … | … |
-
-*(If no extra words were needed, write: "None — all sentences built from Known Words and Focus Words only.")*
-
----
-
-### Focus Word Coverage Tracker
-
-At the very end of the output, after the final answer key, include:
-
----
-
-## 📊 Focus Word Coverage Tracker
-
-| Focus Word | Forms Covered | Total Sentences Used |
-|------------|--------------|----------------------|
-| [word] | [list of forms, e.g. kaufe / kaufst / kauft / kaufen / kaufte / hat gekauft / wird kaufen…] | [count] |
-
-Add ⚠️ next to any focus word where a grammatically possible and natural form was skipped, and explain briefly why (e.g. "⚠️ Genitiv plural — rarely used in spoken German").
-
----
-
-## Input
-
-**Known Words:**
+Here is my complete known word list:
 [Greetings: Guten Tag - Hallo - Auf Wiedersehen - Tschüss - Guten Morgen - Guten Abend - Gute Nacht
 
 Sein: ich bin - du bist - er ist - sie ist - es ist - wir sind - ihr seid - Sie sind - sie sind
 
 Basic: Wer bist du - Was ist dein Name - Mein Name ist - Wie geht es dir - Wie geht’s - Mir geht’s gut - Mir geht’s schlecht - Mir geht’s super - Mir geht’s nicht gut - Sind Sie - Bist du - Ja - Nein - Noch einmal bitte - Danke - Ich verstehe nicht - Ich weiß nicht
 
-Alphabet: wie schreibt man - Das schreibt man
+Alphabet: wie schreibt man - Das schreibt man 
 
 Numbers: null - ein - zwei - drei - vier - fünf - sechs - sieben - acht - neun - zehn - elf - zwölf - dreizehn - vierzehn - fünfzehn - sechzehn - siebzehn - achtzehn - neunzehn - zwanzig - dreißig - vierzig - fünfzig - sechzig - siebzig - achtzig - neunzig - hundert - tausend - Million - Milliarde
 
@@ -155,55 +55,31 @@ Workplaces: Büro - Schule - Krankenhaus - Geschäft - Supermarkt - Reisebüro -
 
  beginnen -beenden -dauern -verbringen - planen -organisieren -vorbereiten -erledigen -verschieben -vergessen -erinnern -warten -beeilen -entspannen -pausieren -der Alltag -die Gewohnheit -der Termin -die Verabredung -der Zeitplan -die Freizeit -die Beschäftigung - der Feierabend -das Wochenende -der Feiertag -die Pause -der Stress -die Eile -die Verspätung -die Pünktlichkeit -beschäftigt -frei -pünktlich -verspätet -regelmäßig -gelegentlich -täglich -wöchentlich - monatlich -  gewöhnlich
 fühlen -schmerzen - erkranken -  genesen -  husten -  niesen -  untersuchen -  behandeln -  verschreiben -  einnehmen -  verletzen - heilen -  schwitzen -  zittern -  atmen -  die Gesundheit -  die Krankheit -  die Erkältung -  das Fieber -  der Schmerz -  die Kopfschmerzen - der Husten - die Grippe - die Allergie -  das Medikament -  die Tablette - der Körper - die Haut -  das Blut -  die Verletzung -  gesund -  krank -  müde - schwach -  stark -  fit - schmerzhaft - chronisch -  ansteckend -  allergisch - 
-kaufen - verkaufen - bezahlen - kosten - sparen - ausgeben - umtauschen - zurückgeben - bestellen - liefern - verdienen - leihen - schulden - überweisen -  abheben - der Preis - das Geld - der Euro - die Rechnung - die Quittung - das Bargeld - die Kreditkarte - der Rabatt - die Mehrwertsteuer - das Angebot - der Einkauf - der Kunde - die Kasse - das Konto - die Überweisung - teuer - billig - günstig -  kostenlos - reduziert -  ausverkauft - verfügbar - knapp - wertvoll - preiswert - schmecken - kochen - backen -  braten - schneiden - schälen - würzen - probieren - servieren - bestellen - empfehlen - bevorzugen - hungern -  dursten - verdauen - das Frühstück - das Mittagessen - das Abendessen -  die Mahlzeit - die Vorspeise - die Hauptspeise - der Nachtisch - die Speisekarte - die Portion - das Rezept - die Zutat - das Gewürz - das Gemüse - das Fleisch - die Beilage - lecker - süß - sauer - salzig - scharf - bitter - frisch - verdorben -  roh - gekocht -]
+kaufen - verkaufen - bezahlen - kosten - sparen - ausgeben - umtauschen - zurückgeben - bestellen - liefern - verdienen - leihen - schulden - überweisen -  abheben - der Preis - das Geld - der Euro - die Rechnung - die Quittung - das Bargeld - die Kreditkarte - der Rabatt - die Mehrwertsteuer - das Angebot - der Einkauf - der Kunde - die Kasse - das Konto - die Überweisung - teuer - billig - günstig -  kostenlos - reduziert -  ausverkauft - verfügbar - knapp - wertvoll - preiswert - schmecken - kochen - backen -  braten - schneiden - schälen - würzen - probieren - servieren - bestellen - empfehlen - bevorzugen - hungern -  dursten - verdauen - das Frühstück - das Mittagessen - das Abendessen -  die Mahlzeit - die Vorspeise - die Hauptspeise - der Nachtisch - die Speisekarte - die Portion - das Rezept - die Zutat - das Gewürz - das Gemüse - das Fleisch - die Beilage - lecker - süß - sauer - salzig - scharf - bitter - frisch - verdorben -  roh - gekocht -reisen - fliegen - fahren - abfahren - ankommen - umsteigen - buchen - reservieren - packen - übernachten - besichtigen - erkunden -  verpassen - verzögern - erreichen - die Reise - der Urlaub - der Flughafen - der Bahnhof - die Haltestelle - das Gleis - der Zug - das Flugzeug - der Bus - die Straßenbahn - das Ticket - die Fahrkarte - der Koffer - das Gepäck - der Ausflug - direkt - indirekt - rechtzeitig - verspätet - gebucht - verfügbar -  ausgebucht -  einfach - hin und zurück - bequem ]
 
-**Focus Words (Set Name: Travel & Transportation):**
-[**Verbs:**
+Here is what I want you to do:
 
-1. reisen - to travel
-2. fliegen - to fly
-3. fahren - to drive/go
-4. abfahren - to depart
-5. ankommen - to arrive
-6. umsteigen - to change (trains/buses)
-7. buchen - to book
-8. reservieren - to reserve
-9. packen - to pack
-10. übernachten - to stay overnight
-11. besichtigen - to visit/sightseer
-12. erkunden - to explore
-13. verpassen - to miss
-14. verzögern - to delay
-15. erreichen - to reach
+**Step 1 — Diagnose the training gap**
+Analyze my known word list and identify:
+- Which word categories I have strong density in (nouns, verbs, adjectives, etc.)
+- Which grammatical forms I can likely produce vs. which are probably still passive
+- What the biggest retrieval bottlenecks are for a learner at this stage
 
-**Nouns:**
+**Step 2 — Design a speaking drill system**
+Based on the diagnosis, design a speaking training system with these hard constraints:
+- Never use words outside my known word list
+- Never do free conversation or social discussion
+- Every drill forces me to produce specific target words — I cannot dodge them
+- Every drill combines exactly 2 grammar rules
+- Drills get harder as I answer correctly within a session
+- Error correction happens every 3 responses from me — not after every sentence
+- The system must build retrieval speed, not just accuracy
 
-1. die Reise - trip/journey
-2. der Urlaub - vacation
-3. der Flughafen - airport
-4. der Bahnhof - train station
-5. die Haltestelle - stop
-6. das Gleis - platform/track
-7. der Zug - train
-8. das Flugzeug - airplane
-9. der Bus - bus
-10. die Straßenbahn - tram
-11. das Ticket - ticket
-12. die Fahrkarte - ticket (train/bus)
-13. der Koffer - suitcase
-14. das Gepäck - luggage
-15. der Ausflug - excursion
+**Step 3 — Output the system design**
+Return:
+1. A diagnosis summary (what my word list reveals about my speaking readiness)
+2. A drill type menu (6–8 drill types designed for my level, each with a description and example)
+3. A progression map (how I move from one drill type to the next as I improve)
+4. A session structure template (how one 20-minute drill session should be organized)
 
-**Adjectives:**
-
-1. direkt - direct
-2. indirekt - indirect
-3. rechtzeitig - on time
-4. verspätet - delayed
-5. gebucht - booked
-6. verfügbar - available
-7. ausgebucht - fully booked
-8. einfach - single (ticket)
-9. hin und zurück - return
-10. bequem - comfortable
-]
+Return everything in markdown in chat. No files. No preamble. Start directly with the diagnosis.

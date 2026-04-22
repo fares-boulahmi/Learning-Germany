@@ -185,3 +185,7 @@ Three things to fill before each session:
 - `MAIN TOPIC` — the Teil you're currently on, or just the theme of the focus words batch
 
 The rule that makes this different from other prompts is line 2 in the absolute rules — it forces Claude to build every single example sentence inside your known vocabulary boundary. So you never hit an unknown word while practicing, and every sentence you hear is also a sentence you could theoretically produce yourself.
+
+
+chat : https://claude.ai/chat/30d70657-3ff0-450e-85a5-4dfc7cc7dce3
+account : boulahmifares@gmail.com

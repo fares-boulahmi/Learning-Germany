@@ -20,6 +20,14 @@ Translate each sentence into German. Do not add tense labels or brackets.
 8. After the meal, I went to bed.
 
 ⇒
+1. Ich gehe gestern zum Arzt mit meinem Bruder 
+2. Sie hat Kopfschmerzen seit Montag 
+3. Nach dem  Unterricht , wir sprechen mit dem Lehrer 
+4. Er ist letzte Woche uns zu besuchen 
+5. Meine Mutter Meinung hat die Medikament sehr geholfen 
+6. Ich hat letzte Monate Erkältung 
+7. Außer mein Vater , alle zu Hause 
+8. Nach dem Mahlzeit , ich gehe ins Bett
 
 ---
 
@@ -35,6 +43,12 @@ Reassemble each group into a correct German sentence.
 6. `außer / dir / hat / Fieber / niemand`
 
 ⇒
+1.  Er fahrt mit seinem Sohn zum Arzt
+2. Ich habe seit einer Woche Halsschmerzen 
+3. Nach Abend gehen wir nach dem Hause 
+4. Sie kann zu meinem Geburtstag nicht kommen 
+5. wir bezahlen der Rechnung mit Kreditkarte 
+6. niemand hat dir Fieber außer 
 
 ---
 
@@ -44,7 +58,7 @@ Rewrite the entire paragraph with all errors corrected. No count is given.
 
 > Gestern bin ich sehr früh aufgestanden. Ich habe sich geduscht und dann habe ich gefrühstückt. Danach hat ich meine Mutter angerufen, weil mein Bauch wehgetan hat. Sie hat mir gesagt, dass ich einen Kamillentee trinken soll. Ich habe sich dann hingelegt und hatte geschlafen. Am Nachmittag hatte mein Vater mich zum Arzt gefahren. Der Arzt hat mich untersucht und hat mir Tabletten verschrieben. Abends hat meine Familie ich besucht. Ich bin jetzt besser.
 
-⇒
+⇒ Gestern bin ich sehr früh aufgestanden . Ich habe mich geduscht und dann habe ich gefrühstückt . Danach habe ich meine Mutter angerufen , weil mein Bauch wehgetan hat . Sie hat mir gesagt , dass ich Kamillentee trinke soll . Ich habe mich dann hingelegt und habe geschlafen . Am Nachmittag hat mein Vater mich zum Arzt gefahren . Der Arzt hat micht untersucht und hat mir Tabletten verschrieben . Abends haben  meine Familie mich besucht . Ich bin jetzt besser    
 
 ---
 
@@ -54,7 +68,7 @@ Fill every blank. No hints are given inside the blanks.
 
 > Mein Bruder ist ___ einer Woche krank. Er ist ___ dem Arzt gegangen und ___ seiner Frau auch. ___ meiner Meinung hat er Grippe. Der Arzt hat ihn ___ Tabletten behandelt. ___ dem Termin beim Arzt ist er ___ Hause geblieben. Er darf ___ seinen Freunden nicht ausgehen, weil er ansteckend ist.
 
-⇒
+⇒ Mein Bruder ist seit einer Woche Krank . Er ist zu dem Arzt gegangen und mit seiner Frau auch . Zu meiner Meinung hat er Grippe . Der Arzt hat ihn mit Tabletten behandelt . Nach dem Termin beim Arzt ist er zu Hause geblieben . ER darf mit seinen Freunden nicht ausgehen , weil er anstechend ist 
 
 ---
 
@@ -70,7 +84,14 @@ Rewrite each sentence in the correct past tense. Do not label which tense to use
 6. Ich freue mich sehr über das Geschenk.
 7. Sie schickt mir letzte Woche eine Nachricht.
 
-⇒
+⇒ 
+1. Ich hat gestern mit meinem Chef gesprochen 
+2. Sie hat seit drei Tagen Fieber 
+3. Letzte Woche haben wir nach Berlin gefahren 
+4. Er ist gestern den ganzen Tag zu Haue gesessen 
+5. Mein Mutter hat letzten Monat ein neues Bett gekauft 
+6. Ich bin mich sehr über das Geschenk gefreut
+7. Sie hat mir letze Woche eine Nachricht geschickt 
 
 ---
 
@@ -86,6 +107,12 @@ Combine each pair into one sentence using the connector given.
 6. Sie geht nicht aus. Sie hat Husten und Schnupfen. _(weil)_
 
 ⇒
+1. bleibt zu Hause , weil er Fieber hat 
+2. Sie geht zum Arzt , obwohl sie keine Schmerzen hat
+3. Ich trinke Kamillentee , weil ich Bauchschmerzen habe 
+4. Wir fahren nach Deutschland , obwohl das Wetter kalt ist 
+5. Er nimmt Tabletten , weil er Kopfschmerzen hat 
+6. Sie geht nicht aus , weil sie Husten und Schnupfen hat 
 
 ---
 
@@ -100,7 +127,15 @@ Combine each pair into one sentence using the connector given.
 7. Both of his knees hurt.
 8. Something hurts him — he went to the doctor.
 
-⇒
+⇒ 
+1. Mein Hals tut mir weh
+2. Sein Rücken tut ihm seit gestern weh
+3. Tust seinem Magen weh ?
+4. Ihre Ohren tut ihr weh , sie war seit letzte Woche krank
+5. Die Füße des Kinder tut ihm weh 
+6. Mein Kopf hat ganz gestern tut mir weh 
+7. beide meine Knie tut mir weh 
+8. Etwas tut ihm weh -- er ist zum Arzt gegangen 
 
 ---
 
@@ -118,6 +153,14 @@ Each sentence contains exactly one error. Identify and rewrite the correct sente
 8. Seit letzter Woche geht er nicht zur Schule.
 
 ⇒
+1. Es gibt meine Schwester 
+2. Ich helfe meine Mutter jeden Tags 
+3. Mit unserer Freunde fahren wir nach Berlin 
+4. Das Medikament heilt er nicht 
+5. Er bringt ihr zum Arzt 
+6. Außer meiner Familie hat ich  niemand angerufen 
+7. Meine Eltern : Er hat meiner Eltern ein Geschenk gekauft 
+8. Seit letzter Woche ist er nicht zur Schule gegangen  
 
 ---
 
@@ -127,7 +170,7 @@ Fill every blank. No word bank.
 
 > Ich bin krank. Mein ___ tut mir weh und ich habe auch ___schmerzen. Seit zwei Tagen kann ich kaum schlucken, weil mein ___ so wehtut. Der Arzt sagt, ich habe Grippe. Er hat mir ___ verschrieben, die ich dreimal täglich einnehmen muss. Außerdem muss ich viel Wasser trinken. Mit meinen ___ kann ich nichts essen, weil sie so wehtun. Ich liege den ganzen Tag im Bett und meine ___ tun mir vom langen Liegen weh.
 
-⇒
+⇒ Ich bin krank . Mein Kopf tut mir weh und ich habe auch schmerzen . Seit zwei Tagen kann ich kaum schlucken , weil mein Hals so wehtut . Der Arzt sagt , ich habe Grippe . Er hat mir Tabletten  verschrieben , die ich dreimal täglich einnehmen muss . Außerdem muss ich viel Wasser trinken . Mit meinen Mund can ich nichts essen , weil sie so wehtun . Ich liege den ganzen Tag im Bett und meine Brust tut mir vom langen Liegen weh 
 
 ---
 
@@ -137,7 +180,7 @@ Rewrite entirely corrected. No count given.
 
 > Letzte Woche habe ich krank gewesen. Ich hatte geschlafen fast den ganzen Tag. Meine Mutter hat mir Tee gebracht und hat sich um mich gekümmert. Gestern hatte mein Vater den Arzt angerufen. Der Arzt kommt am Dienstag zu uns nach Hause. Er hat mir gesagt, dass ich Tabletten nehmen muss. Danach hat ich mich besser gefühlt. Seit dem Besuch des Arztes bin ich langsam besser geworden.
 
-⇒
+⇒ Letzte Woche hatte  ich krank . Ich hatte fast den ganzen Tag geschlafen . Meine Mutter hat mir Tee gebracht und sie hat um mich gekommen . Gestern hat mein Vater den Arzt angerufen . Der Arzt kommt am Dienstag zu uns nach Hause an . Er hat mir gesagt , dass ich Tabletten einnehmen muss . Danach habe ich mir besser gefühlt . Seit der Besuch des Arztes bin  ich langsam besser  geworden 
 
 ---
 
@@ -153,6 +196,12 @@ Reassemble each group into a correct German sentence.
 6. `habe / ich / erinnert / mich / den Termin / an`
 
 ⇒
+1. Ich habe gestern micht erkältet 
+2. Ich habe über mich das Geschenk gereut 
+3. Wir haben gut miteinander uns verstanden 
+4. Ich habe mich schlecht gefühlt 
+5. Ich habe nach dem Arzt beeilt 
+6. Ich habe  mich an den Termin erinnert  
 
 ---
 
@@ -162,7 +211,7 @@ Rewrite this entire paragraph in the Perfekt. Do not change anything else.
 
 > Am Montag stehe ich früh auf. Ich dusche mich und frühstücke mit meiner Familie. Dann fahre ich mit dem Bus zur Schule. Dort spreche ich mit meinem Lehrer über die Hausaufgaben. Er gibt mir ein Buch. Ich sitze den ganzen Morgen in der Klasse. Am Mittag esse ich in der Schule. Danach gehe ich nach Hause.
 
-⇒
+⇒ Am Montag bin ich 
 
 ---
 
@@ -275,3 +324,5 @@ Rewrite using only _hatte_ and _war_ (Präteritum) where a Perfekt form currentl
 
 ---
 
+
+- 🍅 (pomodoro::WORK) (duration:: 90m) (begin:: 2026-04-22 08:14) - (end:: 2026-04-22 09:51)

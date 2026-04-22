@@ -278,110 +278,110 @@ These words were needed to build logical sentences. They are not in your Known W
 
 ---
 
-**41. 🇬🇧** You (plural) changed and the next train was direct and available. **🇸🇦** غيّرتم والقطار التالي كان مباشرًا ومتاحًا. **🇩🇪** _______________________________________________
+**41. 🇬🇧** You (plural) changed and the next train was direct and available. **🇸🇦** غيّرتم والقطار التالي كان مباشرًا ومتاحًا. **🇩🇪** Ihr steigt um und der  nächste Zug war direkt und verfügbar  
 
 ---
 
-**42. 🇬🇧** They changed at the stop and missed the direct train. **🇸🇦** غيّروا عند المحطة وفوّتوا القطار المباشر. **🇩🇪** _______________________________________________
+**42. 🇬🇧** They changed at the stop and missed the direct train. **🇸🇦** غيّروا عند المحطة وفوّتوا القطار المباشر. **🇩🇪** Sie steigen an der Haltestelle um und verpassen der direkten Zug 
 
 ---
 
-**43. 🇬🇧** I book a return ticket and pack my suitcase the night before. **🇸🇦** أحجز تذكرة ذهاب وإياب وأحزم حقيبتي في الليلة السابقة. **🇩🇪** _______________________________________________
+**43. 🇬🇧** I book a return ticket and pack my suitcase the night before. **🇸🇦** أحجز تذكرة ذهاب وإياب وأحزم حقيبتي في الليلة السابقة. **🇩🇪** Ich buche eine zurücken Fahrkarte  und packe meinen Koffer Nacht davor 
 
 ---
 
-**44. 🇬🇧** You booked a comfortable hotel and reserved two single tickets. **🇸🇦** حجزت فندقًا مريحًا وحجزت تذكرتين من اتجاه واحد. **🇩🇪** _______________________________________________
+**44. 🇬🇧** You booked a comfortable hotel and reserved two single tickets. **🇸🇦** حجزت فندقًا مريحًا وحجزت تذكرتين من اتجاه واحد. **🇩🇪** Du hast ein bequemen Hotel gebucht und zwei einfach Tickets reserviert 
 
 ---
 
-**45. 🇬🇧** He books the excursion online and the ticket is available and not expensive. **🇸🇦** يحجز الرحلة القصيرة عبر الإنترنت والتذكرة متاحة وغير غالية. **🇩🇪** _______________________________________________
+**45. 🇬🇧** He books the excursion online and the ticket is available and not expensive. **🇸🇦** يحجز الرحلة القصيرة عبر الإنترنت والتذكرة متاحة وغير غالية. **🇩🇪** Er bucht den  Ausflug online und das Ticker war verfügbar und nicht teuer 
 
 ---
 
-**46. 🇬🇧** She booked the flight but the airplane was fully booked and she had to wait. **🇸🇦** حجزت الرحلة لكن الطائرة كانت محجوزة بالكامل وكان عليها الانتظار. **🇩🇪** _______________________________________________
+**46. 🇬🇧** She booked the flight but the airplane was fully booked and she had to wait. **🇸🇦** حجزت الرحلة لكن الطائرة كانت محجوزة بالكامل وكان عليها الانتظار. **🇩🇪** Sie bucht DEN Flug , aber das Flughafen war ausgebucht und sie musste warten 
 
 ---
 
-**47. 🇬🇧** We reserve two seats on the train and pack the luggage carefully. **🇸🇦** نحجز مقعدين على القطار ونحزم الأمتعة بعناية. **🇩🇪** _______________________________________________
+**47. 🇬🇧** We reserve two seats on the train and pack the luggage carefully. **🇸🇦** نحجز مقعدين على القطار ونحزم الأمتعة بعناية. **🇩🇪** Wir reservieren zwei Plätz auf dem  Zug und packen das Gepäck  sorgfältig 
 
 ---
 
-**48. 🇬🇧** You (plural) reserved indirect tickets and had to change at the station. **🇸🇦** حجزتم تذاكر غير مباشرة واضطررتم إلى التغيير في المحطة. **🇩🇪** _______________________________________________
+**48. 🇬🇧** You (plural) reserved indirect tickets and had to change at the station. **🇸🇦** حجزتم تذاكر غير مباشرة واضطررتم إلى التغيير في المحطة. **🇩🇪** Ihr reserviert indirekten Tickets und hat an die Haltestelle umgestiegen    
 
 ---
 
-**49. 🇬🇧** They have reserved the best seats and their luggage is already packed. **🇸🇦** حجزوا أفضل المقاعد وأمتعتهم محزومة بالفعل. **🇩🇪** _______________________________________________
+**49. 🇬🇧** They have reserved the best seats and their luggage is already packed. **🇸🇦** حجزوا أفضل المقاعد وأمتعتهم محزومة بالفعل. **🇩🇪** Sie haben die besten Plätz reserviert und ihr Gepäck ist schon gepackt  
 
 ---
 
-**50. 🇬🇧** I pack my suitcase and put the tickets and luggage together. **🇸🇦** أحزم حقيبتي وأضع التذاكر والأمتعة معًا. **🇩🇪** _______________________________________________
+**50. 🇬🇧** I pack my suitcase and put the tickets and luggage together. **🇸🇦** أحزم حقيبتي وأضع التذاكر والأمتعة معًا. **🇩🇪** Ich packe meinen Koffer und ich lege dem  Tickets und dem Gepäck zusammen  
 
 ---
 
-**51. 🇬🇧** You packed quickly and reached the station just on time. **🇸🇦** حزمت بسرعة ووصلت إلى المحطة للتو في الوقت المحدد. **🇩🇪** _______________________________________________
+**51. 🇬🇧** You packed quickly and reached the station just on time. **🇸🇦** حزمت بسرعة ووصلت إلى المحطة للتو في الوقت المحدد. **🇩🇪** Du hat  schnell gepackt und erreicht an Haltestelle rechtzeitig 
 
 ---
 
-**52. 🇬🇧** He packs his suitcase with travel clothes and his return ticket. **🇸🇦** يحزم حقيبته بملابس السفر وتذكرة العودة. **🇩🇪** _______________________________________________
+**52. 🇬🇧** He packs his suitcase with travel clothes and his return ticket. **🇸🇦** يحزم حقيبته بملابس السفر وتذكرة العودة. **🇩🇪** Er packt seinen Koffer mit reisen Kleider und zurücken Ticket  
 
 ---
 
-**53. 🇬🇧** She packed the luggage and booked an overnight stay near the airport. **🇸🇦** حزمت الأمتعة وحجزت إقامة ليلية قريبة من المطار. **🇩🇪** _______________________________________________
+**53. 🇬🇧** She packed the luggage and booked an overnight stay near the airport. **🇸🇦** حزمت الأمتعة وحجزت إقامة ليلية قريبة من المطار. **🇩🇪** Sie hat das Gepäck gepackt und übernachten nah der Flugzeug gebucht 
 
 ---
 
-**54. 🇬🇧** We will pack tomorrow and then depart directly to the train station. **🇸🇦** سنحزم غدًا ثم نتوجه مباشرةً إلى محطة القطار. **🇩🇪** _______________________________________________
+**54. 🇬🇧** We will pack tomorrow and then depart directly to the train station. **🇸🇦** سنحزم غدًا ثم نتوجه مباشرةً إلى محطة القطار. **🇩🇪** Wir werden morgen packen und danach direkt zur Haltestelle fahren ab 
 
 ---
 
-**55. 🇬🇧** You (plural) packed your suitcases and the trip was finally booked. **🇸🇦** حزمتم حقائبكم والرحلة أُخيرًا محجوزة. **🇩🇪** _______________________________________________
+**55. 🇬🇧** You (plural) packed your suitcases and the trip was finally booked. **🇸🇦** حزمتم حقائبكم والرحلة أُخيرًا محجوزة. **🇩🇪** Ihr hat ihren Koffer gepackt und der Ausflug war endlich gebucht 
 
 ---
 
-**56. 🇬🇧** They packed everything and missed nothing — the luggage was on the platform on time. **🇸🇦** حزموا كل شيء ولم يفوّتوا شيئًا — كانت الأمتعة على الرصيف في الوقت المحدد. **🇩🇪** _______________________________________________
+**56. 🇬🇧** They packed everything and missed nothing — the luggage was on the platform on time. **🇸🇦** حزموا كل شيء ولم يفوّتوا شيئًا — كانت الأمتعة على الرصيف في الوقت المحدد. **🇩🇪** Sie haben alle gepackt und verpassen  nie -- Das Gepäck war an das Gleis rechtzeitig  
 
 ---
 
-**57. 🇬🇧** I stay overnight in a comfortable hotel and visit the sights the next morning. **🇸🇦** أقيم ليلةً في فندق مريح وأزور المعالم في صباح اليوم التالي. **🇩🇪** _______________________________________________
+**57. 🇬🇧** I stay overnight in a comfortable hotel and visit the sights the next morning. **🇸🇦** أقيم ليلةً في فندق مريح وأزور المعالم في صباح اليوم التالي. **🇩🇪** Ich übernachte in ein bequemen Hotel und besichtige nächste morgen 
 
 ---
 
-**58. 🇬🇧** You stayed overnight near the station and explored the city on foot. **🇸🇦** أقمت ليلةً قرب المحطة واستكشفت المدينة سيرًا على الأقدام. **🇩🇪** _______________________________________________
+**58. 🇬🇧** You stayed overnight near the station and explored the city on foot. **🇸🇦** أقمت ليلةً قرب المحطة واستكشفت المدينة سيرًا على الأقدام. **🇩🇪** Du übernachtest nah die Haltestelle und erkundest die Stadt in Fuß 
 
 ---
 
-**59. 🇬🇧** He stays overnight in the only available hotel because everything else is fully booked. **🇸🇦** يقيم ليلةً في الفندق الوحيد المتاح لأن كل شيء آخر محجوز بالكامل. **🇩🇪** _______________________________________________
+**59. 🇬🇧** He stays overnight in the only available hotel because everything else is fully booked. **🇸🇦** يقيم ليلةً في الفندق الوحيد المتاح لأن كل شيء آخر محجوز بالكامل. **🇩🇪** Er übernachtet am nur verfügbaren Hotel , weil alles Hotel  ausgebucht ist  
 
 ---
 
-**60. 🇬🇧** She stayed overnight at the hostel and booked an excursion for the next day. **🇸🇦** أقامت ليلةً في النزل وحجزت رحلة قصيرة لليوم التالي. **🇩🇪** _______________________________________________
+**60. 🇬🇧** She stayed overnight at the hostel and booked an excursion for the next day. **🇸🇦** أقامت ليلةً في النزل وحجزت رحلة قصيرة لليوم التالي. **🇩🇪**  Sie übernachtet im Hostel und sie bucht ein Ausflug für den nächsten Tag  
 
 ---
 
 ## ✅ Answer Key — Sentences 41–60
 
-|#|German Answer|
-|---|---|
-|41|Ihr stiegt um und der nächste Zug war direkt und verfügbar.|
-|42|Sie stiegen an der Haltestelle um und verpassten den direkten Zug.|
-|43|Ich buche ein Ticket hin und zurück und packe meinen Koffer am Abend davor.|
-|44|Du hast ein bequemes Hotel gebucht und zwei einfache Tickets reserviert.|
-|45|Er bucht den Ausflug online und das Ticket ist verfügbar und nicht teuer.|
-|46|Sie buchte den Flug, aber das Flugzeug war ausgebucht und sie musste warten.|
-|47|Wir reservieren zwei Plätze im Zug und packen das Gepäck sorgfältig.|
-|48|Ihr habt indirekte Tickets reserviert und musstet am Bahnhof umsteigen.|
-|49|Sie haben die besten Plätze reserviert und ihr Gepäck ist bereits gepackt.|
-|50|Ich packe meinen Koffer und lege die Tickets und das Gepäck zusammen.|
-|51|Du hast schnell gepackt und den Bahnhof gerade rechtzeitig erreicht.|
-|52|Er packt seinen Koffer mit Reisekleidung und seinem Rückfahrticket.|
-|53|Sie packte das Gepäck und buchte eine Übernachtung in der Nähe des Flughafens.|
-|54|Wir werden morgen packen und dann direkt zum Bahnhof abfahren.|
-|55|Ihr habt eure Koffer gepackt und die Reise ist endlich gebucht.|
-|56|Sie haben alles gepackt und nichts verpasst — das Gepäck war rechtzeitig auf dem Gleis.|
-|57|Ich übernachte in einem bequemen Hotel und besichtige am nächsten Morgen die Sehenswürdigkeiten.|
-|58|Du hast in der Nähe des Bahnhofs übernachtet und die Stadt zu Fuß erkundet.|
-|59|Er übernachtet im einzigen verfügbaren Hotel, weil alles andere ausgebucht ist.|
-|60|Sie übernachtete im Hostel und buchte einen Ausflug für den nächsten Tag.|
+| #   | German Answer                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------ |
+| 41  | Ihr stiegt um und der nächste Zug war direkt und verfügbar.                                      |
+| 42  | Sie stiegen an der Haltestelle um und verpassten den direkten Zug.                               |
+| 43  | Ich buche ein Ticket hin und zurück und packe meinen Koffer am Abend davor.                      |
+| 44  | Du hast ein bequemes Hotel gebucht und zwei einfache Tickets reserviert.                         |
+| 45  | Er bucht den Ausflug online und das Ticket ist verfügbar und nicht teuer.                        |
+| 46  | Sie buchte den Flug, aber das Flugzeug war ausgebucht und sie musste warten.                     |
+| 47  | Wir reservieren zwei Plätze im Zug und packen das Gepäck sorgfältig.                             |
+| 48  | Ihr habt indirekte Tickets reserviert und musstet am Bahnhof umsteigen.                          |
+| 49  | Sie haben die besten Plätze reserviert und ihr Gepäck ist bereits gepackt.                       |
+| 50  | Ich packe meinen Koffer und lege die Tickets und das Gepäck zusammen.                            |
+| 51  | Du hast schnell gepackt und den Bahnhof gerade rechtzeitig erreicht.                             |
+| 52  | Er packt seinen Koffer mit Reisekleidung und seinem Rückfahrticket.                              |
+| 53  | Sie packte das Gepäck und buchte eine Übernachtung in der Nähe des Flughafens.                   |
+| 54  | Wir werden morgen packen und dann direkt zum Bahnhof abfahren.                                   |
+| 55  | Ihr habt eure Koffer gepackt und die Reise ist endlich gebucht.                                  |
+| 56  | Sie haben alles gepackt und nichts verpasst — das Gepäck war rechtzeitig auf dem Gleis.          |
+| 57  | Ich übernachte in einem bequemen Hotel und besichtige am nächsten Morgen die Sehenswürdigkeiten. |
+| 58  | Du hast in der Nähe des Bahnhofs übernachtet und die Stadt zu Fuß erkundet.                      |
+| 59  | Er übernachtet im einzigen verfügbaren Hotel, weil alles andere ausgebucht ist.                  |
+| 60  | Sie übernachtete im Hostel und buchte einen Ausflug für den nächsten Tag.                        |
 
 ---
 
@@ -389,7 +389,7 @@ These words were needed to build logical sentences. They are not in your Known W
 
 ---
 
-**61. 🇬🇧** We stayed overnight at the hotel and visited the sights together. **🇸🇦** أقمنا ليلةً في الفندق وزرنا المعالم معًا. **🇩🇪** _______________________________________________
+**61. 🇬🇧** We stayed overnight at the hotel and visited the sights together. **🇸🇦** أقمنا ليلةً في الفندق وزرنا المعالم معًا. **🇩🇪** 
 
 ---
 

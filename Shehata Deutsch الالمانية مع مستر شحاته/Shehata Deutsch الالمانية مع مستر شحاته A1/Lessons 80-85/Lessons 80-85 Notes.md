@@ -172,30 +172,30 @@ Means "according to / in accordance with". Takes **Dativ**, often **postpositive
 
 #### Körperteile und ihre Funktionen
 
-|Artikel|Körperteil|Plural|Verben (Beispiele)|
-|---|---|---|---|
-|der|Kopf|Köpfe|arbeiten, denken, konzentrieren|
-|der|Mund|Münder|sprechen, essen, singen|
-|der|Zahn|Zähne|essen, beißen|
-|der|Hals|Hälse|schlucken|
-|der|Bauch|Bäuche|verdauen, essen|
-|der|Rücken|Rücken|schwimmen|
-|der|Arm|Arme|schwimmen, Tennis spielen|
-|der|Finger|Finger|schreiben, malen, zeichnen, Gitarre spielen|
-|der|Fuß|Füße|gehen, laufen, schwimmen, tanzen, Fußball spielen|
-|der|Elenbogen|Elenbogen|schwimmen, Tennis spielen|
-|das|Auge|Augen|sehen, lesen, fernsehen, beobachten, fotografieren|
-|das|Ohr|Ohren|hören|
-|das|Haar|Haare|wärmen|
-|das|Bein|Beine|gehen, laufen, schwimmen, Fußball spielen, Rad fahren, tanzen|
-|das|Knie|Knie|gehen, laufen, schwimmen, Fußball spielen, Rad fahren, tanzen|
-|das|Handgelenk|Handgelenke|schwimmen, Tennis spielen|
-|das|Fußgelenk|Fußgelenke|gehen, laufen, schwimmen, Fußball spielen, Rad fahren|
-|die|Nase|Nasen|riechen|
-|die|Hand|Hände|schreiben, malen, zeichnen, klatschen, kochen, fotografieren, Tennis spielen|
-|die|Zunge|Zungen|schmecken|
-|die|Brust|Brüste|atmen|
-|die|Zehe|Zehen|springen, Fußball spielen|
+| Artikel | Körperteil | Plural      | Verben (Beispiele)                                                           |
+| ------- | ---------- | ----------- | ---------------------------------------------------------------------------- |
+| der     | Kopf       | Köpfe       | arbeiten, denken, konzentrieren                                              |
+| der     | Mund       | Münder      | sprechen, essen, singen                                                      |
+| der     | Zahn       | Zähne       | essen, beißen                                                                |
+| der     | Hals       | Hälse       | schlucken                                                                    |
+| der     | Bauch      | Bäuche      | verdauen, essen                                                              |
+| der     | Rücken     | Rücken      | schwimmen                                                                    |
+| der     | Arm        | Arme        | schwimmen, Tennis spielen                                                    |
+| der     | Finger     | Finger      | schreiben, malen, zeichnen, Gitarre spielen                                  |
+| der     | Fuß        | Füße        | gehen, laufen, schwimmen, tanzen, Fußball spielen                            |
+| der     | Elenbogen  | Elenbogen   | schwimmen, Tennis spielen                                                    |
+| das     | Auge       | Augen       | sehen, lesen, fernsehen, beobachten, fotografieren                           |
+| das     | Ohr        | Ohren       | hören                                                                        |
+| das     | Haar       | Haare       | wärmen                                                                       |
+| das     | Bein       | Beine       | gehen, laufen, schwimmen, Fußball spielen, Rad fahren, tanzen                |
+| das     | Knie       | Knie        | gehen, laufen, schwimmen, Fußball spielen, Rad fahren, tanzen                |
+| das     | Handgelenk | Handgelenke | schwimmen, Tennis spielen                                                    |
+| das     | Fußgelenk  | Fußgelenke  | gehen, laufen, schwimmen, Fußball spielen, Rad fahren                        |
+| die     | Nase       | Nasen       | riechen                                                                      |
+| die     | Hand       | Hände       | schreiben, malen, zeichnen, klatschen, kochen, fotografieren, Tennis spielen |
+| die     | Zunge      | Zungen      | schmecken                                                                    |
+| die     | Brust      | Brüste      | atmen                                                                        |
+| die     | Zehe       | Zehen       | springen, Fußball spielen                                                    |
 
 **Satzmuster:**
 
