@@ -1,0 +1,7 @@
+[[B1 Set 7 words ]]
+[[B1 Set 7 Dialogues ]] | [[B1 Set 7 Dialogues English]] 
+[[B1 Set 7 Paragraphs ]] | [[B1 Set 7 Paragraphs English ]]
+[[B1 Set 7 Translation Work ]]
+[[B1 Set 7 Sentence]] | [[B1 Set 7 Sentence V2]]
+[[B1 Set 7 Sentence Translation ]]
+[[temp page for set 7]]

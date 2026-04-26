@@ -1,0 +1,41 @@
+# Eating in Everyday Life – A German Reading Passage
+
+---
+
+Every morning I get up early and have breakfast in the kitchen. I enjoy bread with butter and jam. Sometimes I also have a roll with cheese or honey. My mother often makes eggs with bacon, but I prefer a simple breakfast. On the table there is milk, yogurt, and sometimes fresh fruit. I drink a cup of tea with sugar and a few almonds on the side. My brother prefers muesli with milk and raisins. He says: "I feel great when I eat well in the morning." We have breakfast together at the dining room table. Breakfast takes about twenty minutes. Afterward we leave the house punctually at eight o'clock. The habit of having breakfast together is very important in our family. We never forget to wish each other "Good morning." Breakfast is the most enjoyable part of our daily routine.
+
+---
+
+In our kitchen we have a large refrigerator full of fresh food. In the fridge we find milk, yogurt, butter, cheese, and eggs. We also have cream and whipped cream for special recipes. My sister loves chocolate and always hides it behind the yogurt. On the stove my mother cooks a warm soup every day. She uses parsley, dill, and sometimes  coriander as fresh herbs. The smell of fresh herbs fills the entire apartment. We also have spices like salt, pepper, curry, and cinnamon in the cupboard. My father loves mustard and horseradish with his meat. Sometimes I buy ginger and thyme for special dishes. The kitchen is the heart of our home, my grandmother says. Here we meet every day, cook together, and relax. Without a good kitchen, our daily life would be very sad.
+
+---
+
+On Tuesday I plan to cook a big lunch. I start early with the preparations and first run my errands at the supermarket. On my list are beef, chicken, and pork. I also buy pasta, rice, and flour for the sauce. The salesman at the supermarket recommends fresh lamb with rosemary. I also take some ground meat for the soup. At home I cut the meat into small pieces and season it with salt, pepper, and saffron. I fry the chop slowly on the stove with a little oil and butter. The roast smells wonderful of rosemary and thyme. My daughter helps me set the dining room table. We put out chairs, plates, and glasses. The meal lasts about an hour and everyone is happy and full afterward. Eating together is an important part of our family tradition.
+
+---
+
+On Wednesdays I visit my uncle at his restaurant in the city. He is a chef and works every day from morning to late at the café and restaurant. His specialty is a schnitzel with french fries and a creamy sauce. He also prepares a skewer of veal with caraway and basil. The guests love his turkey with sesame and honey sauce. I always order the duck with red cabbage and boiled potatoes. The sausage on the menu is also very popular, especially with mustard. My uncle always uses fresh dill and parsley in his dishes. He says: "Good food needs good spices and a lot of patience." He is hardworking, creative, and very friendly to his guests. I sometimes help him at the restaurant on weekends when he is busy. Working in a restaurant is exhausting, but also very interesting. After closing time we eat together and relax.
+
+---
+
+On Thursdays I buy vegetables at the weekly market in the city. I particularly like spinach, lamb's lettuce, and arugula for fresh salads. Beetroot is very healthy and I often cook it as a side dish with meat. My wife loves Brussels sprouts with butter and nutmeg. We also buy sweet potatoes, which we roast in the oven. The green beans and white beans always go into the soup. I take fresh peppermint home for tea. Coriander and ginger make the food especially aromatic. My son doesn't like spinach, but he enjoys lamb's lettuce with vinegar and oil. We buy margarine and oil at a small shop next to the market. We plan the meals for the whole week and never forget to take along flour, sugar, and rice. Shopping on Thursday is our weekly routine. It's fun to pick out fresh products and try new recipes.
+
+---
+
+On Friday evening I prepare a cake for the weekend. I take flour, sugar, eggs, butter, and milk out of the refrigerator. Sometimes I add cinnamon, anise, and cloves for a special flavor. My mother prefers to make a layer cake with whipped cream and chocolate on top. The cake smells lovely of vanilla and cinnamon. I spread jam and butter on the finished rolls. My grandfather always eats cake with honey and a cup of tea. The children in the neighborhood often come when they smell the aroma of fresh cake. Baking starts at three o'clock and finishes at five. Afterward we relax in the living room on the sofa. Sometimes I buy chewing gum and ice cream as a little surprise for the children. The weekend always begins for us with baking and laughter. It is my favorite leisure activity besides cooking.
+
+---
+
+On Saturdays we occasionally go to a restaurant for lunch. My husband always orders fish with rice and fresh herbs. I like to have chicken with pasta and a light sauce. The children want french fries with ketchup and sausage. The waiter is very friendly and recommends the dish of the day. Today's dish is a beef roast with boiled potatoes and parsley sauce. We also order a soup as a starter with cream and dill. Eating at the restaurant is expensive, but very delicious. After the meal we have a small ice cream for dessert. The atmosphere in the restaurant is calm and cozy. We enjoy spending two hours there and relaxing. At the end we pay and say to the waiter: "Thank you, it was delicious!" Going out on Saturday is a lovely family tradition.
+
+---
+
+On Sundays lunch is always something special for us. My grandmother comes to visit and cooks her famous soup with veal, carrots, and caraway. She uses saffron for the golden color of the soup. She also makes fresh bread with sesame on top. The main course is a lamb roast with rosemary, thyme, and garlic. The sauce made from cream and mustard is simply wonderful. My grandmother also makes a salad of lamb's lettuce, arugula, and walnuts with vinegar and oil. For dessert she serves a cake with peanuts, hazelnuts, and chocolate. We all sit together around the large dining room table. The meal lasts nearly three hours because we talk and laugh a lot. Sunday is our favorite day of the week. We forget the stress and rush of daily life and enjoy the time together. The Sunday meal is a tradition we would never postpone or forget.
+
+---
+
+After the big Sunday lunch I always need a short break. I sit on the balcony or in the garden and drink peppermint tea with honey. Sometimes I eat another piece of chocolate or a few almonds and hazelnuts. My husband likes to sleep for an hour after lunch — that is his habit. The children play in the garden and eat chewing gum or ice cream. In the evening we only make something light: bread with butter, cheese, and jam. Sometimes there is also yogurt with honey and raisins. We already plan the meals for the new week on Sunday. I write a schedule and remind myself of all appointments and shopping. Organizing the week's meals is important so that we don't get rushed. With good planning the kitchen stays well stocked and the food always tasty. Food connects our family daily, weekly, and monthly. It is more than nourishment — it is love, culture, and habit all at once.
+
+---
+
+In winter we especially enjoy warm and hearty dishes. I cook soups more often from white beans, spinach, and pork. My wife loves Brussels sprouts with butter, nutmeg, and a hint of cinnamon. We also bake cakes and cookies more frequently with cloves, anise, and cinnamon. I roast the sweet potatoes in the oven with rosemary and a little oil. Ground meat with rice and curry is a quick and tasty winter dish. Ginger in the soup warms us from the inside, my mother says. Beetroot and lamb's lettuce make the winter table colorful and healthy. My father drinks tea with peppermint and honey every day against the cold. We regularly buy walnuts, peanuts, and almonds as a small snack. Cooking in winter makes us all happy and relaxed. We spend a lot of time in the kitchen and forget the cold outside. Winter is cold, but the food makes it warm and cozy.
