@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Germany/Words to Focus/B1 Words\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Germany/Germany A1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.06268191268191,
+  "lineSizeMultiplier": 1.347920997921,
+  "collapse-forces": true,
+  "centerStrength": 0.354469854469854,
+  "repelStrength": 9.83367983367983,
+  "linkStrength": 0.728690228690229,
+  "linkDistance": 122,
+  "scale": 0.11660891579457061,
+  "close": true
+}

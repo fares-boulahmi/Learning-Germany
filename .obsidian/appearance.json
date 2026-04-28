@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Primary",
+  "theme": "system",
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "accentColor": "#26c975",
+  "baseFontSize": 18
+}

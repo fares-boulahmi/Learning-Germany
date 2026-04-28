@@ -1,0 +1,479 @@
+{
+  "main": {
+    "id": "5020a526c7f0dbaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "53864ae37bed0f79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b53d6d03baa92aa2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 80-85/Lessons 80-85 exercises report error.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Lessons 80-85 exercises report error"
+            }
+          },
+          {
+            "id": "765899fd9919d72a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 6/B1 Set 6 Translation Work error.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 6 Translation Work error"
+            }
+          },
+          {
+            "id": "c09c13747bd61d5b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 80-85/Lessons 80-85 after exercises lessons.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Lessons 80-85 after exercises lessons"
+            }
+          },
+          {
+            "id": "52e4c5e9ca3a3bc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 5/B1 Set 5 Translation Work errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 5 Translation Work errors"
+            }
+          },
+          {
+            "id": "8a8a472043ebdb9d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Sentence V2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 7 Sentence V2"
+            }
+          },
+          {
+            "id": "adee648ae9e33272",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Dialogues.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 7 Dialogues"
+            }
+          },
+          {
+            "id": "bf6bd57a81569826",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Dialogues English.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 7 Dialogues English"
+            }
+          },
+          {
+            "id": "a66a240ff94a4f55",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Sentence Translation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B1 Set 7 Sentence Translation"
+            }
+          },
+          {
+            "id": "3da518094ffcc958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B1 Set 7 words"
+            }
+          },
+          {
+            "id": "edbdd04ae779f46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/known B1 words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "known B1 words"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b70a15ee8e9cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b977169bd3b0052a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ed90a2b0e481d77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3967cb17316c5a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "himmel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4cbf38dfc9977c32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "315975fef2868c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d0e767c4e3417c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8b3cd4da834578",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "pinned": true,
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "61dee471ba5e0c32",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b8bbd2fa986a12b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7839dc8c508eb1f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Germany/Words to Focus/B1 Words/Set  1/B1 Set 1 Paragraphs V2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of B1 Set 1 Paragraphs V2"
+            }
+          },
+          {
+            "id": "11898c3919649c2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Germany A1/FreeCodeBootcamp/Deutsch paragraphs 1-4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deutsch paragraphs 1-4"
+            }
+          },
+          {
+            "id": "c0c80ba75c93c90a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Germany A1/FreeCodeBootcamp/Deutsch paragraphs 1-4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deutsch paragraphs 1-4"
+            }
+          },
+          {
+            "id": "4959c6832e7b6179",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0752b6b2faa989aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0156b37f80463137",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {},
+              "icon": "database",
+              "title": "Sets"
+            }
+          },
+          {
+            "id": "6faf9c9b42951bac",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Sets-view"
+            }
+          },
+          {
+            "id": "d57684f3b65768bf",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "Sets-view"
+            }
+          },
+          {
+            "id": "900c2e650c0ca9d8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3cbf980613802763",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {},
+              "icon": "database",
+              "title": "Sets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "a66a240ff94a4f55",
+  "lastOpenFiles": [
+    "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 words.md",
+    "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Sentence Translation.md",
+    "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Dialogues English.md",
+    "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Sentence V2.md",
+    "Germany/Words to Focus/B1 Words/Set 7/B1 Set 7 Dialogues.md",
+    "Germany/Words to Focus/B1 Words/Set 5/B1 Set 5 Translation Work errors.md",
+    "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 80-85/Lessons 80-85 after exercises lessons.md",
+    "Germany/Words to Focus/B1 Words/known B1 words.md",
+    "Germany/Words to Focus/B1 Words/Set 8/Set 8.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 words.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Translation Work.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Sentence Translation.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Sentence.md",
+    "2026-04-28.md",
+    "Germany/Words to Focus/B1 Words/Set 7/Set 7.md",
+    "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 80-85/Lessons 80-85 exercises report error.md",
+    "Germany/Words to Focus/B1 Words/Set 6/B1 Set 6 Translation Work error.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Dialogues.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Dialogues English.md",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-202141.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/temp page for set 8.md",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-202102.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-202025.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201949.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201900 1.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201900.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201823.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201745.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201709.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/Attachments/TTSOL-de-DE-Conrad-20260427-201633.mp3",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Paragraphs.md",
+    "Germany/Words to Focus/B1 Words/Set 8/B1 Set 8 Paragraphs English.md",
+    "Germany/Words to Focus/B1 Words/Generate Translation Sentence V2.md",
+    "Germany/Words to Focus/B1 Words/B1 Words.md",
+    "Germany/Words to Focus/B1 Words/Generate Translation Work V2.md",
+    "Germany/Words to Focus/B1 Words/Connected Paragraphs.md",
+    "Germany/Words to Focus/B1 Words/Attachments/Pasted image 20260421183011.png",
+    "Germany/Words to Focus/B1 Words/Attachments/Pasted image 20260421182851.png",
+    "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 73-79/Attachments/Pasted image 20260417081559.png",
+    "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 34-38/Untitled 1.canvas",
+    "Germany/Shehata Deutsch الالمانية مع مستر شحاته/Shehata Deutsch الالمانية مع مستر شحاته A1/Lessons 34-38/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "backend.jpg",
+    "image 67.png",
+    "image 2 4.png",
+    "image 1 3.png",
+    "image 81.png",
+    "image 80.png",
+    "image 79.png"
+  ]
+}
